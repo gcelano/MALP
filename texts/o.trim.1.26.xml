@@ -1,0 +1,128 @@
+<text text-id="o.trim.1.26">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="convex.1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Πετοσῖρις</f>
+    </t>
+    <t p="convex.1" n="2" a="[1]" o="a-p---na-" u="2">
+      <f>Ψενθηθ</f>
+    </t>
+    <t p="convex.1" n="3" a="[1]" o="n-p---na-" u="3">
+      <f>κεράμια</f>
+      <l r="n--p---na-">κεράμιον</l>
+      <e>κεράμιον</e>
+    </t>
+    <t p="convex.1" n="4" a="[1]" o="v3spia---" u="4">
+      <f>ιϛ</f>
+    </t>
+    <t p="convex.2" n="1" a="[1]" o="n-s---mn-" u="5">
+      <f>Σαμῶς</f>
+    </t>
+    <t p="convex.2" n="2" a="[1]" o="a-p---na-" u="6">
+      <f>Πατχωτ</f>
+    </t>
+    <t p="convex.2" n="3" a="[1]" o="a-p---na-" u="7">
+      <f>κεράμια</f>
+    </t>
+    <t p="convex.2" n="4" a="[1]" o="n-p---na-" u="8">
+      <f>ιη</f>
+    </t>
+    <t p="convex.2" n="5" a="[1]" o="d--------" u="9">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="convex.2" n="6" a="[1]" o="r--------" u="10">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="convex.2" n="7" a="[1]" o="v3sti----" u="11">
+      <f>προσ</f>
+    </t>
+    <t p="convex.3" n="1" a="[1]" o="n-s---fg-" u="12">
+      <f>θήκης</f>
+      <l r="n--s---fg-">θήκη</l>
+      <e>θήκη</e>
+    </t>
+    <t p="convex.3" n="2" a="[1]" o="n-s---na-" u="13">
+      <f>κεράμιον</f>
+      <l r="n--s---na-">κεράμιον</l>
+      <e>κεράμιον</e>
+    </t>
+    <t p="convex.3" n="3" a="[1]" o="--------" u="14">
+      <f>α</f>
+    </t>
+    <t p="convex.3" n="4" a="[1]" join="b" o="u--------" u="15">
+      <f>,</f>
+    </t>
+    <t p="convex.3" n="5" a="[1]" o="d--------" u="16">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="convex.3" n="6" a="[1]" o="r--------" u="17">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="convex.3" n="7" a="[1]" o="n-s---fg-" u="18">
+      <f>προσθήκης</f>
+      <l r="n--s---fg-">προσθήκη</l>
+      <e>προσθήκη</e>
+    </t>
+    <t p="convex.3" n="8" a="[2]" o="n-s---na-" u="19">
+      <f>κεράμιον</f>
+      <l r="n--s---na-">κεράμιον</l>
+      <e>κεράμιον</e>
+    </t>
+    <t p="convex.3" n="9" a="[2]" o="--------" u="20">
+      <f>α</f>
+    </t>
+    <t p="convex.4" n="1" a="[1]" o="n-s---mn-" u="21">
+      <f>Βῆκις</f>
+    </t>
+    <t p="convex.4" n="2" a="[1]" o="n-s---mn-" u="22">
+      <f>Ψάιτος</f>
+    </t>
+    <t p="convex.4" n="3" a="[1]" o="a-s---mg-" u="23">
+      <f>ἐλαίου</f>
+    </t>
+    <t p="convex.4" n="4" a="[1]" o="n-p---mn-" u="24">
+      <f>χόες</f>
+      <l r="n--p---mn-">χοῦς</l>
+      <e>χοῦς</e>
+    </t>
+    <t p="convex.4" n="5" a="[1]" o="p-d---ma-" u="25">
+      <f>λβ</f>
+    </t>
+    <t p="convex.4" n="6" a="[1]" o="d--------" u="26">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="convex.4" n="7" a="[1]" o="r--------" u="27">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="convex.4" n="8" a="[1]" o="n-s---fg-" u="28">
+      <f>προσθήκης</f>
+      <l r="n--s---fg-">προσθήκη</l>
+      <e>προσθήκη</e>
+    </t>
+    <t p="convex.5" n="1" a="[1]" o="n-p---fn-" u="29">
+      <f>χόες</f>
+    </t>
+    <t p="convex.5" n="2" a="[1]" o="a-p---fn-" u="30">
+      <f>λβ</f>
+    </t>
+    <t p="convex.5" n="3" a="[1]" join="b" o="u--------" u="31">
+      <f>.</f>
+    </t>
+  </s>
+</text>

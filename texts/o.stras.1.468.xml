@@ -1,0 +1,82 @@
+<text text-id="o.stras.1.468">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="v1pria---" u="1">
+      <f>ἐσχήκαμεν</f>
+      <l r="v-1pria---">ἔχω</l>
+      <e>ἔχω</e>
+    </t>
+    <t p="2" n="1" a="[1]" o="r--------" u="2">
+      <f>παρὰ</f>
+      <l r="r---------">παρά</l>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---mg-" u="3">
+      <f>Πηκότος</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="a-s---mg-" u="4">
+      <f>Καλιτῶ</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="r--------" u="5">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="3" n="3" a="[1]" o="l-s---na-" u="6">
+      <f>ιζ</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="a-p---ma-" u="7">
+      <f>ἔτους</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---na-" u="8">
+      <f>κρέως</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-p---fa-" u="9">
+      <f>λίτρας</f>
+      <l r="n--p---fa-">λίτρα</l>
+      <e>λίτρα</e>
+    </t>
+    <t p="4" n="3" a="[1]" o="a--------" u="10">
+      <f>τριάκο</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="v-sapama-" u="11">
+      <f>ντα</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="m--------" u="12">
+      <f>πέντε</f>
+      <e>πέντε</e>
+    </t>
+    <t p="5" n="3" a="[1]" o="n-s---na-" u="13">
+      <f>Φαρ</f>
+    </t>
+    <t p="6" n="1" a="[1]" o="v2sama---" u="14">
+      <f>μοῦθι</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="v1pfimf--" u="15">
+      <f>ιδ</f>
+    </t>
+    <t p="6" n="3" a="[1]" join="b" o="u--------" u="16">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="6" n="4" a="[1]" o="n-s---mn-" u="1">
+      <f>Φίλων</f>
+      <l r="ne-s---mn-">Φίλων</l>
+    </t>
+    <t p="7" n="1" a="[1]" o="v1spse---" u="2">
+      <f>σεσημείωμαι</f>
+    </t>
+    <t p="7" n="2" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+</text>

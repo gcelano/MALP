@@ -1,0 +1,134 @@
+<text text-id="bgu.1.304">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="a-s---md-" u="1">
+      <f>Φλαουίῳ</f>
+    </t>
+    <t p="r.1" n="2" a="[1]" o="n-s---md-" u="2">
+      <f>Χριστοφόρῳ</f>
+    </t>
+    <t p="r.1" n="3" a="[1]" o="l-s---md-" u="3">
+      <f>τῷ</f>
+      <e>ὁ</e>
+      <e>ὁ</e>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="a-s---mds" u="4">
+      <f>μεγαλοπρεπεστάτῳ</f>
+      <l r="a--s---mds">μεγαλοπρεπής</l>
+      <e>μεγαλοπρεπής</e>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="n-s---md-" u="5">
+      <f>παγάρχῳ</f>
+    </t>
+    <t p="r.2" n="3" a="[1]" o="l-s---mg-" u="6">
+      <f>τοῦ</f>
+      <e>ὁ</e>
+    </t>
+    <t p="r.2" n="4" a="[1]" o="a-s---mg-" u="7">
+      <f>βορρινοῦ</f>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="n-s---ng-" u="8">
+      <f>σκέλους</f>
+      <l r="n--s---ng-">σκέλος</l>
+      <e>σκέλος</e>
+    </t>
+    <t p="r.3" n="2" a="[1]" o="a-s---fg-" u="9">
+      <f>ταύτης</f>
+      <e>οὗτος</e>
+    </t>
+    <t p="r.3" n="3" a="[1]" o="l-s---fg-" u="10">
+      <f>τῆς</f>
+      <e>ὁ</e>
+    </t>
+    <t p="r.3" n="4" a="[1]" o="n-s---fg-" u="11">
+      <f>πολιτείας</f>
+      <l r="n--s---fg-">πολιτεία</l>
+      <e>πολιτεία</e>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="c--------" u="12">
+      <f>διʼ</f>
+      <l r="c---------">διό</l>
+    </t>
+    <t p="r.4" n="2" a="[1]" o="p-p---mg-" u="13">
+      <f>ὑμῶν</f>
+      <l r="ps-p---mg-">ὑμός</l>
+    </t>
+    <t p="r.4" n="3" a="[1]" o="n-s---fn-" u="14">
+      <f>Κοσμᾶ</f>
+    </t>
+    <t p="r.4" n="4" a="[1]" o="l-s---mg-" u="15">
+      <f>τοῦ</f>
+      <e>ὁ</e>
+    </t>
+    <t p="r.4" n="5" a="[1]" o="a-s---mg-" u="16">
+      <f>περιβλέπτου</f>
+    </t>
+    <t p="r.5" n="1" a="[1]" o="d--------" u="17">
+      <f>αὐτοῦ</f>
+      <l r="dd--------">αὐτός</l>
+      <e>αὐτοῦ</e>
+    </t>
+    <t p="r.5" n="2" a="[1]" o="a-s---mg-" u="18">
+      <f>χαρτουλαρίου</f>
+    </t>
+    <t p="r.5" n="3" a="[1]" o="n-s---fg-" u="19">
+      <f>Ἠλίας</f>
+    </t>
+    <t p="r.5" n="4" a="[1]" o="a-s---fg-" u="20">
+      <f>ἀρτοπράτης</f>
+    </t>
+    <t p="r.6" n="1" a="[1]" o="n-s---mn-" u="21">
+      <f>υἱὸς</f>
+      <l r="n--s---mn-">υἱός</l>
+    </t>
+    <t p="r.6" n="2" a="[1]" o="n-s---mg-" u="22">
+      <f>Γεωργίου</f>
+      <l r="ne-s---mg-">Γεώργιος</l>
+    </t>
+    <t p="r.6" n="3" a="[1]" o="r--------" u="23">
+      <f>ἀφʼ</f>
+      <l r="r---------">ἀπό</l>
+    </t>
+    <t p="r.6" n="4" a="[1]" o="n-s---mg-" u="24">
+      <f>Ἡρακλέους</f>
+      <l r="ne-s---mg-">Ἡρακλέης</l>
+    </t>
+    <t p="r.6" n="5" a="[1]" o="n-s---fg-" u="25">
+      <f>πόλεως</f>
+      <l r="n--s---fg-">πόλις</l>
+      <e>πόλις</e>
+    </t>
+    <t p="r.7" n="1" a="[1]" o="d--------" u="26">
+      <f>ἑξῆς</f>
+      <l r="d---------">ἑξῆς</l>
+      <e>ἑξῆς</e>
+    </t>
+    <t p="r.7" n="2" a="[1]" o="v-sppamn-" u="27">
+      <f>ὑπογράφων</f>
+      <l r="v--sppamn-">ὑπογράφω</l>
+    </t>
+    <t p="r.7" n="3" a="[1]" o="a-s---fd-" u="28">
+      <f>ἰδίᾳ</f>
+      <l r="a--s---fd-">ἴδιος</l>
+      <e>ἴδιος</e>
+    </t>
+    <t p="r.7" n="4" a="[1]" o="n-s---fd-" u="29">
+      <f>χειρί</f>
+      <l r="n--s---fd-">χείρ</l>
+      <e>χείρ</e>
+    </t>
+    <t p="r.7" n="5" a="[1]" join="b" o="u--------" u="30">
+      <f>.</f>
+    </t>
+  </s>
+</text>

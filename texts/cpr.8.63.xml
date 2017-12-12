@@ -1,0 +1,89 @@
+<text text-id="cpr.8.63">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="d--------" u="1">
+      <f>τῷ</f>
+      <l r="d---------">τῷ</l>
+      <e>τῷ</e>
+      <e>τῷ</e>
+    </t>
+    <t p="r.1" n="2" a="[1]" o="a-s---mds" u="2">
+      <f>τιμιωτάτῳ</f>
+      <l r="a--s---mds">τίμιος</l>
+      <e>τίμιος</e>
+    </t>
+    <t p="r.1" n="3" a="[1]" o="n-s---md-" u="3">
+      <f>Παύλῳ</f>
+      <l r="ne-s---md-">Παῦλος</l>
+    </t>
+    <t p="r.1" n="4" a="[1]" join="b" o="u--------" u="4">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="r.2" n="1" a="[1]" o="a-p---nn-" u="1">
+      <f>ὀλίγα</f>
+      <l r="a--p---nn-">ὀλίγος</l>
+      <e>ὀλίγος</e>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="n-p---nn-" u="2">
+      <f>κνίδια</f>
+    </t>
+    <t p="r.2" n="3" a="[1]" o="a-p---nn-" u="3">
+      <f>πενταξεστιαῖα</f>
+    </t>
+    <t p="r.2" n="4" a="[1]" o="a-p---nn-" u="4">
+      <f>μουσταρ</f>
+    </t>
+    <t p="r.2" n="5" a="[1]" o="--------" u="5">
+      <f>α</f>
+    </t>
+    <t p="r.2" n="6" a="[1]" o="v2sama---" u="6">
+      <f>σπούδασον</f>
+      <l r="v-2sama---">σπουδάζω</l>
+      <e>σπουδάζω</e>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="v--ana---" u="7">
+      <f>ἀποστεῖλαι</f>
+      <l r="v---ana---">ἀποστέλλω</l>
+      <e>ἀποστέλλω</e>
+    </t>
+    <t p="r.3" n="2" a="[1]" o="r--------" u="8">
+      <f>εἰς</f>
+      <l r="r---------">εἰς</l>
+      <e>εἰς</e>
+    </t>
+    <t p="r.3" n="3" a="[1]" o="l-s---fa-" u="9">
+      <f>τὴν</f>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="n-s---fa-" u="10">
+      <f>ἑορτὴν</f>
+      <l r="n--s---fa-">ἑορτή</l>
+    </t>
+    <t p="r.4" n="2" a="[1]" o="d--------" u="11">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="r.4" n="3" a="[1]" o="l-s---fa-" u="12">
+      <f>τὴν</f>
+    </t>
+    <t p="r.4" n="4" a="[1]" o="n-s---fa-" u="13">
+      <f>ἀγοράν</f>
+      <l r="n--s---fa-">ἀγορά</l>
+      <e>ἀγορά</e>
+    </t>
+    <t p="r.4" n="5" a="[1]" join="b" o="u--------" u="14">
+      <f>.</f>
+    </t>
+  </s>
+</text>

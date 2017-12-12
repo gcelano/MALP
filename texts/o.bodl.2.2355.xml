@@ -1,0 +1,38 @@
+<text text-id="o.bodl.2.2355">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="v2spma---" u="1">
+      <f>Φαρμοῦθι</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="r--------" u="2">
+      <f>Ταμ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="a-s---fg-" u="3">
+      <f>ἐλαιοπώλης</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="r--------" u="4">
+      <f>ἐπὶ</f>
+      <l r="r---------">ἐπί</l>
+      <e>ἐπί</e>
+    </t>
+    <t p="3" n="2" a="[1]" o="a-p---nd-" u="5">
+      <f>ἱματίοις</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="u--------" u="6">
+      <f>σ</f>
+    </t>
+    <t p="3" n="4" a="[1]" join="b" o="u--------" u="7">
+      <f>.</f>
+    </t>
+  </s>
+</text>

@@ -1,0 +1,73 @@
+<text text-id="o.wilck.14">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="a-s---mn-" u="1">
+      <f>Ῥουφώνιος</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Ἀντίγονος</f>
+      <l r="ne-s---mn-">Ἀντίγονος</l>
+    </t>
+    <t p="1" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="1" n="4" a="[1]" o="v3sria---" u="1">
+      <f>διαγεγράφηκεν</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---mn-" u="2">
+      <f>Τύραννος</f>
+      <l r="ne-s---mn-">Τύραννος</l>
+    </t>
+    <t p="2" n="2" a="[1]" o="r--------" u="3">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---fg-" u="4">
+      <f>γεωμετρίας</f>
+      <l r="n--s---fg-">γεωμετρία</l>
+      <e>γεωμετρία</e>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---mg-" u="5">
+      <f>φοινικῶνος</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="--------" u="6">
+      <f>δ</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="a-p---ma-" u="7">
+      <f>ἔτους</f>
+    </t>
+    <t p="3" n="5" a="[1]" o="n-p---fa-" u="8">
+      <f>δραχμὰς</f>
+      <l r="n--p---fa-">δραχμή</l>
+    </t>
+    <t p="4" n="1" a="[1]" o="m--------" u="9">
+      <f>ὀκτὼ</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="v3ppie---" u="10">
+      <f>γίνονται</f>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="4" n="3" a="[1]" o="n-p---fn-" u="11">
+      <f>δραχμαὶ</f>
+      <l r="n--p---fn-">δραχμή</l>
+    </t>
+    <t p="4" n="4" a="[1]" o="--------" u="12">
+      <f>η</f>
+    </t>
+    <t p="4" n="5" a="[1]" join="b" o="u--------" u="13">
+      <f>.</f>
+    </t>
+  </s>
+</text>

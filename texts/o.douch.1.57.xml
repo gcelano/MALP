@@ -1,0 +1,114 @@
+<text text-id="o.douch.1.57">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1.1" n="1" a="[1]" o="r--------" u="1">
+      <f>πρὸς</f>
+      <l r="r---------">πρός</l>
+    </t>
+    <t p="1.1" n="2" a="[1]" o="n-s---ma-" u="2">
+      <f>Ἰσοκράτην</f>
+      <l r="ne-s---ma-">Ἰσοκράτης</l>
+    </t>
+    <t p="1.2" n="1" a="[1]" o="r--------" u="3">
+      <f>εἰς</f>
+      <l r="r---------">εἰς</l>
+      <e>εἰς</e>
+    </t>
+    <t p="1.2" n="2" a="[1]" o="a-s---ma-" u="4">
+      <f>ἀρτοκόπιον</f>
+    </t>
+    <t p="1.2" n="3" a="[1]" o="a-s---mg-" u="5">
+      <f>δημοσίου</f>
+      <l r="a--s---mg-">δημόσιος</l>
+      <e>δημόσιος</e>
+    </t>
+    <t p="1.2" n="4" a="[1]" o="n-s---fn-" u="6">
+      <f>ἀρτάβη</f>
+      <l r="n--s---fn-">ἀρτάβη</l>
+      <e>ἀρτάβη</e>
+    </t>
+    <t p="1.2" n="5" a="[1]" o="--------" u="7">
+      <f>α</f>
+    </t>
+    <t p="1.3" n="1" a="[1]" o="d--------" u="8">
+      <f>ὁμοίως</f>
+      <l r="d---------">ὅμοιος</l>
+      <e>ὅμοιος</e>
+    </t>
+    <t p="1.3" n="2" a="[1]" o="n-s---ng-" u="9">
+      <f>δημοσίου</f>
+    </t>
+    <t p="1.3" n="3" a="[1]" o="n-p---na-" u="10">
+      <f>μάτια</f>
+    </t>
+    <t p="1.3" n="4" a="[1]" o="u--------" u="11">
+      <f>ζ</f>
+    </t>
+    <t p="1.4" n="1" a="[1]" o="d--------" u="12">
+      <f>ὁμοίως</f>
+      <l r="d---------">ὅμοιος</l>
+      <e>ὅμοιος</e>
+    </t>
+    <t p="1.4" n="2" a="[1]" o="a-p---mn-" u="13">
+      <f>ἐμοὶ</f>
+    </t>
+    <t p="1.4" n="3" a="[1]" o="n-p---na-" u="14">
+      <f>μάτια</f>
+    </t>
+    <t p="1.4" n="4" a="[1]" o="v1spsa---" u="15">
+      <f>γ</f>
+    </t>
+    <t p="1.5" n="1" a="[1]" o="d--------" u="16">
+      <f>ἔτι</f>
+      <l r="d---------">ἔτι</l>
+      <e>ἔτι</e>
+    </t>
+    <t p="1.5" n="2" a="[1]" o="l-s---mn-" u="17">
+      <f>ὁ</f>
+      <e>ὁ</e>
+    </t>
+    <t p="1.5" n="3" a="[1]" o="u--------" u="18">
+      <f>μ</f>
+    </t>
+    <t p="1.5" n="4" a="[1]" o="d--------" u="19">
+      <f>οίως</f>
+    </t>
+    <t p="1.5" n="5" a="[1]" o="r--------" u="20">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="1.5" n="6" a="[1]" o="n-p---mg-" u="21">
+      <f>στρατιωτῶν</f>
+      <l r="n--p---mg-">στρατιώτης</l>
+      <e>στρατιώτης</e>
+    </t>
+    <t p="1.6" n="1" a="[1]" o="n-s---nd-" u="22">
+      <f>μέτρῳ</f>
+      <l r="n--s---nd-">μέτρον</l>
+      <e>μέτρον</e>
+    </t>
+    <t p="1.6" n="2" a="[1]" o="a-s---nd-" u="23">
+      <f>σιδηρῷ</f>
+      <e>σιδήρεος</e>
+    </t>
+    <t p="1.6" n="3" a="[1]" o="a-s---nd-" u="24">
+      <f>ἀρτάβαι</f>
+    </t>
+    <t p="1.6" n="4" a="[1]" o="n-s---nd-" u="25">
+      <f>η</f>
+    </t>
+    <t p="1.6" n="5" a="[1]" join="b" o="u--------" u="26">
+      <f>.</f>
+    </t>
+  </s>
+</text>

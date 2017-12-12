@@ -1,0 +1,206 @@
+<text text-id="o.did.397">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="convex.2" n="1" a="[1]" o="i--------" u="1">
+      <f>αδυ</f>
+    </t>
+    <t p="convex.3" n="1" a="[1]" o="v2spia---" u="2">
+      <f>γράφεις</f>
+      <l r="v-2spia---">γράφω</l>
+      <e>γράφω</e>
+    </t>
+    <t p="convex.3" n="2" a="[1]" o="p-s---md-" u="3">
+      <f>μοι</f>
+    </t>
+    <t p="convex.4" n="1" a="[1]" o="u--------" u="4">
+      <f>ω</f>
+    </t>
+    <t p="convex.4" n="2" a="[1]" o="c--------" u="5">
+      <f>εἰ</f>
+      <l r="c---------">εἰ</l>
+      <e>εἰ</e>
+    </t>
+    <t p="convex.4" n="3" a="[1]" o="v-sapang-" u="6">
+      <f>λαμ</f>
+    </t>
+    <t p="convex.5" n="1" a="[1]" o="v2spia---" u="7">
+      <f>λαμβάνεις</f>
+      <l r="v-2spia---">λαμβάνω</l>
+      <e>λαμβάνω</e>
+    </t>
+    <t p="convex.6" n="1" a="[1]" o="p-s---md-" u="8">
+      <f>μοι</f>
+    </t>
+    <t p="convex.6" n="2" a="[1]" o="v--pna---" u="9">
+      <f>γράφειν</f>
+      <l r="v---pna---">γράφω</l>
+      <e>γράφω</e>
+    </t>
+    <t p="convex.6" n="3" a="[1]" o="g--------" u="10">
+      <f>ἄν</f>
+      <l r="gm--------">ἄν</l>
+      <e>ἄν</e>
+    </t>
+    <t p="convex.7" n="1" a="[1]" o="p-s---mg-" u="11">
+      <f>τινος</f>
+    </t>
+    <t p="convex.7" n="2" a="[1]" o="p-s---fn-" u="12">
+      <f>σὺ</f>
+    </t>
+    <t p="convex.7" n="3" a="[1]" o="n-s---fa-" u="13">
+      <f>χρίαν</f>
+    </t>
+    <t p="convex.7" n="4" a="[1]" o="v2spsa---" u="14">
+      <f>ἔχῃς</f>
+      <l r="v-2spsa---">ἔχω</l>
+      <e>ἔχω</e>
+    </t>
+    <t p="convex.7" n="5" a="[1]" join="b" o="u--------" u="15">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="convex.8" n="1" a="[1]" o="d--------" u="1">
+      <f>ἂν</f>
+    </t>
+    <t p="convex.8" n="2" a="[1]" o="d--------" u="2">
+      <f>ποιήσω</f>
+    </t>
+    <t p="convex.8" n="3" a="[1]" o="l-s---nn-" u="3">
+      <f>τὸ</f>
+      <e>ὁ</e>
+    </t>
+    <t p="convex.8" n="4" a="[1]" o="n-s---nn-" u="4">
+      <f>ὀρόβιον</f>
+    </t>
+    <t p="convex.9" n="1" a="[1]" o="v1sfia---" u="5">
+      <f>πέμψω</f>
+      <l r="v-1sfia---">πέμπω</l>
+      <e>πέμπω</e>
+    </t>
+    <t p="convex.9" n="2" a="[1]" o="p2s---md-" u="6">
+      <f>σοι</f>
+    </t>
+    <t p="convex.9" n="3" a="[1]" o="r--------" u="7">
+      <f>ἐξ</f>
+      <l r="r---------">ἐκ</l>
+      <e>ἐκ</e>
+      <e>ἐξ</e>
+    </t>
+    <t p="convex.9" n="4" a="[1]" o="d--------" u="8">
+      <f>αὐτοῦ</f>
+      <l r="dd--------">αὐτός</l>
+      <e>αὐτοῦ</e>
+    </t>
+    <t p="convex.9" n="5" a="[1]" join="b" o="u--------" u="9">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="convex.10" n="1" a="[1]" o="v2spme---" u="1">
+      <f>ἀσπάζου</f>
+      <e>ἀσπάζομαι</e>
+    </t>
+    <t p="convex.10" n="2" a="[1]" o="n-s---ma-" u="2">
+      <f>Παλατῖνον</f>
+    </t>
+    <t p="convex.11" n="1" a="[1]" o="d--------" u="3">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="convex.11" n="2" a="[1]" o="n-s---ma-" u="4">
+      <f>Ἀνθέστιον</f>
+    </t>
+    <t p="convex.11" n="3" a="[2]" o="d--------" u="5">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="convex.11" n="4" a="[1]" o="n-s---mg-" u="6">
+      <f>Ἀπο</f>
+    </t>
+    <t p="convex.12" n="1" a="[1]" o="a-s---ma-" u="7">
+      <f>λλώνιον</f>
+    </t>
+    <t p="convex.12" n="2" a="[1]" o="c--------" u="8">
+      <f>καὶ</f>
+      <l r="c---------">καί</l>
+      <e>καί</e>
+    </t>
+    <t p="convex.12" n="3" a="[1]" o="v3sfia---" u="9">
+      <f>λήμψει</f>
+    </t>
+    <t p="convex.13" n="1" a="[1]" o="r--------" u="10">
+      <f>ἀπὸ</f>
+      <l r="r---------">ἀπό</l>
+    </t>
+    <t p="convex.13" n="2" a="[1]" o="n-s---mg-" u="11">
+      <f>Παλατίνου</f>
+    </t>
+    <t p="convex.13" n="3" a="[1]" o="a-s---mg-" u="12">
+      <f>ἀγ</f>
+    </t>
+    <t p="convex.14" n="1" a="[1]" o="n-s---na-" u="13">
+      <f>γεῖον</f>
+    </t>
+    <t p="convex.14" n="2" a="[1]" o="d--------" u="14">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="convex.14" n="3" a="[1]" o="r--------" u="15">
+      <f>ἀπὸ</f>
+      <l r="r---------">ἀπό</l>
+    </t>
+    <t p="convex.14" n="4" a="[1]" o="l-s---ng-" u="16">
+      <f>Ἀπολ</f>
+    </t>
+    <t p="convex.15" n="1" a="[1]" o="n-s---ng-" u="17">
+      <f>λωνίου</f>
+    </t>
+    <t p="convex.15" n="2" a="[1]" o="d--------" u="18">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="convex.15" n="3" a="[1]" o="p-s---na-" u="19">
+      <f>τὸ</f>
+      <l r="pa-s---na-">ὁ</l>
+      <l r="pr-s---na-">ὅς</l>
+    </t>
+    <t p="convex.15" n="4" a="[1]" o="a-s---na-" u="20">
+      <f>σόν</f>
+      <e>σός</e>
+    </t>
+    <t p="convex.15" n="5" a="[1]" join="b" o="u--------" u="21">
+      <f>,</f>
+    </t>
+    <t p="convex.16" n="1" a="[1]" o="d--------" u="22">
+      <f>ὅπου</f>
+      <l r="di--------">ὅπου</l>
+      <l r="dr--------">ὅπου</l>
+      <e>ὅπου</e>
+    </t>
+    <t p="convex.16" n="2" a="[1]" o="p2s----d-" u="23">
+      <f>σοι</f>
+    </t>
+    <t p="convex.16" n="3" a="[1]" o="v1saia---" u="24">
+      <f>ἔπεμψα</f>
+      <l r="v-1saia---">πέμπω</l>
+      <e>πέμπω</e>
+    </t>
+    <t p="convex.17" n="1" a="[1]" o="n-p---na-" u="25">
+      <f>σταφύλια</f>
+    </t>
+    <t p="convex.17" n="2" a="[1]" join="b" o="u--------" u="26">
+      <f>.</f>
+    </t>
+  </s>
+</text>

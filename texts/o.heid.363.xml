@@ -1,0 +1,99 @@
+<text text-id="o.heid.363">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---fn-" u="1">
+      <f>ἀρουρ</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="--------" u="2">
+      <f>α</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="d--------" u="3">
+      <f>𐅸</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="l-s---ng-" u="4">
+      <f>ηιϛ</f>
+    </t>
+    <t p="1" n="5" a="[1]" o="a-s---ng-" u="5">
+      <f>πυροῦ</f>
+    </t>
+    <t p="1" n="6" a="[1]" o="--------" u="6">
+      <f>δ</f>
+    </t>
+    <t p="1" n="7" a="[2]" o="--------" u="7">
+      <f>δ</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="u--------" u="8">
+      <f>υ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="d--------" u="9">
+      <f>ἱερ</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="d--------" u="10">
+      <f>υπ</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="n-p---fn-" u="11">
+      <f>ἄρουραι</f>
+      <l r="n--p---fn-">ἄρουρα</l>
+      <e>ἄρουρα</e>
+    </t>
+    <t p="2" n="5" a="[1]" o="u--------" u="12">
+      <f>δ</f>
+    </t>
+    <t p="2" n="6" a="[1]" o="v-sapama-" u="13">
+      <f>ξδ</f>
+    </t>
+    <t p="2" n="7" a="[1]" o="n-s---mg-" u="14">
+      <f>πυροῦ</f>
+      <l r="n--s---mg-">πυρός</l>
+      <e>πυρός</e>
+    </t>
+    <t p="2" n="8" a="[1]" o="n-p---fn-" u="15">
+      <f>ἀρτάβαι</f>
+      <e>ἀρτάβη</e>
+    </t>
+    <t p="2" n="9" a="[1]" o="v3spoa---" u="16">
+      <f>η</f>
+    </t>
+    <t p="2" n="10" a="[1]" o="n-s---fd-" u="17">
+      <f>𐅵γκδ</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="--------" u="18">
+      <f>β</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---mg-" u="19">
+      <f>πυροῦ</f>
+      <l r="n--s---mg-">πυρός</l>
+      <e>πυρός</e>
+    </t>
+    <t p="3" n="3" a="[1]" o="v3saia---" u="20">
+      <f>ε</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---fg-" u="21">
+      <f>ἀρούρης</f>
+      <l r="n--s---fg-">ἄρουρα</l>
+      <e>ἄρουρα</e>
+    </t>
+    <t p="3" n="5" a="[1]" o="r--------" u="22">
+      <f>ξδ</f>
+    </t>
+    <t p="3" n="6" a="[2]" o="n-s---ng-" u="23">
+      <f>πυροῦ</f>
+    </t>
+    <t p="3" n="7" a="[1]" o="v3spoa---" u="24">
+      <f>η</f>
+    </t>
+    <t p="3" n="8" a="[1]" join="b" o="u--------" u="25">
+      <f>.</f>
+    </t>
+  </s>
+</text>

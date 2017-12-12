@@ -1,0 +1,180 @@
+<text text-id="o.wilck.1194">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Ἡρακλείδης</f>
+      <l r="ne-s---mn-">Ἡρακλείδης</l>
+    </t>
+    <t p="r.1" n="2" a="[1]" o="a-s---mn-" u="2">
+      <f>νεώτερος</f>
+      <e>νεώτερος</e>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="a-s---mn-" u="3">
+      <f>Ἁρπαῆσις</f>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="n-s---mn-" u="4">
+      <f>υἱός</f>
+      <l r="n--s---mn-">υἱός</l>
+      <e>υἱός</e>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="n-s---mn-" u="5">
+      <f>Ἰάσων</f>
+      <l r="ne-s---mn-">Ἰάσων</l>
+    </t>
+    <t p="r.3" n="2" a="[1]" o="n-s---fn-" u="6">
+      <f>Κλη</f>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="n-s---mn-" u="7">
+      <f>Φιλοκλῆς</f>
+      <l r="ne-s---mn-">Φιλοκλέης</l>
+    </t>
+    <t p="r.4" n="2" a="[1]" o="n-s---mg-" u="8">
+      <f>Εὐμαίου</f>
+      <l r="ne-s---mg-">Εὔμαιος</l>
+    </t>
+    <t p="r.5" n="1" a="[1]" o="n-s---mn-" u="9">
+      <f>Πιθόλαος</f>
+    </t>
+    <t p="r.6" n="1" a="[1]" o="n-s---fn-" u="10">
+      <f>Ψεννετῦμις</f>
+    </t>
+    <t p="r.7" n="1" a="[1]" o="a-p---mg-" u="11">
+      <f>Σαραπίων</f>
+    </t>
+    <t p="r.7" n="2" a="[1]" o="n-s---fn-" u="12">
+      <f>Φα</f>
+    </t>
+    <t p="r.8" n="1" a="[1]" o="n-s---mg-" u="13">
+      <f>Κομανός</f>
+    </t>
+    <t p="r.9" n="1" a="[1]" o="n-s---mn-" u="14">
+      <f>Ἀμμώνιος</f>
+      <l r="ne-s---mn-">Ἀμμώνιος2</l>
+    </t>
+    <t p="r.9" n="2" a="[1]" o="n-s---fn-" u="15">
+      <f>Εὐμη</f>
+    </t>
+    <t p="r.10" n="1" a="[1]" o="n-s---mn-" u="16">
+      <f>Κρύτων</f>
+    </t>
+    <t p="r.11" n="1" a="[1]" o="n-s---mn-" u="17">
+      <f>Δημήτριος</f>
+      <l r="ne-s---mn-">Δημήτριος</l>
+    </t>
+    <t p="r.12" n="1" a="[1]" o="n-s---mn-" u="18">
+      <f>Πτολεμαῖος</f>
+      <l r="ne-s---mn-">Πτολεμαῖος</l>
+    </t>
+    <t p="r.12" n="2" a="[1]" o="n-s---mn-" u="19">
+      <f>Πολυ</f>
+    </t>
+    <t p="r.13" n="1" a="[1]" o="n-s---mn-" u="20">
+      <f>Ἀρίστων</f>
+      <l r="ne-s---mn-">Ἀρίστων</l>
+    </t>
+    <t p="r.14" n="1" a="[1]" o="n-s---mn-" u="21">
+      <f>Πολέμων</f>
+      <l r="ne-s---mn-">Πολέμων</l>
+    </t>
+    <t p="r.14" n="2" a="[1]" join="b" o="u--------" u="22">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="v.1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Ἑρμόφιλος</f>
+    </t>
+    <t p="v.2" n="1" a="[1]" o="n-s---mn-" u="2">
+      <f>Φατρῆς</f>
+    </t>
+    <t p="v.2" n="2" a="[1]" o="n-s---mn-" u="3">
+      <f>Φάβιτος</f>
+    </t>
+    <t p="v.3" n="1" a="[1]" o="a-s---mn-" u="4">
+      <f>ιτους</f>
+    </t>
+    <t p="v.4" n="1" a="[1]" o="n-s---mn-" u="5">
+      <f>Ἀπολλώνιος</f>
+      <l r="ne-s---mn-">Ἀπολλώνιος</l>
+    </t>
+    <t p="v.4" n="2" a="[1]" o="n-s---mn-" u="6">
+      <f>γραμματεύς</f>
+      <l r="n--s---mn-">γραμματεύς</l>
+      <e>γραμματεύς</e>
+    </t>
+    <t p="v.5" n="1" a="[1]" o="n-s---mn-" u="7">
+      <f>Ἀσκληπιάδης</f>
+      <l r="ne-s---mn-">Ἀσκληπιάδης</l>
+    </t>
+    <t p="v.5" n="2" a="[1]" o="n-s---mn-" u="8">
+      <f>υἱός</f>
+      <l r="n--s---mn-">υἱός</l>
+      <e>υἱός</e>
+    </t>
+    <t p="v.6" n="1" a="[1]" o="n-s---mn-" u="9">
+      <f>Σωσικράτης</f>
+      <l r="ne-s---mn-">Σωσικράτης</l>
+    </t>
+    <t p="v.7" n="1" a="[1]" o="n-s---mn-" u="10">
+      <f>Χεσθώτης</f>
+    </t>
+    <t p="v.8" n="1" a="[1]" o="n-s---mn-" u="11">
+      <f>Σωσίας</f>
+    </t>
+    <t p="v.9" n="1" a="[1]" o="n-s---mn-" u="12">
+      <f>Ὧρος</f>
+      <l r="ne-s---mn-">Ὧρος</l>
+    </t>
+    <t p="v.9" n="2" a="[1]" o="n-s---mg-" u="13">
+      <f>Κου</f>
+    </t>
+    <t p="v.10" n="1" a="[1]" o="n-s---mn-" u="14">
+      <f>Ὧρος</f>
+      <l r="ne-s---mn-">Ὧρος</l>
+    </t>
+    <t p="v.10" n="2" a="[1]" o="v3siia---" u="15">
+      <f>Σῆμε</f>
+    </t>
+    <t p="v.11" n="1" a="[1]" o="n-s---mn-" u="16">
+      <f>Ἑρμίφιλος</f>
+    </t>
+    <t p="v.11" n="2" a="[1]" o="d--------" u="17">
+      <f>Ἡρα</f>
+    </t>
+    <t p="v.12" n="1" a="[1]" o="v3spie---" u="18">
+      <f>γίνεται</f>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="v.12" n="2" a="[1]" o="g--------" u="19">
+      <f>κε</f>
+      <l r="gm--------">ἄν</l>
+      <e>ἄν</e>
+    </t>
+    <t p="v.12" n="3" a="[2]" o="v3spie---" u="20">
+      <f>γίνεται</f>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="v.12" n="4" a="[1]" o="a-p---fn-" u="21">
+      <f>κρότωναι</f>
+    </t>
+    <t p="v.12" n="5" a="[1]" o="v3spoa---" u="22">
+      <f>η</f>
+    </t>
+    <t p="v.12" n="6" a="[1]" o="--------" u="23">
+      <f>δ</f>
+    </t>
+    <t p="v.12" n="7" a="[1]" join="b" o="u--------" u="24">
+      <f>.</f>
+    </t>
+  </s>
+</text>

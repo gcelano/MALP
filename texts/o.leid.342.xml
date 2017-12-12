@@ -1,0 +1,139 @@
+<text text-id="o.leid.342">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="v3saia---" u="1">
+      <f>ἔδωκεν</f>
+      <l r="v-3saia---">δίδωμι</l>
+      <e>δίδωμι</e>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Ὀννόφρις</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="d--------" u="3">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-p---mn-" u="4">
+      <f>Τσενπατσεοῦς</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="l-s---na-" u="5">
+      <f>τὸ</f>
+      <e>ὁ</e>
+    </t>
+    <t p="2" n="4" a="[1]" o="l-p---fn-" u="6">
+      <f>αἱ</f>
+      <e>ὁ</e>
+    </t>
+    <t p="3" n="1" a="[1]" o="d--------" u="7">
+      <f>ροῦν</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---na-" u="8">
+      <f>μέρος</f>
+      <l r="n--s---na-">μέρος</l>
+      <e>μέρος</e>
+    </t>
+    <t p="3" n="3" a="[1]" o="p-p---mg-" u="9">
+      <f>αὐτῶν</f>
+      <l r="pp-p---mg-">αὐτός</l>
+    </t>
+    <t p="3" n="4" a="[1]" o="r--------" u="10">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="3" n="5" a="[1]" o="g--------" u="11">
+      <f>κα</f>
+      <l r="gm--------">ἄν</l>
+      <e>ἄν</e>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---mn-" u="12">
+      <f>νόνος</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="v3siia---" u="13">
+      <f>ιγ</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="a-s---ngc" u="14">
+      <f>ἰνδικτίονος</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="n-p---mg-" u="15">
+      <f>βουρδόνων</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="a-s---mg-" u="16">
+      <f>πριμιπίλου</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-s---mg-" u="17">
+      <f>ναύλου</f>
+    </t>
+    <t p="5" n="3" a="[1]" o="d--------" u="18">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="5" n="4" a="[1]" o="r--------" u="19">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="5" n="5" a="[2]" o="n-s---mg-" u="20">
+      <f>ναύλου</f>
+    </t>
+    <t p="6" n="1" a="[1]" o="v-sppamn-" u="21">
+      <f>τειρώνων</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="r--------" u="22">
+      <f>ιβ</f>
+    </t>
+    <t p="6" n="3" a="[1]" o="n-s---mg-" u="23">
+      <f>ἰνδικτίωνος</f>
+    </t>
+    <t p="7" n="1" a="[1]" o="r--------" u="24">
+      <f>διʼ</f>
+      <l r="r---------">διά</l>
+    </t>
+    <t p="7" n="2" a="[1]" o="a-s---mg-" u="25">
+      <f>Ὀξοῦς</f>
+    </t>
+    <t p="7" n="3" a="[1]" o="n-s---mg-" u="26">
+      <f>κεφαλαιωτοῦ</f>
+    </t>
+    <t p="7" n="4" a="[1]" join="b" o="u--------" u="27">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="7" n="5" a="[1]" o="n-s---mn-" u="1">
+      <f>Θεόδωρος</f>
+      <l r="ne-s---mn-">Θεόδωρος</l>
+    </t>
+    <t p="8" n="1" a="[1]" o="v1spie---" u="2">
+      <f>σεσημείωμαι</f>
+    </t>
+    <t p="8" n="2" a="[1]" o="r--------" u="3">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="8" n="3" a="[1]" o="d--------" u="4">
+      <f>αὐτοῦ</f>
+      <l r="dd--------">αὐτός</l>
+      <e>αὐτοῦ</e>
+    </t>
+    <t p="9" n="1" a="[1]" o="n-s---mn-" u="5">
+      <f>καθὼς</f>
+    </t>
+    <t p="9" n="2" a="[1]" o="v3saia---" u="6">
+      <f>διετέλεσεν</f>
+      <l r="v-3saia---">διατελέω</l>
+      <e>διατελέω</e>
+    </t>
+    <t p="9" n="3" a="[1]" join="b" o="u--------" u="7">
+      <f>.</f>
+    </t>
+  </s>
+</text>

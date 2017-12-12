@@ -1,0 +1,100 @@
+<text text-id="cpr.2.196">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="d--------" u="1">
+      <f>ⲏⲗ</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="v3sao----" u="2">
+      <f>ⲛⲉⲣⲱⲙ</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---md-" u="3">
+      <f>ⲡⲙⲁⲛⲉⲓⲙⲁ</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="u--------" u="4">
+      <f>ⲱ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="u--------" u="5">
+      <f>ⲉ</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="v3sfie---" u="6">
+      <f>ⲛⲧⲉⲧⲛⲉⲙⲧϫⲟⲉⲓⲥ</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="d--------" u="7">
+      <f>ⲁⲩ</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="p-s---fg-" u="8">
+      <f>ⲗⲁⲙ</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="d--------" u="9">
+      <f>ⲁⲩⲱ</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="d--------" u="10">
+      <f>ϫⲉ</f>
+    </t>
+    <t p="3" n="5" a="[1]" o="u--------" u="11">
+      <f>ϫ</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="u--------" u="12">
+      <f>ⲛⲁⲓ</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="d--------" u="13">
+      <f>ⲧⲛⲟ</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="u--------" u="14">
+      <f>ⲛ</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="a-s---fn-" u="15">
+      <f>ἑτοῖμος</f>
+      <l r="a--s---fn-">ἑτοῖμος</l>
+      <e>ἑτοῖμος</e>
+    </t>
+    <t p="5" n="1" a="[1]" o="n-s---fn-" u="16">
+      <f>ⲛⲛⲁⲧⲗⲁⲁⲩ</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="a-s---fn-" u="17">
+      <f>ⲛⲛⲁ</f>
+    </t>
+    <t p="6" n="1" a="[1]" o="a-s---fn-" u="18">
+      <f>ⲓⲱⲁⲛⲛⲏⲥ</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="n-s---fn-" u="19">
+      <f>ⲡⲉⲱ</f>
+    </t>
+    <t p="6" n="3" a="[1]" join="b" o="u--------" u="20">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="8" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>ⲡⲣⲱⲙ</f>
+    </t>
+    <t p="8" n="2" a="[1]" o="n-s---mv-" u="2">
+      <f>ⲡⲙⲁⲛⲉⲓⲙⲁ</f>
+    </t>
+    <t p="9" n="1" a="[1]" o="a-s---mv-" u="3">
+      <f>ⲛⲧⲉⲧⲛⲉⲙⲧϫⲟⲉⲓⲥ</f>
+    </t>
+    <t p="10" n="1" a="[1]" o="n-s---mv-" u="4">
+      <f>ⲛⲃⲏⲕⲉ</f>
+    </t>
+    <t p="10" n="2" a="[1]" o="n-s---mv-" u="5">
+      <f>ⲕⲉ</f>
+    </t>
+    <t p="12" n="1" a="[1]" o="a-s---mv-" u="6">
+      <f>lost</f>
+    </t>
+    <t p="12" n="2" a="[1]" join="b" o="u--------" u="7">
+      <f>.</f>
+    </t>
+  </s>
+</text>

@@ -1,0 +1,80 @@
+<text text-id="o.heid.250">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="l-s---mg-" u="1">
+      <f>τοῦ</f>
+      <e>ὁ</e>
+    </t>
+    <t p="1" n="2" a="[1]" o="d--------" u="2">
+      <f>κζ</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="a-p---ma-" u="3">
+      <f>ἔτους</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="n-s---ng-" u="4">
+      <f>ὀνόματος</f>
+      <l r="n--s---ng-">ὄνομα</l>
+      <e>ὄνομα</e>
+    </t>
+    <t p="2" n="1" a="[1]" o="r--------" u="5">
+      <f>ρταμ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="u--------" u="6">
+      <f>δ</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="r--------" u="7">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="2" n="4" a="[1]" o="n-s---fg-" u="8">
+      <f>γεωμετρίας</f>
+      <l r="n--s---fg-">γεωμετρία</l>
+      <e>γεωμετρία</e>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---fa-" u="9">
+      <f>δραχμὴν</f>
+      <l r="n--s---fa-">δραχμή</l>
+    </t>
+    <t p="3" n="2" a="[1]" o="a-s---fa-" u="10">
+      <f>μίαν</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="a-s---fa-" u="11">
+      <f>διώβολον</f>
+    </t>
+    <t p="3" n="4" a="[1]" join="b" o="u--------" u="12">
+      <f>,</f>
+    </t>
+    <t p="3" n="5" a="[1]" o="v3spie---" u="13">
+      <f>γίνεται</f>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="3" n="6" a="[1]" o="n-s---fn-" u="14">
+      <f>δραχμὴ</f>
+      <l r="n--s---fn-">δραχμή</l>
+    </t>
+    <t p="3" n="7" a="[1]" o="--------" u="15">
+      <f>α</f>
+    </t>
+    <t p="3" n="8" a="[2]" o="a-s---fa-" u="16">
+      <f>διώβολον</f>
+    </t>
+    <t p="3" n="9" a="[1]" join="b" o="u--------" u="17">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="3" n="10" a="[2]" join="b" o="u--------" u="1">
+      <f>.</f>
+    </t>
+  </s>
+</text>

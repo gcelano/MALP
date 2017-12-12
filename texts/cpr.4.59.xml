@@ -1,0 +1,68 @@
+<text text-id="cpr.4.59">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="a-s---mn-" u="1">
+      <f>ἔνατος</f>
+      <l r="a--s---mn-">ἔνατος</l>
+      <e>ἔνατος</e>
+    </t>
+    <t p="2" n="1" a="[1]" o="d--------" u="2">
+      <f>ⲙⲛ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="r--------" u="3">
+      <f>ⲟⲩ</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="a-s---na-" u="4">
+      <f>τριμήσιον</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="v3sfie---" u="5">
+      <f>ⲛⲁⲓ</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="v-pappmg-" u="6">
+      <f>ⲧⲓⲟ</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="u--------" u="7">
+      <f>ⲛ</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="a-s---fn-" u="8">
+      <f>ἑτοῖμος</f>
+      <l r="a--s---fn-">ἑτοῖμος</l>
+      <e>ἑτοῖμος</e>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---fn-" u="9">
+      <f>ⲥⲛⲁⲩ</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="a-s---fn-" u="10">
+      <f>ⲙⲉⲛ</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="a-s---fn-" u="11">
+      <f>ⲙⲛ</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="n-s---fn-" u="12">
+      <f>ⲟⲩⲧ</f>
+    </t>
+    <t p="5" n="1" a="[1]" join="b" o="u--------" u="13">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="5" n="2" a="[2]" join="b" o="u--------" u="1">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="5" n="3" a="[3]" join="b" o="u--------" u="1">
+      <f>.</f>
+    </t>
+  </s>
+</text>

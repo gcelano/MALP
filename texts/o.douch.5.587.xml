@@ -1,0 +1,108 @@
+<text text-id="o.douch.5.587">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="d--------" u="1">
+      <f>τῷ</f>
+      <l r="d---------">τῷ</l>
+      <e>τῷ</e>
+      <e>τῷ</e>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---md-" u="2">
+      <f>κυρίῳ</f>
+      <l r="n--s---md-">κύριος2</l>
+      <e>κύριος</e>
+      <e>κύριος</e>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---md-" u="3">
+      <f>υἱῷ</f>
+      <l r="n--s---md-">υἱός</l>
+      <e>υἱός</e>
+    </t>
+    <t p="1" n="4" a="[1]" o="n-s---md-" u="4">
+      <f>Σεραπάμμωνι</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-p---mg-" u="5">
+      <f>Πετεχῶν</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="v--pna---" u="6">
+      <f>χαίρειν</f>
+      <l r="v---pna---">χαίρω</l>
+      <e>χαίρω</e>
+    </t>
+    <t p="2" n="3" a="[1]" join="b" o="u--------" u="7">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="2" n="4" a="[1]" o="v2sama---" u="1">
+      <f>μέτρησον</f>
+      <l r="v-2sama---">μετρέω</l>
+      <e>μετρέω</e>
+    </t>
+    <t p="3" n="1" a="[1]" o="d--------" u="2">
+      <f>τῷ</f>
+      <l r="d---------">τῷ</l>
+      <e>τῷ</e>
+      <e>τῷ</e>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---md-" u="3">
+      <f>κυρίῳ</f>
+      <l r="n--s---md-">κύριος2</l>
+      <e>κύριος</e>
+      <e>κύριος</e>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---md-" u="4">
+      <f>ἀδελφῷ</f>
+      <l r="n--s---md-">ἀδελφός</l>
+      <e>ἀδελφός</e>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---md-" u="5">
+      <f>Πανίσκῳ</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---mg-" u="6">
+      <f>σίτου</f>
+      <l r="n--s---mg-">σῖτος</l>
+      <e>σῖτος</e>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---nd-" u="7">
+      <f>μέτρῳ</f>
+      <l r="n--s---nd-">μέτρον</l>
+      <e>μέτρον</e>
+    </t>
+    <t p="4" n="3" a="[1]" o="v-sppamn-" u="8">
+      <f>ἀννων</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="n-p---fa-" u="9">
+      <f>ἀρτάβας</f>
+      <l r="n--p---fa-">ἀρτάβη</l>
+      <e>ἀρτάβη</e>
+    </t>
+    <t p="4" n="5" a="[1]" o="m--------" u="10">
+      <f>δύο</f>
+      <e>δύο</e>
+    </t>
+    <t p="4" n="6" a="[1]" join="b" o="u--------" u="11">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="4" n="7" a="[1]" o="v--rne---" u="1">
+      <f>ἐρρῶσθαι</f>
+      <l r="v---rne---">ῥώννυμι</l>
+      <e>ῥώννυμι</e>
+    </t>
+    <t p="4" n="8" a="[2]" join="b" o="u--------" u="2">
+      <f>.</f>
+    </t>
+  </s>
+</text>

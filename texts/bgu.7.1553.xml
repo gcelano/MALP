@@ -1,0 +1,104 @@
+<text text-id="bgu.7.1553">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="a-p---ma-" u="1">
+      <f>ἔτους</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---fv-" u="2">
+      <f>ιη</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---fv-" u="3">
+      <f>Ἁθὺρ</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---fd-" u="4">
+      <f>Ἑλίκῃ</f>
+      <l r="ne-s---fd-">Ἑλίκη</l>
+    </t>
+    <t p="2" n="2" a="[1]" o="r--------" u="5">
+      <f>παρὰ</f>
+      <l r="r---------">παρά</l>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---mn-" u="6">
+      <f>Ἀώγχιος</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="v3siia---" u="7">
+      <f>𐅵</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---fn-" u="8">
+      <f>η</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-p---mn-" u="9">
+      <f>χοίνικες</f>
+    </t>
+    <t p="4" n="3" a="[2]" o="v3spoa---" u="10">
+      <f>η</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="u--------" u="11">
+      <f>ι</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-p---mn-" u="12">
+      <f>χοίνικες</f>
+    </t>
+    <t p="5" n="3" a="[1]" o="u--------" u="13">
+      <f>ϛ</f>
+    </t>
+    <t p="6" n="1" a="[1]" o="n-p---na-" u="14">
+      <f>ια</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="n-p---mn-" u="15">
+      <f>χοίνικες</f>
+    </t>
+    <t p="6" n="3" a="[1]" o="v3saia---" u="16">
+      <f>ε</f>
+    </t>
+    <t p="6" n="4" a="[1]" o="p-d---ma-" u="17">
+      <f>𐅵</f>
+    </t>
+    <t p="7" n="1" a="[1]" o="d--------" u="18">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="7" n="2" a="[1]" o="v3spia---" u="19">
+      <f>ἔχει</f>
+      <l r="v-3spia---">ἔχω</l>
+      <e>ἔχω</e>
+    </t>
+    <t p="7" n="3" a="[1]" o="n-s---fn-" u="20">
+      <f>𐅵</f>
+    </t>
+    <t p="8" n="1" a="[1]" o="c--------" u="21">
+      <f>ιβ</f>
+    </t>
+    <t p="8" n="2" a="[1]" o="n-p---mn-" u="22">
+      <f>χοίνικες</f>
+    </t>
+    <t p="8" n="3" a="[1]" o="v3spoa---" u="23">
+      <f>η</f>
+    </t>
+    <t p="9" n="1" a="[1]" o="v1pfimf--" u="24">
+      <f>ιδ</f>
+    </t>
+    <t p="9" n="2" a="[1]" o="n-p---mn-" u="25">
+      <f>χοίνικες</f>
+    </t>
+    <t p="9" n="3" a="[1]" o="u--------" u="26">
+      <f>θ</f>
+    </t>
+    <t p="9" n="4" a="[1]" o="--------" u="27">
+      <f>𐅵</f>
+    </t>
+    <t p="9" n="5" a="[1]" join="b" o="u--------" u="28">
+      <f>.</f>
+    </t>
+  </s>
+</text>

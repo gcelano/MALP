@@ -1,0 +1,70 @@
+<text text-id="o.ashm.shelt.1">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="a-p---ma-" u="1">
+      <f>ἔτους</f>
+    </t>
+    <t p="r.1" n="2" a="[1]" o="u--------" u="2">
+      <f>λ</f>
+    </t>
+    <t p="r.1" n="3" a="[1]" o="n-s---md-" u="3">
+      <f>Μεσορεὶ</f>
+    </t>
+    <t p="r.1" n="4" a="[1]" o="--------" u="4">
+      <f>ς</f>
+    </t>
+    <t p="r.1" n="5" a="[1]" join="b" o="u--------" u="5">
+      <f>,</f>
+    </t>
+    <t p="r.1" n="6" a="[1]" o="d--------" u="6">
+      <f>πέπτω</f>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="g--------" u="7">
+      <f>κεν</f>
+      <l r="gm--------">ἄν</l>
+      <e>ἄν</e>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="a-s---fg-" u="8">
+      <f>ἁλικῆς</f>
+    </t>
+    <t p="r.2" n="3" a="[1]" o="r--------" u="9">
+      <f>διὰ</f>
+      <l r="r---------">διά</l>
+    </t>
+    <t p="r.2" n="4" a="[1]" o="n-s---fg-" u="10">
+      <f>Κλει</f>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="a-s---fg-" u="11">
+      <f>τάνδρου</f>
+    </t>
+    <t p="r.3" n="2" a="[1]" o="n-s---fg-" u="12">
+      <f>Ἁρχὼνς</f>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="n-s---mn-" u="13">
+      <f>Πετείσιος</f>
+    </t>
+    <t p="r.4" n="2" a="[1]" o="n-s---fn-" u="14">
+      <f>δραχμὴ</f>
+      <l r="n--s---fn-">δραχμή</l>
+    </t>
+    <t p="r.4" n="3" a="[1]" o="--------" u="15">
+      <f>α</f>
+    </t>
+    <t p="r.4" n="4" a="[1]" o="a-s---fa-" u="16">
+      <f>τριώβολον</f>
+    </t>
+    <t p="r.4" n="5" a="[1]" join="b" o="u--------" u="17">
+      <f>.</f>
+    </t>
+  </s>
+</text>

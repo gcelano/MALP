@@ -1,0 +1,89 @@
+<text text-id="cpr.1.62">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mg-" u="1">
+      <f>Αὐτοκράτορος</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Καίσαρος</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Μάρκου</f>
+      <l r="ne-s---mg-">Μάρκος</l>
+    </t>
+    <t p="1" n="4" a="[1]" o="a-s---mg-" u="4">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="1" n="5" a="[1]" o="n-s---mg-" u="5">
+      <f>Ἀντωνίνου</f>
+    </t>
+    <t p="1" n="6" a="[1]" o="a-s---mg-" u="6">
+      <f>Εὐσεβοῦς</f>
+      <l r="ae-s---mg-">εὐσεβής</l>
+    </t>
+    <t p="1" n="7" a="[1]" o="a-s---mg-" u="7">
+      <f>Εὐτυχοῦς</f>
+      <l r="a--s---mg-">εὐτυχής</l>
+    </t>
+    <t p="1" n="8" a="[1]" o="n-s---mg-" u="8">
+      <f>Σεβαστοῦ</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="d--------" u="9">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="2" n="2" a="[1]" o="l-p---mg-" u="10">
+      <f>τῶν</f>
+      <e>ὁ</e>
+    </t>
+    <t p="2" n="3" a="[1]" o="a-p---mg-" u="11">
+      <f>ἄλλων</f>
+      <l r="a--p---mg-">ἄλλος</l>
+      <e>ἄλλος</e>
+    </t>
+    <t p="2" n="4" a="[2]" o="l-p---mg-" u="12">
+      <f>τῶν</f>
+      <e>ὁ</e>
+    </t>
+    <t p="2" n="5" a="[1]" o="v-pppemg-" u="13">
+      <f>γραφομένων</f>
+      <l r="v--pppemg-">γράφω</l>
+    </t>
+    <t p="2" n="6" a="[1]" o="a-p---mg-" u="14">
+      <f>κοινῶν</f>
+      <l r="a--p---mg-">κοινός</l>
+      <e>κοινός</e>
+    </t>
+    <t p="2" n="7" a="[1]" o="n-s---mg-" u="15">
+      <f>μηνὸς</f>
+      <l r="n--s---mg-">μείς</l>
+    </t>
+    <t p="3" n="1" a="[1]" o="l-s---mg-" u="16">
+      <f>τοῦ</f>
+      <e>ὁ</e>
+    </t>
+    <t p="3" n="2" a="[1]" o="r--------" u="17">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---ma-" u="18">
+      <f>Μέμφιν</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---mg-" u="19">
+      <f>Ἡρακλεοπολείτου</f>
+    </t>
+    <t p="3" n="5" a="[1]" join="b" o="u--------" u="20">
+      <f>·</f>
+    </t>
+  </s>
+</text>

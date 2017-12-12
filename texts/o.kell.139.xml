@@ -1,0 +1,76 @@
+<text text-id="o.kell.139">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---md-" u="1">
+      <f>Μενδι</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>καιρὸς</f>
+      <l r="n--s---mn-">καιρός</l>
+    </t>
+    <t p="1" n="3" a="[1]" o="c--------" u="3">
+      <f>οὔτε</f>
+      <l r="c---------">οὔτε</l>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-p---nn-" u="4">
+      <f>παραλωρια</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="c--------" u="5">
+      <f>οὐδὲ</f>
+      <l r="c---------">οὐδέ</l>
+    </t>
+    <t p="2" n="3" a="[1]" o="d--------" u="6">
+      <f>εἰσοδοι</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="v2spma---" u="7">
+      <f>πόρει</f>
+    </t>
+    <t p="3" n="2" a="[1]" join="b" o="u--------" u="8">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="3" n="3" a="[1]" o="d--------" u="1">
+      <f>ἀλλʼ</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---mg-" u="2">
+      <f>Ἡλίου</f>
+      <l r="ne-s---mg-">ἥλιος</l>
+    </t>
+    <t p="3" n="5" a="[1]" o="v-sppamg-" u="3">
+      <f>φαίνοντος</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="d--------" u="4">
+      <f>μήτε</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="p2s----a-" u="5">
+      <f>σε</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="v3siia---" u="6">
+      <f>δεῖ</f>
+      <l r="v-3siia---">δέω</l>
+      <l r="v-3siia---">δέω2</l>
+      <e>δεῖ</e>
+      <e>δέω</e>
+      <e>δέω</e>
+    </t>
+    <t p="4" n="4" a="[1]" o="v--pna---" u="7">
+      <f>μένειν</f>
+      <l r="v---pna---">μένω</l>
+      <e>μένω</e>
+    </t>
+    <t p="4" n="5" a="[1]" join="b" o="u--------" u="8">
+      <f>·</f>
+    </t>
+  </s>
+</text>

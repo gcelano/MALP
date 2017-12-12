@@ -1,0 +1,143 @@
+<text text-id="bgu.3.926">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="r--------" u="1">
+      <f>παρὰ</f>
+      <l r="r---------">παρά</l>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mg-" u="2">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Πλουτογένους</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="a-s---mg-" u="4">
+      <f>ἐπιτρόπου</f>
+      <e>ἐπίτροπος</e>
+    </t>
+    <t p="1" n="5" a="[1]" join="b" o="u--------" u="5">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="2" n="1" a="[1]" o="a-p---nn-" u="1">
+      <f>ὅσα</f>
+      <e>ὅσος</e>
+    </t>
+    <t p="2" n="2" a="[1]" o="v3spie---" u="2">
+      <f>δέεται</f>
+      <l r="v-3spie---">δέω2</l>
+      <e>δέω</e>
+      <e>δέω</e>
+    </t>
+    <t p="2" n="3" a="[1]" o="v--anm---" u="3">
+      <f>γενέσθαι</f>
+      <l r="v---anm---">γίγνομαι</l>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="2" n="4" a="[1]" o="r--------" u="4">
+      <f>ἐν</f>
+      <l r="r---------">ἐν</l>
+      <e>εἰς</e>
+      <e>ἐν</e>
+    </t>
+    <t p="2" n="5" a="[1]" o="d--------" u="5">
+      <f>τῷ</f>
+      <l r="d---------">τῷ</l>
+      <e>τῷ</e>
+      <e>τῷ</e>
+    </t>
+    <t p="2" n="6" a="[1]" o="r--------" u="6">
+      <f>ὑπὸ</f>
+      <l r="r---------">ὑπό</l>
+      <e>ὑπό</e>
+    </t>
+    <t p="2" n="7" a="[1]" o="l-s---fa-" u="7">
+      <f>τὴν</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---fa-" u="8">
+      <f>οἰκονομίαν</f>
+      <l r="n--s---fa-">οἰκονομία</l>
+      <e>οἰκονομία</e>
+    </t>
+    <t p="3" n="2" a="[1]" o="p-s---fg-" u="9">
+      <f>σου</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---nd-" u="10">
+      <f>βαλανείῳ</f>
+      <l r="n--s---nd-">βαλανεῖον</l>
+      <e>βαλανεῖον</e>
+    </t>
+    <t p="3" n="4" a="[1]" join="b" o="u--------" u="11">
+      <f>,</f>
+    </t>
+    <t p="3" n="5" a="[1]" o="r--------" u="12">
+      <f>ἐν</f>
+      <l r="r---------">ἐν</l>
+      <e>εἰς</e>
+      <e>ἐν</e>
+    </t>
+    <t p="3" n="6" a="[1]" o="n-s---nd-" u="13">
+      <f>τάχει</f>
+      <l r="n--s---nd-">τάχος</l>
+      <e>τάχος</e>
+    </t>
+    <t p="4" n="1" a="[1]" o="v3samm---" u="14">
+      <f>γενέσθω</f>
+      <l r="v-3samm---">γίγνομαι</l>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="4" n="2" a="[1]" join="b" o="u--------" u="15">
+      <f>,</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="c--------" u="16">
+      <f>ἵνα</f>
+      <l r="c---------">ἵνα</l>
+      <e>ἵνα</e>
+    </t>
+    <t p="4" n="4" a="[1]" o="v-papmmg-" u="17">
+      <f>παραγενομένων</f>
+      <l r="v--papmmg-">παραγίγνομαι</l>
+    </t>
+    <t p="5" n="1" a="[1]" o="l-p---mg-" u="18">
+      <f>τῶν</f>
+      <e>ὁ</e>
+    </t>
+    <t p="5" n="2" a="[1]" o="a-p---mg-" u="19">
+      <f>κρατίστων</f>
+      <e>κράτιστος</e>
+    </t>
+    <t p="5" n="3" a="[1]" o="n-p---mg-" u="20">
+      <f>εὐσχημόνων</f>
+    </t>
+    <t p="5" n="4" a="[1]" o="v3saia---" u="21">
+      <f>μηδε</f>
+    </t>
+    <t p="6" n="1" a="[1]" o="a-s---fn-" u="22">
+      <f>μία</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="n-s---fn-" u="23">
+      <f>μέμψις</f>
+      <l r="n--s---fn-">μέμψις</l>
+      <e>μέμψις</e>
+    </t>
+    <t p="6" n="3" a="[1]" o="v3sasm---" u="24">
+      <f>γένηται</f>
+      <l r="v-3sasm---">γίγνομαι</l>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="6" n="4" a="[1]" join="b" o="u--------" u="25">
+      <f>.</f>
+    </t>
+  </s>
+</text>

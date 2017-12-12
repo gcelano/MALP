@@ -1,0 +1,79 @@
+<text text-id="o.bodl.1.269">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="m--------" u="1">
+      <f>δέκα</f>
+      <e>δέκα</e>
+    </t>
+    <t p="1" n="2" a="[1]" o="m--------" u="2">
+      <f>πέντε</f>
+      <e>πέντε</e>
+    </t>
+    <t p="1" n="3" a="[1]" o="v3ppie---" u="3">
+      <f>γίνονται</f>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="1" n="4" a="[1]" o="v3siia---" u="4">
+      <f>ιε</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="v-sppamn-" u="5">
+      <f>αἴγων</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="m--------" u="6">
+      <f>πέντε</f>
+      <e>πέντε</e>
+    </t>
+    <t p="2" n="3" a="[1]" o="v3ppie---" u="7">
+      <f>γίνονται</f>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="2" n="4" a="[1]" o="v3saia---" u="8">
+      <f>ε</f>
+    </t>
+    <t p="2" n="5" a="[2]" o="v3ppie---" u="9">
+      <f>γίνονται</f>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="2" n="6" a="[1]" o="a-s---fn-" u="10">
+      <f>κτή</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="v-sppamn-" u="11">
+      <f>νων</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="m--------" u="12">
+      <f>εἴκοσι</f>
+      <e>εἴκοσι</e>
+    </t>
+    <t p="3" n="3" a="[1]" o="v3ppie---" u="13">
+      <f>γίνονται</f>
+      <e>γίγνομαι</e>
+    </t>
+    <t p="3" n="4" a="[1]" o="u--------" u="14">
+      <f>κ</f>
+    </t>
+    <t p="3" n="5" a="[1]" join="b" o="u--------" u="15">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="4" n="1" a="[1]" o="u--------" u="1">
+      <f>σ</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="n-s---fv-" u="2">
+      <f>ρ</f>
+    </t>
+    <t p="5" n="2" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+</text>

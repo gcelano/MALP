@@ -1,0 +1,147 @@
+<text text-id="bgu.2.403">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="d--------" u="1">
+      <f>τω</f>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="c--------" u="2">
+      <f>εἰ</f>
+      <l r="c---------">εἰ</l>
+      <e>εἰ</e>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="c--------" u="3">
+      <f>δὲ</f>
+    </t>
+    <t p="r.2" n="3" a="[1]" o="d--------" u="4">
+      <f>μὴ</f>
+      <l r="d---------">μή</l>
+    </t>
+    <t p="r.2" n="4" a="[1]" o="p-s---na-" u="5">
+      <f>τοῦτο</f>
+      <l r="pd-s---na-">οὗτος</l>
+    </t>
+    <t p="r.2" n="5" a="[1]" o="v1sfia---" u="6">
+      <f>πράξω</f>
+      <l r="v-1sfia---">πράσσω</l>
+      <e>πράσσω</e>
+    </t>
+    <t p="r.2" n="6" a="[1]" o="l-s---fd-" u="7">
+      <f>τῇ</f>
+      <e>ὁ</e>
+    </t>
+    <t p="r.2" n="7" a="[1]" o="a-s---fd-" u="8">
+      <f>εἰρημένῃ</f>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="n-s---fd-" u="9">
+      <f>προθεσμίᾳ</f>
+      <l r="n--s---fd-">προθεσμία</l>
+    </t>
+    <t p="r.3" n="2" a="[1]" join="b" o="u--------" u="10">
+      <f>,</f>
+    </t>
+    <t p="r.3" n="3" a="[1]" o="v--pne---" u="11">
+      <f>ἐνέχεσθαί</f>
+    </t>
+    <t p="r.3" n="4" a="[1]" o="p1s---ma-" u="12">
+      <f>με</f>
+      <e>ἐγώ</e>
+    </t>
+    <t p="r.3" n="5" a="[1]" o="v--ana---" u="13">
+      <f>παρασχεῖν</f>
+      <l r="v---ana---">παρέχω</l>
+      <e>παρέχω</e>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="d--------" u="14">
+      <f>τῇ</f>
+      <l r="dd--------">ὁ</l>
+      <l r="dr--------">ὅς</l>
+      <e>τῇ</e>
+    </t>
+    <t p="r.4" n="2" a="[1]" o="a-s---fd-" u="15">
+      <f>ὑμετέρᾳ</f>
+      <e>ὑμέτερος</e>
+    </t>
+    <t p="r.4" n="3" a="[1]" o="n-s---fd-" u="16">
+      <f>μεγαλοπρεπείᾳ</f>
+      <l r="n--s---fd-">μεγαλοπρέπεια</l>
+      <e>μεγαλοπρέπεια</e>
+    </t>
+    <t p="r.4" n="4" a="[1]" o="d--------" u="17">
+      <f>οἰκόθεν</f>
+    </t>
+    <t p="r.5" n="1" a="[1]" o="d--------" u="18">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="r.5" n="2" a="[1]" o="r--------" u="19">
+      <f>ἐξ</f>
+      <l r="r---------">ἐκ</l>
+      <e>ἐκ</e>
+      <e>ἐξ</e>
+    </t>
+    <t p="r.5" n="3" a="[1]" o="a-s---ng-" u="20">
+      <f>ἰδίου</f>
+      <l r="a--s---ng-">ἴδιος</l>
+      <e>ἴδιος</e>
+    </t>
+    <t p="r.5" n="4" a="[1]" o="p-s---mg-" u="21">
+      <f>μου</f>
+    </t>
+    <t p="r.5" n="5" a="[1]" o="n-s---mg-" u="22">
+      <f>πόρου</f>
+      <l r="n--s---mg-">πόρος</l>
+      <e>πόρος</e>
+    </t>
+    <t p="r.5" n="6" a="[1]" o="r--------" u="23">
+      <f>ὑπὲρ</f>
+      <l r="r---------">ὑπέρ</l>
+    </t>
+    <t p="r.5" n="7" a="[1]" o="a-s---mg-" u="24">
+      <f>ἑκάστου</f>
+      <l r="a--s---mg-">ἕκαστος</l>
+      <e>ἕκαστος</e>
+    </t>
+    <t p="r.6" n="1" a="[1]" o="a-s---mg-" u="25">
+      <f>γοναχίου</f>
+    </t>
+    <t p="r.6" n="2" a="[1]" o="n-s---mg-" u="26">
+      <f>χρυσοῦ</f>
+      <l r="n--s---mg-">χρυσός</l>
+      <e>χρυσός</e>
+    </t>
+    <t p="r.6" n="3" a="[1]" o="n-p---nn-" u="27">
+      <f>νομίσματα</f>
+      <l r="n--p---nn-">νόμισμα</l>
+      <e>νόμισμα</e>
+    </t>
+    <t p="r.6" n="4" a="[1]" o="m--------" u="28">
+      <f>ἓξ</f>
+    </t>
+    <t p="r.7" n="1" a="[1]" o="n-s---mg-" u="29">
+      <f>χρυσοῦ</f>
+      <l r="n--s---mg-">χρυσός</l>
+      <e>χρυσός</e>
+    </t>
+    <t p="r.7" n="2" a="[1]" o="n-p---nn-" u="30">
+      <f>νομίσματα</f>
+      <l r="n--p---nn-">νόμισμα</l>
+      <e>νόμισμα</e>
+    </t>
+    <t p="r.7" n="3" a="[1]" o="u--------" u="31">
+      <f>ϛ</f>
+    </t>
+    <t p="r.7" n="4" a="[1]" join="b" o="u--------" u="32">
+      <f>.</f>
+    </t>
+  </s>
+</text>

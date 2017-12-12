@@ -1,0 +1,95 @@
+<text text-id="cpr.2.175">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>ⲁⲛⲟⲕ</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mv-" u="2">
+      <f>ⲃⲓⲕⲧⲱⲣ</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="a-s---mv-" u="3">
+      <f>ⲡⲓ</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="a-s---mn-" u="4">
+      <f>ἐλάχιστος</f>
+      <e>ἐλάχιστος</e>
+    </t>
+    <t p="1" n="5" a="[1]" o="u--------" u="5">
+      <f>ⲛ</f>
+    </t>
+    <t p="1" n="6" a="[1]" o="n-s---mg-" u="6">
+      <f>διάκονος</f>
+    </t>
+    <t p="1" n="7" a="[1]" o="n-s---fv-" u="7">
+      <f>ⲡϣⲉ</f>
+    </t>
+    <t p="1" n="8" a="[1]" o="r--------" u="8">
+      <f>ⲛⲡ</f>
+    </t>
+    <t p="1" n="9" a="[1]" o="a-s---mn-" u="9">
+      <f>μακάριος</f>
+      <l r="a--s---mn-">μακάριος</l>
+      <e>μακάριος</e>
+    </t>
+    <t p="2" n="1" a="[1]" o="v1slia---" u="10">
+      <f>ⲑⲱⲙⲁ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="v2saim---" u="11">
+      <f>ⲡⲣⲱⲙⲉ</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---md-" u="12">
+      <f>ϣⲙⲟⲩⲛ</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="n-s---md-" u="13">
+      <f>ⲉⲓⲥϩⲁⲓ</f>
+    </t>
+    <t p="2" n="5" a="[1]" o="a-s---md-" u="14">
+      <f>ⲛⲁⲡⲁ</f>
+    </t>
+    <t p="2" n="6" a="[1]" o="u--------" u="15">
+      <f>ⲓ</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="u--------" u="16">
+      <f>ⲡ</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="a-s---mns" u="17">
+      <f>εὐλαβέστατος</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="u--------" u="18">
+      <f>ⲛ</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="a-s---fn-" u="19">
+      <f>διάκονος</f>
+    </t>
+    <t p="3" n="5" a="[1]" o="n-s---fn-" u="20">
+      <f>ⲡϣⲉ</f>
+    </t>
+    <t p="3" n="6" a="[1]" o="a-s---fn-" u="21">
+      <f>ⲛⲡ</f>
+    </t>
+    <t p="3" n="7" a="[1]" o="a-s---fn-" u="22">
+      <f>μακάριος</f>
+      <l r="a--s---fn-">μακάριος</l>
+      <e>μακάριος</e>
+    </t>
+    <t p="3" n="8" a="[1]" o="n-s---fn-" u="23">
+      <f>ⲙⲏⲛⲁ</f>
+    </t>
+    <t p="3" n="9" a="[1]" o="a-s---fn-" u="24">
+      <f>4</f>
+    </t>
+    <t p="3" n="10" a="[1]" join="b" o="u--------" u="25">
+      <f>.</f>
+    </t>
+  </s>
+</text>

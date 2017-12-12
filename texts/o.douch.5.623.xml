@@ -1,0 +1,73 @@
+<text text-id="o.douch.5.623">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1/2" n="1" a="[1]" o="d--------" u="1">
+      <f>τῷ</f>
+      <l r="d---------">τῷ</l>
+      <e>τῷ</e>
+      <e>τῷ</e>
+    </t>
+    <t p="1/2" n="2" a="[1]" o="n-s---md-" u="2">
+      <f>κυρίῳ</f>
+      <l r="n--s---md-">κύριος2</l>
+      <e>κύριος</e>
+      <e>κύριος</e>
+    </t>
+    <t p="1/2" n="3" a="[1]" o="p-s---mg-" u="3">
+      <f>μου</f>
+    </t>
+    <t p="1/2" n="4" a="[1]" o="n-s---md-" u="4">
+      <f>ἀδελφῷ</f>
+      <l r="n--s---md-">ἀδελφός</l>
+      <e>ἀδελφός</e>
+    </t>
+    <t p="1/2" n="5" a="[1]" o="n-s---mn-" u="5">
+      <f>Σαβῖνος</f>
+      <l r="ne-s---mn-">Σαβῖνος</l>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-p---fa-" u="6">
+      <f>ἀρτάβας</f>
+      <l r="n--p---fa-">ἀρτάβη</l>
+      <e>ἀρτάβη</e>
+    </t>
+    <t p="4" n="2" a="[1]" o="v3saia---" u="7">
+      <f>ε</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="d--------" u="8">
+      <f>𐅵</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="n-s---na-" u="9">
+      <f>μάτιον</f>
+    </t>
+    <t p="4" n="5" a="[1]" o="--------" u="10">
+      <f>α</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="n-s---mn-" u="11">
+      <f>Πετεῦρις</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-p---fa-" u="12">
+      <f>ἀρτάβας</f>
+      <l r="n--p---fa-">ἀρτάβη</l>
+      <e>ἀρτάβη</e>
+    </t>
+    <t p="5" n="3" a="[1]" o="--------" u="13">
+      <f>δ</f>
+    </t>
+    <t p="5" n="4" a="[1]" o="n-s---nd-" u="14">
+      <f>ματι</f>
+    </t>
+    <t p="5" n="5" a="[1]" join="b" o="u--------" u="15">
+      <f>.</f>
+    </t>
+  </s>
+</text>

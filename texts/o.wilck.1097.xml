@@ -1,0 +1,75 @@
+<text text-id="o.wilck.1097">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="a-p---mn-" u="1">
+      <f>σιτολόγοι</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mg-" u="2">
+      <f>Τριστόμου</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---ng-" u="3">
+      <f>γενήματος</f>
+      <l r="n--s---ng-">γένημα</l>
+    </t>
+    <t p="2" n="1" a="[1]" o="g--------" u="4">
+      <f>κε</f>
+      <l r="gm--------">ἄν</l>
+      <e>ἄν</e>
+    </t>
+    <t p="2" n="2" a="[1]" o="a-p---ma-" u="5">
+      <f>ἔτους</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---fn-" u="6">
+      <f>Μεσορὴ</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="v3siia---" u="7">
+      <f>ιθ</f>
+    </t>
+    <t p="2" n="5" a="[1]" o="v3siia---" u="8">
+      <f>Ὀξυ</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---fn-" u="9">
+      <f>ρυγχ</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---mg-" u="10">
+      <f>ίτου</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---mg-" u="11">
+      <f>νομοῦ</f>
+      <l r="n--s---mg-">νομός</l>
+      <e>νόμος</e>
+      <e>νομός</e>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-p---ng-" u="12">
+      <f>Αὐρῶν</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="v3spoa---" u="13">
+      <f>ὄνοι</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="v1pfimf--" u="14">
+      <f>ιδ</f>
+    </t>
+    <t p="4" n="3" a="[1]" join="b" o="u--------" u="15">
+      <f>,</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="v2spme---" u="16">
+      <f>πυροῦ</f>
+    </t>
+    <t p="4" n="5" a="[1]" o="--------" u="17">
+      <f>μβ</f>
+    </t>
+    <t p="4" n="6" a="[1]" join="b" o="u--------" u="18">
+      <f>.</f>
+    </t>
+  </s>
+</text>

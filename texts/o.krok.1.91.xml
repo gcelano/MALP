@@ -1,0 +1,112 @@
+<text text-id="o.krok.1.91">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="i.1" n="1" a="[1]" o="n-s---fg-" u="1">
+      <f>ης</f>
+    </t>
+    <t p="i.1" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>κουράτωρ</f>
+    </t>
+    <t p="i.2" n="1" a="[1]" o="v--pna---" u="3">
+      <f>γιγνώσκειν</f>
+      <l r="v---pna---">γιγνώσκω</l>
+      <e>γιγνώσκω</e>
+    </t>
+    <t p="i.2" n="2" a="[1]" o="p-s---ma-" u="4">
+      <f>σε</f>
+    </t>
+    <t p="i.2" n="3" a="[1]" o="v1spia---" u="5">
+      <f>θέλω</f>
+      <l r="v-1spia---">ἐθέλω</l>
+      <e>ἐθέλω</e>
+    </t>
+    <t p="i.5" n="1" a="[1]" o="d--------" u="6">
+      <f>κατάπαξ</f>
+    </t>
+    <t p="ii.1" n="1" a="[1]" o="n-s---mg-" u="7">
+      <f>ατου</f>
+    </t>
+    <t p="ii.1" n="2" a="[1]" o="r--------" u="8">
+      <f>κζ</f>
+    </t>
+    <t p="ii.1" n="3" a="[1]" o="v3saia---" u="9">
+      <f>ε</f>
+    </t>
+    <t p="ii.2" n="1" a="[1]" o="n-s---ma-" u="10">
+      <f>Φοινικῶνα</f>
+    </t>
+    <t p="ii.2" n="2" a="[1]" o="n-s---fn-" u="11">
+      <f>Βη</f>
+    </t>
+    <t p="ii.2" n="3" a="[1]" o="n-s---fn-" u="12">
+      <f>ς</f>
+    </t>
+    <t p="ii.2" n="4" a="[1]" o="v3saia---" u="13">
+      <f>ἱππε</f>
+    </t>
+    <t p="ii.3" n="1" a="[1]" o="a-s---na-" u="14">
+      <f>ἀντίγραφον</f>
+      <l r="a--s---na-">ἀντίγραφος</l>
+      <e>ἀντίγραφος</e>
+    </t>
+    <t p="ii.3" n="2" a="[1]" o="n-s---fg-" u="15">
+      <f>ἐπιστολῆς</f>
+      <l r="n--s---fg-">ἐπιστολή</l>
+      <e>ἐπιστολή</e>
+    </t>
+    <t p="ii.4" n="1" a="[1]" o="n-s---md-" u="16">
+      <f>Κασσίῳ</f>
+      <l r="ne-s---md-">Κάσσιος</l>
+    </t>
+    <t p="ii.4" n="2" a="[1]" o="n-s---md-" u="17">
+      <f>ἐπάρχῳ</f>
+    </t>
+    <t p="ii.4" n="3" a="[1]" o="n-p---ma-" u="18">
+      <f>ὄρους</f>
+      <e>ὀρός</e>
+    </t>
+    <t p="ii.4" n="4" a="[1]" o="r--------" u="19">
+      <f>παρὰ</f>
+      <l r="r---------">παρά</l>
+    </t>
+    <t p="ii.5" n="1" a="[1]" o="a-s---mg-" u="20">
+      <f>πραισιδίου</f>
+    </t>
+    <t p="ii.5" n="2" a="[1]" o="n-s---mg-" u="21">
+      <f>Κροκοδιλὼ</f>
+    </t>
+    <t p="ii.5" n="3" a="[1]" o="v--pna---" u="22">
+      <f>χαίρειν</f>
+      <l r="v---pna---">χαίρω</l>
+      <e>χαίρω</e>
+    </t>
+    <t p="ii.5" n="4" a="[1]" join="b" o="u--------" u="23">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="ii.13" n="1" a="[1]" o="c--------" u="1">
+      <f>ἵνα</f>
+      <l r="c---------">ἵνα</l>
+      <e>ἵνα</e>
+    </t>
+    <t p="ii.13" n="2" a="[1]" o="v2srsa---" u="2">
+      <f>εἰδῇς</f>
+      <l r="v-2srsa---">οἶδα</l>
+      <e>οἶδα</e>
+    </t>
+    <t p="ii.13" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+</text>

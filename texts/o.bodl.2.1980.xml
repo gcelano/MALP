@@ -1,0 +1,63 @@
+<text text-id="o.bodl.2.1980">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma id="contains the id number of the entry in the database consisting of the set of all word forms + morphological analyses of all Greek texts">
+        <l1>as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---fn-" u="1">
+      <f>Νιλεῦς</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---md-" u="2">
+      <f>Πακύβει</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="d--------" u="3">
+      <f>καὶ</f>
+      <l r="d---------">καί</l>
+    </t>
+    <t p="2" n="1" a="[1]" o="v3siia---" u="4">
+      <f>Πετεχνούβει</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="v--pna---" u="5">
+      <f>χαίρειν</f>
+      <l r="v---pna---">χαίρω</l>
+      <e>χαίρω</e>
+    </t>
+    <t p="2" n="3" a="[1]" join="b" o="u--------" u="6">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="2" n="4" a="[1]" o="d--------" u="1">
+      <f>ὁμολο</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="v1ppia---" u="2">
+      <f>γοῦμεν</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="v--pna---" u="3">
+      <f>ἀπέχειν</f>
+      <l r="v---pna---">ἀπέχω</l>
+      <e>ἀπέχω</e>
+    </t>
+    <t p="4" n="1" a="[1]" o="r--------" u="4">
+      <f>εἰς</f>
+      <l r="r---------">εἰς</l>
+      <e>εἰς</e>
+    </t>
+    <t p="4" n="2" a="[1]" o="l-s---na-" u="5">
+      <f>πετ</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="v-sppana-" u="6">
+      <f>ιϛ</f>
+    </t>
+    <t p="4" n="4" a="[1]" join="b" o="u--------" u="7">
+      <f>.</f>
+    </t>
+  </s>
+</text>
