@@ -1,0 +1,59 @@
+<text text-id="o.ashm.shelt.77">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="v2sama---" u="1">
+      <f>δὸς</f>
+      <l>
+        <l1 r="v-2sama---">δίδωμι</l1>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="l-p---md-" u="2">
+      <f>τοῖς</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="a-p---md-" u="3">
+      <f>δουκηναρίοις</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="d--------" u="4">
+      <f>κρέως</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-p---fa-" u="5">
+      <f>λίτρας</f>
+      <l>
+        <l1 r="n--p---fa-">λίτρα</l1>
+        <l2>λίτρα</l2>
+      </l>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-p---fa-" u="6">
+      <f>τέσσαρας</f>
+      <l>
+        <l2>τέσσαρες</l2>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="c--------" u="7">
+      <f>καὶ</f>
+      <l>
+        <l1 r="c---------">καί</l1>
+        <l2>καί</l2>
+      </l>
+    </t>
+    <t p="4" n="3" a="[1]" o="n-s---fa-" u="8">
+      <f>επτιν</f>
+    </t>
+    <t p="4" n="4" a="[1]" join="b" o="u--------" u="9">
+      <f>.</f>
+    </t>
+  </s>
+</text>

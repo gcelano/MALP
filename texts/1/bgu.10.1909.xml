@@ -1,0 +1,86 @@
+<text text-id="bgu.10.1909">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---md-" u="1">
+      <f>Ἀπολλωνίωι</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="l-p---mg-" u="2">
+      <f>τῶν</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="a-p---mg-" u="3">
+      <f>ὁμοτίμων</f>
+      <l>
+        <l1 r="a--p---mg-">ὁμότιμος</l1>
+        <l2>ὁμότιμος</l2>
+      </l>
+    </t>
+    <t p="1" n="4" a="[1]" o="l-p---md-" u="4">
+      <f>τοῖς</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="a-p---md-" u="5">
+      <f>συγγενέσιν</f>
+      <l>
+        <l1 r="a--p---md-">συγγενής</l1>
+        <l2>συγγενής</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-p---md-" u="6">
+      <f>στρατηγῶι</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="r--------" u="7">
+      <f>παρʼ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---mg-" u="8">
+      <f>Ἡρακλείδου</f>
+      <l>
+        <l1 r="ne-s---mg-">Ἡρακλείδης</l1>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="l-s---mg-" u="9">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---mg-" u="10">
+      <f>Ἑρμίου</f>
+    </t>
+    <t p="3" n="5" a="[1]" o="l-p---mg-" u="11">
+      <f>τῶν</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="4" n="1" a="[1]" o="r--------" u="12">
+      <f>ἀπὸ</f>
+      <l>
+        <l1 r="r---------">ἀπό</l1>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---mg-" u="13">
+      <f>Μέμφεως</f>
+    </t>
+    <t p="4" n="3" a="[1]" join="b" o="u--------" u="14">
+      <f>.</f>
+    </t>
+  </s>
+</text>

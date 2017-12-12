@@ -1,0 +1,162 @@
+<text text-id="o.ont.mus.2.169">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="v3plia---" u="1">
+      <f>μεμέτρηκεν</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="r--------" u="2">
+      <f>εἰς</f>
+      <l>
+        <l1 r="r---------">εἰς</l1>
+        <l2>εἰς</l2>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="l-s---ma-" u="3">
+      <f>τὸν</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="l-p---mg-" u="4">
+      <f>τῶν</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="1" n="5" a="[1]" o="a-p---mg-" u="5">
+      <f>ἱερατικῶν</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---ma-" u="6">
+      <f>θησαυρὸν</f>
+      <l>
+        <l1 r="n--s---ma-">θησαυρός</l1>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="l-s---fg-" u="7">
+      <f>Ἄνω</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---fg-" u="8">
+      <f>τοπαρχίας</f>
+      <l>
+        <l1 r="n--s---fg-">τοπαρχία</l1>
+      </l>
+    </t>
+    <t p="2" n="4" a="[1]" o="n-s---ng-" u="9">
+      <f>γενήματος</f>
+      <l>
+        <l1 r="n--s---ng-">γένημα</l1>
+      </l>
+    </t>
+    <t p="2" n="5" a="[1]" o="--------" u="10">
+      <f>β</f>
+    </t>
+    <t p="2" n="6" a="[1]" o="a-p---ma-" u="11">
+      <f>ἔτους</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---mg-" u="12">
+      <f>Τίτου</f>
+      <l>
+        <l1 r="ne-s---mg-">Τίτος</l1>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="l-s---mg-" u="13">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="a-s---mg-" u="14">
+      <f>κυρίου</f>
+      <l>
+        <l1 r="a--s---mg-">κύριος</l1>
+        <l2>κύριος</l2>
+        <l2>κύριος</l2>
+      </l>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---mn-" u="15">
+      <f>Ψεναμοῦνις</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="a-s---mn-" u="16">
+      <f>πρεσβύτερος</f>
+      <l>
+        <l2>πρέσβυς</l2>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---mg-" u="17">
+      <f>Ὥρου</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="a-s---mg-" u="18">
+      <f>πυροῦ</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="a-s---fa-" u="19">
+      <f>μίαν</f>
+    </t>
+    <t p="4" n="5" a="[1]" o="n-s---fa-" u="20">
+      <f>δωδέκατον</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="v3spie---" u="21">
+      <f>γίνεται</f>
+      <l>
+        <l2>γίγνομαι</l2>
+      </l>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-s---mg-" u="22">
+      <f>πυροῦ</f>
+      <l>
+        <l1 r="n--s---mg-">πυρός</l1>
+        <l2>πυρός</l2>
+      </l>
+    </t>
+    <t p="5" n="3" a="[1]" o="n-s---fn-" u="23">
+      <f>ἀρτάβη</f>
+      <l>
+        <l1 r="n--s---fn-">ἀρτάβη</l1>
+        <l2>ἀρτάβη</l2>
+      </l>
+    </t>
+    <t p="5" n="4" a="[1]" o="--------" u="24">
+      <f>α</f>
+    </t>
+    <t p="5" n="5" a="[1]" o="n-s---fn-" u="25">
+      <f>ιβ</f>
+    </t>
+    <t p="5" n="6" a="[1]" o="n-s---ng-" u="26">
+      <f>ἔτους</f>
+      <l>
+        <l1 r="n--s---ng-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="5" n="7" a="[1]" o="--------" u="27">
+      <f>β</f>
+    </t>
+    <t p="5" n="8" a="[1]" o="n-s---mg-" u="28">
+      <f>Τίτου</f>
+      <l>
+        <l1 r="ne-s---mg-">Τίτος</l1>
+      </l>
+    </t>
+    <t p="5" n="9" a="[1]" o="l-s---mg-" u="29">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="5" n="10" a="[1]" o="n-s---ng-" u="30">
+      <f>κυρίου</f>
+    </t>
+    <t p="5" n="11" a="[1]" o="n-s---fd-" u="31">
+      <f>Ἐπεὶφ</f>
+    </t>
+    <t p="5" n="12" a="[1]" join="b" o="u--------" u="32">
+      <f>.</f>
+    </t>
+  </s>
+</text>

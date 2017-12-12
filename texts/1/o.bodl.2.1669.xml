@@ -1,0 +1,153 @@
+<text text-id="o.bodl.2.1669">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="v3saip---" u="1">
+      <f>παρεκομίσθη</f>
+      <l>
+        <l1 r="v-3saip---">παρακομίζω</l1>
+        <l2>παρακομίζω</l2>
+      </l>
+    </t>
+    <t p="1" n="2" a="[1]" o="r--------" u="2">
+      <f>εἰς</f>
+      <l>
+        <l1 r="r---------">εἰς</l1>
+        <l2>εἰς</l2>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="l-s---fa-" u="3">
+      <f>τὴν</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="n-s---fa-" u="4">
+      <f>εἴλην</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---ng-" u="5">
+      <f>ὀνόματος</f>
+      <l>
+        <l1 r="n--s---ng-">ὄνομα</l1>
+        <l2>ὄνομα</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---mg-" u="6">
+      <f>Ἡρακλέους</f>
+      <l>
+        <l1 r="ne-s---mg-">Ἡρακλέης</l1>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="d--------" u="7">
+      <f>ὁμοίως</f>
+      <l>
+        <l1 r="d---------">ὅμοιος</l1>
+        <l2>ὅμοιος</l2>
+      </l>
+    </t>
+    <t p="2" n="4" a="[1]" o="u--------" u="8">
+      <f>Φ</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="d--------" u="9">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="v-sppamn-" u="10">
+      <f>μετόχων</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="a-s---mg-" u="11">
+      <f>ἀχύρου</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---mg-" u="12">
+      <f>γόμου</f>
+      <l>
+        <l1 r="n--s---mg-">γόμος</l1>
+        <l2>γόμος</l2>
+      </l>
+    </t>
+    <t p="3" n="5" a="[1]" o="a-s---ma-" u="13">
+      <f>τρίτον</f>
+      <l>
+        <l1 r="a--s---ma-">τρίτος</l1>
+        <l2>τρίτος</l2>
+      </l>
+    </t>
+    <t p="4" n="1" a="[1]" o="a-s---nn-" u="14">
+      <f>δωδέκατον</f>
+      <l>
+        <l1 r="a--s---nn-">δωδέκατος</l1>
+        <l2>δωδέκατος</l2>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="v3spie---" u="15">
+      <f>γίνεται</f>
+      <l>
+        <l2>γίγνομαι</l2>
+      </l>
+    </t>
+    <t p="4" n="3" a="[1]" o="n-s---mg-" u="16">
+      <f>γόμου</f>
+      <l>
+        <l1 r="n--s---mg-">γόμος</l1>
+        <l2>γόμος</l2>
+      </l>
+    </t>
+    <t p="4" n="4" a="[1]" o="g--------" u="17">
+      <f>γ</f>
+    </t>
+    <t p="4" n="5" a="[1]" o="g--------" u="18">
+      <f>ιβ</f>
+    </t>
+    <t p="4" n="6" a="[1]" join="b" o="u--------" u="19">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="5" n="1" a="[1]" o="a-p---ma-" u="1">
+      <f>ἔτους</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="v1pfimf--" u="2">
+      <f>ιδ</f>
+    </t>
+    <t p="5" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="5" n="4" a="[1]" o="n-s---mg-" u="4">
+      <f>Ἀντωνίνου</f>
+    </t>
+    <t p="6" n="1" a="[1]" o="n-s---mn-" u="5">
+      <f>Καίσαρος</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="l-s---mg-" u="6">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="6" n="3" a="[1]" o="a-s---mg-" u="7">
+      <f>κυρίου</f>
+      <l>
+        <l1 r="a--s---mg-">κύριος</l1>
+        <l2>κύριος</l2>
+        <l2>κύριος</l2>
+      </l>
+    </t>
+    <t p="7" n="1" a="[1]" o="n-s---mg-" u="8">
+      <f>Θὼθ</f>
+    </t>
+    <t p="7" n="2" a="[1]" o="u--------" u="9">
+      <f>ι</f>
+    </t>
+    <t p="7" n="3" a="[1]" join="b" o="u--------" u="10">
+      <f>.</f>
+    </t>
+  </s>
+</text>

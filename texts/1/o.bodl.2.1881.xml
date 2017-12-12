@@ -1,0 +1,79 @@
+<text text-id="o.bodl.2.1881">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="d--------" u="1">
+      <f>μδ</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="a-s---mn-" u="2">
+      <f>δεκανὸς</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---mn-" u="3">
+      <f>Φθομώνθης</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---mg-" u="4">
+      <f>Ὥρου</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="n-s---mg-" u="5">
+      <f>Φθομώνθου</f>
+    </t>
+    <t p="2" n="5" a="[1]" join="b" o="u--------" u="6">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="3" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Παμώνθης</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---mg-" u="2">
+      <f>Πετεαρπρήους</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Παμώνθου</f>
+    </t>
+    <t p="3" n="4" a="[1]" join="b" o="u--------" u="4">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="4" n="1" a="[1]" o="n-s---md-" u="1">
+      <f>Πετεαρβῆκι</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="d--------" u="2">
+      <f>ς</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="n-s---mn-" u="3">
+      <f>ἀδελφός</f>
+      <l>
+        <l1 r="n--s---mn-">ἀδελφός</l1>
+        <l2>ἀδελφός</l2>
+      </l>
+    </t>
+    <t p="4" n="4" a="[1]" join="b" o="u--------" u="4">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="4">
+    <t p="5" n="1" a="[1]" o="n-s---fn-" u="1">
+      <f>Πετοσορβοῦχις</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Παμωντεκύσιος</f>
+    </t>
+    <t p="5" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Ψενμώνθου</f>
+    </t>
+    <t p="5" n="4" a="[1]" join="b" o="u--------" u="4">
+      <f>.</f>
+    </t>
+  </s>
+</text>

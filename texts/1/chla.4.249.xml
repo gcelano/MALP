@@ -1,0 +1,1040 @@
+<text text-id="chla.4.249">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="int.1" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>Caius</f>
+    </t>
+    <t p="int.1" n="2" a="[1]" o="n-s---mv-" u="2">
+      <f>Antistius</f>
+    </t>
+    <t p="int.1" n="3" a="[1]" o="a-s---mv-" u="3">
+      <f>Nomissianus</f>
+    </t>
+    <t p="int.1" n="4" a="[1]" o="n-s---mv-" u="4">
+      <f>filiam</f>
+    </t>
+    <t p="int.1" n="5" a="[1]" o="n-s---mv-" u="5">
+      <f>suam</f>
+    </t>
+    <t p="int.1" n="6" a="[1]" o="n-s---mv-" u="6">
+      <f>Zenarion</f>
+    </t>
+    <t p="int.1" n="7" a="[1]" o="a-s---mv-" u="7">
+      <f>uirginem</f>
+    </t>
+    <t p="int.1" n="8" a="[1]" o="u--------" u="8">
+      <f>e</f>
+    </t>
+    <t p="int.1" n="9" a="[1]" o="n-s---mv-" u="9">
+      <f>lege</f>
+    </t>
+    <t p="int.1" n="10" a="[1]" o="n-s---mv-" u="10">
+      <f>Iulia</f>
+    </t>
+    <t p="int.1" n="11" a="[1]" o="n-s---mv-" u="11">
+      <f>quae</f>
+    </t>
+    <t p="int.1" n="12" a="[1]" o="a-s---mv-" u="12">
+      <f>de</f>
+    </t>
+    <t p="int.1" n="13" a="[1]" o="a-s---mv-" u="13">
+      <f>maritandis</f>
+    </t>
+    <t p="int.1" n="14" a="[1]" o="n-s---mv-" u="14">
+      <f>ordinibus</f>
+    </t>
+    <t p="int.2" n="1" a="[1]" o="n-s---mv-" u="15">
+      <f>lata</f>
+    </t>
+    <t p="int.2" n="2" a="[1]" o="l-s---mg-" u="16">
+      <f>est</f>
+    </t>
+    <t p="int.2" n="3" a="[1]" o="a-s---mv-" u="17">
+      <f>liberorum</f>
+    </t>
+    <t p="int.2" n="4" a="[1]" o="n-s---mv-" u="18">
+      <f>procreandorum</f>
+    </t>
+    <t p="int.2" n="5" a="[1]" o="n-s---mv-" u="19">
+      <f>causa</f>
+    </t>
+    <t p="int.2" n="6" a="[1]" o="l-s---mg-" u="20">
+      <f>in</f>
+    </t>
+    <t p="int.2" n="7" a="[1]" o="v3slim---" u="21">
+      <f>matrimonio</f>
+    </t>
+    <t p="int.2" n="8" a="[1]" o="n-s---mv-" u="22">
+      <f>eam</f>
+    </t>
+    <t p="int.2" n="9" a="[1]" o="n-s---mv-" u="23">
+      <f>collocauit</f>
+    </t>
+    <t p="int.2" n="10" a="[1]" join="b" o="u--------" u="24">
+      <f>,</f>
+    </t>
+    <t p="int.2" n="11" a="[1]" o="n-s---mv-" u="25">
+      <f>uxorem</f>
+    </t>
+    <t p="int.2" n="12" a="[2]" o="n-s---mv-" u="26">
+      <f>eam</f>
+    </t>
+    <t p="int.3" n="1" a="[1]" o="l-s---mg-" u="27">
+      <f>duxit</f>
+    </t>
+    <t p="int.3" n="2" a="[1]" o="n-s---mv-" u="28">
+      <f>Marcus</f>
+    </t>
+    <t p="int.3" n="3" a="[1]" o="a-s---mv-" u="29">
+      <f>Petronius</f>
+    </t>
+    <t p="int.3" n="4" a="[1]" o="n-s---mv-" u="30">
+      <f>Seruillius</f>
+    </t>
+    <t p="int.3" n="5" a="[1]" join="b" o="u--------" u="31">
+      <f>,</f>
+    </t>
+    <t p="int.3" n="6" a="[1]" o="n-s---mv-" u="32">
+      <f>eique</f>
+    </t>
+    <t p="int.3" n="7" a="[1]" o="n-s---mv-" u="33">
+      <f>dotis</f>
+    </t>
+    <t p="int.3" n="8" a="[1]" o="l-s---mg-" u="34">
+      <f>dixit</f>
+    </t>
+    <t p="int.3" n="9" a="[1]" o="v3slim---" u="35">
+      <f>et</f>
+    </t>
+    <t p="int.3" n="10" a="[1]" o="v2slim---" u="36">
+      <f>debit</f>
+    </t>
+    <t p="int.3" n="11" a="[1]" o="l-s---mg-" u="37">
+      <f>ea</f>
+    </t>
+    <t p="int.3" n="12" a="[1]" o="l-s---mg-" u="38">
+      <f>omnia</f>
+    </t>
+    <t p="int.3" n="13" a="[1]" o="n-s---mg-" u="39">
+      <f>quae</f>
+    </t>
+    <t p="int.3" n="14" a="[1]" o="n-s---md-" u="40">
+      <f>infra</f>
+    </t>
+    <t p="int.3" n="15" a="[1]" o="l-s---mg-" u="41">
+      <f>scripta</f>
+    </t>
+    <t p="int.3" n="16" a="[1]" o="n-s---fn-" u="42">
+      <f>sunt</f>
+    </t>
+    <t p="int.3" n="17" a="[1]" o="v3siia---" u="43">
+      <f>pro</f>
+    </t>
+    <t p="int.3" n="18" a="[1]" o="n-s---fn-" u="44">
+      <f>eadem</f>
+    </t>
+    <t p="int.4" n="1" a="[1]" o="n-s---fn-" u="45">
+      <f>supra</f>
+    </t>
+    <t p="int.4" n="2" a="[1]" o="a-s---fn-" u="46">
+      <f>scripta</f>
+    </t>
+    <t p="int.4" n="3" a="[1]" o="n-s---fn-" u="47">
+      <f>ad</f>
+    </t>
+    <t p="int.4" n="4" a="[1]" o="n-s---fn-" u="48">
+      <f>uicum</f>
+    </t>
+    <t p="int.4" n="5" a="[1]" o="a-s---fn-" u="49">
+      <f>Philadelphiam</f>
+    </t>
+    <t p="int.4" n="6" a="[1]" o="n-s---fn-" u="50">
+      <f>paternas</f>
+    </t>
+    <t p="int.4" n="7" a="[2]" o="a-s---fn-" u="51">
+      <f>ad</f>
+    </t>
+    <t p="int.4" n="8" a="[1]" o="n-s---fn-" u="52">
+      <f>iuger</f>
+    </t>
+    <t p="int.4" n="9" a="[1]" o="a-s---fn-" u="53">
+      <f>du</f>
+    </t>
+    <t p="int.4" n="10" a="[1]" o="u--------" u="54">
+      <f>a</f>
+    </t>
+    <t p="int.4" n="11" a="[1]" o="n-s---fn-" u="55">
+      <f>et</f>
+    </t>
+    <t p="int.4" n="12" a="[1]" o="n-s---fn-" u="56">
+      <f>semis</f>
+    </t>
+    <t p="int.4" n="13" a="[2]" o="n-s---fn-" u="57">
+      <f>semis</f>
+    </t>
+    <t p="int.4" n="14" a="[1]" o="a-s---fn-" u="58">
+      <f>catoecicas</f>
+    </t>
+    <t p="int.4" n="15" a="[1]" o="n-s---fn-" u="59">
+      <f>in</f>
+    </t>
+    <t p="int.4" n="16" a="[1]" o="n-s---fn-" u="60">
+      <f>loco</f>
+    </t>
+    <t p="int.4" n="17" a="[1]" o="a-s---fn-" u="61">
+      <f>Cor</f>
+    </t>
+    <t p="int.5" n="1" a="[1]" o="n-s---fn-" u="62">
+      <f>in</f>
+    </t>
+    <t p="int.5" n="2" a="[1]" o="n-s---fn-" u="63">
+      <f>eodem</f>
+    </t>
+    <t p="int.5" n="3" a="[1]" o="a-s---fn-" u="64">
+      <f>uicó</f>
+    </t>
+    <t p="int.5" n="4" a="[1]" o="n-s---fn-" u="65">
+      <f>paternas</f>
+    </t>
+    <t p="int.5" n="5" a="[1]" o="a-s---fn-" u="66">
+      <f>amminas</f>
+    </t>
+    <t p="int.5" n="6" a="[1]" o="n-s---fn-" u="67">
+      <f>tres</f>
+    </t>
+    <t p="int.5" n="7" a="[1]" o="a-s---fn-" u="68">
+      <f>et</f>
+    </t>
+    <t p="int.5" n="8" a="[1]" o="n-s---fn-" u="69">
+      <f>semis</f>
+    </t>
+    <t p="int.5" n="9" a="[1]" join="b" o="u--------" u="70">
+      <f>,</f>
+    </t>
+    <t p="int.5" n="10" a="[1]" o="a-s---fd-" u="71">
+      <f>partem</f>
+    </t>
+    <t p="int.5" n="11" a="[1]" o="n-s---fd-" u="72">
+      <f>dimidiam</f>
+    </t>
+    <t p="int.5" n="12" a="[1]" o="a-s---fd-" u="73">
+      <f>ampelitis</f>
+    </t>
+    <t p="int.5" n="13" a="[2]" o="c--------" u="74">
+      <f>et</f>
+    </t>
+    <t p="int.5" n="14" a="[2]" o="a-s---fd-" u="75">
+      <f>in</f>
+    </t>
+    <t p="int.6" n="1" a="[1]" o="n-s---fd-" u="76">
+      <f>aureis</f>
+    </t>
+    <t p="int.6" n="2" a="[1]" o="l-s---mg-" u="77">
+      <f>enotion</f>
+    </t>
+    <t p="int.6" n="3" a="[1]" o="l-s---mg-" u="78">
+      <f>perlongum</f>
+    </t>
+    <t p="int.6" n="4" a="[1]" o="v2sfip---" u="79">
+      <f>tetarta</f>
+    </t>
+    <t p="int.6" n="5" a="[1]" o="u--------" u="80">
+      <f>dua</f>
+    </t>
+    <t p="int.6" n="6" a="[1]" o="u--------" u="81">
+      <f>et</f>
+    </t>
+    <t p="int.6" n="7" a="[1]" o="n-s---mv-" u="82">
+      <f>semis</f>
+    </t>
+    <t p="int.6" n="8" a="[1]" join="b" o="u--------" u="83">
+      <f>,</f>
+    </t>
+    <t p="int.6" n="9" a="[1]" o="n-s---mv-" u="84">
+      <f>cottatia</f>
+    </t>
+    <t p="int.6" n="10" a="[2]" o="a-s---mv-" u="85">
+      <f>tetarta</f>
+    </t>
+    <t p="int.6" n="11" a="[1]" o="u--------" u="86">
+      <f>i</f>
+    </t>
+    <t p="int.6" n="12" a="[2]" o="n-s---mv-" u="87">
+      <f>et</f>
+    </t>
+    <t p="int.6" n="13" a="[2]" o="n-s---mv-" u="88">
+      <f>semis</f>
+    </t>
+    <t p="int.6" n="14" a="[1]" o="a-s---mv-" u="89">
+      <f>fiunt</f>
+    </t>
+    <t p="int.6" n="15" a="[3]" o="a-s---mv-" u="90">
+      <f>tetarta</f>
+    </t>
+    <t p="int.6" n="16" a="[1]" o="n-s---mv-" u="91">
+      <f>iiii</f>
+    </t>
+    <t p="int.7" n="1" a="[1]" o="n-s---mv-" u="92">
+      <f>argentea</f>
+    </t>
+    <t p="int.7" n="2" a="[1]" o="n-s---mv-" u="93">
+      <f>claria</f>
+    </t>
+    <t p="int.7" n="3" a="[1]" o="a-s---mv-" u="94">
+      <f>par</f>
+    </t>
+    <t p="int.7" n="4" a="[1]" o="u--------" u="95">
+      <f>i</f>
+    </t>
+    <t p="int.7" n="5" a="[1]" o="n-s---mv-" u="96">
+      <f>pondo</f>
+    </t>
+    <t p="int.7" n="6" a="[1]" o="n-s---mv-" u="97">
+      <f>stateri</f>
+    </t>
+    <t p="int.7" n="7" a="[1]" o="l-s---mg-" u="98">
+      <f>vii</f>
+    </t>
+    <t p="int.7" n="8" a="[1]" o="l-s---mg-" u="99">
+      <f>et</f>
+    </t>
+    <t p="int.7" n="9" a="[1]" o="d--------" u="100">
+      <f>in</f>
+    </t>
+    <t p="int.7" n="10" a="[1]" o="n-s---md-" u="101">
+      <f>ueste</f>
+    </t>
+    <t p="int.7" n="11" a="[1]" o="l-s---mg-" u="102">
+      <f>aestumata</f>
+    </t>
+    <t p="int.7" n="12" a="[1]" o="n-s---mg-" u="103">
+      <f>tunica</f>
+    </t>
+    <t p="int.7" n="13" a="[2]" o="c--------" u="104">
+      <f>et</f>
+    </t>
+    <t p="int.7" n="14" a="[1]" o="l-s---mg-" u="105">
+      <f>palliolum</f>
+    </t>
+    <t p="int.7" n="15" a="[3]" o="l-s---mg-" u="106">
+      <f>et</f>
+    </t>
+    <t p="int.7" n="16" a="[1]" o="n-s---mg-" u="107">
+      <f>pallium</f>
+    </t>
+    <t p="int.8" n="1" a="[1]" o="n-s---md-" u="108">
+      <f>Scyrina</f>
+    </t>
+    <t p="int.8" n="2" a="[1]" o="l-s---mg-" u="109">
+      <f>drachmas</f>
+    </t>
+    <t p="int.8" n="3" a="[1]" o="l-s---mg-" u="110">
+      <f>Aug</f>
+    </t>
+    <t p="int.8" n="4" a="[1]" o="n-s---fd-" u="111">
+      <f>cdxxx</f>
+    </t>
+    <t p="int.8" n="5" a="[1]" o="--------" u="112">
+      <f>et</f>
+    </t>
+    <t p="int.8" n="6" a="[1]" join="b" o="u--------" u="113">
+      <f>,</f>
+    </t>
+    <t p="int.8" n="7" a="[1]" o="a-s---fn-" u="114">
+      <f>paraferna</f>
+    </t>
+    <t p="int.8" n="8" a="[1]" o="n-s---fn-" u="115">
+      <f>tunica</f>
+    </t>
+    <t p="int.8" n="9" a="[2]" o="a-s---fn-" u="116">
+      <f>et</f>
+    </t>
+    <t p="int.8" n="10" a="[1]" o="a-s---fn-" u="117">
+      <f>palliolum</f>
+    </t>
+    <t p="int.8" n="11" a="[1]" o="n-s---fn-" u="118">
+      <f>tribacum</f>
+    </t>
+    <t p="int.8" n="12" a="[3]" o="a-s---fn-" u="119">
+      <f>et</f>
+    </t>
+    <t p="int.8" n="13" a="[1]" o="a-s---fn-" u="120">
+      <f>heratianon</f>
+    </t>
+    <t p="int.9" n="1" a="[1]" o="n-s---fn-" u="121">
+      <f>et</f>
+    </t>
+    <t p="int.9" n="2" a="[1]" o="a-s---fn-" u="122">
+      <f>epicarsium</f>
+    </t>
+    <t p="int.9" n="3" a="[2]" o="n-s---fn-" u="123">
+      <f>et</f>
+    </t>
+    <t p="int.9" n="4" a="[1]" o="a-s---fn-" u="124">
+      <f>aeramenta</f>
+    </t>
+    <t p="int.9" n="5" a="[1]" o="a-s---fn-" u="125">
+      <f>Uenerem</f>
+    </t>
+    <t p="int.9" n="6" a="[3]" o="n-s---fn-" u="126">
+      <f>et</f>
+    </t>
+    <t p="int.9" n="7" a="[1]" o="a-s---fn-" u="127">
+      <f>cadium</f>
+    </t>
+    <t p="int.9" n="8" a="[1]" o="a-s---fn-" u="128">
+      <f>drachmas</f>
+    </t>
+    <t p="int.9" n="9" a="[1]" o="n-s---fn-" u="129">
+      <f>xxxxviii</f>
+    </t>
+    <t p="int.9" n="10" a="[4]" o="a-s---fn-" u="130">
+      <f>et</f>
+    </t>
+    <t p="int.9" n="11" a="[1]" o="n-s---fn-" u="131">
+      <f>osyptrum</f>
+    </t>
+    <t p="int.9" n="12" a="[5]" o="a-s---fn-" u="132">
+      <f>et</f>
+    </t>
+    <t p="int.9" n="13" a="[1]" o="n-s---fn-" u="133">
+      <f>arca</f>
+    </t>
+    <t p="int.9" n="14" a="[1]" o="a-s---fn-" u="134">
+      <f>s</f>
+    </t>
+    <t p="int.10" n="1" a="[1]" o="a-s---fn-" u="135">
+      <f>lecythoe</f>
+    </t>
+    <t p="int.10" n="2" a="[1]" o="n-s---fn-" u="136">
+      <f>duae</f>
+    </t>
+    <t p="int.10" n="3" a="[1]" o="a-s---fn-" u="137">
+      <f>et</f>
+    </t>
+    <t p="int.10" n="4" a="[1]" o="n-s---fn-" u="138">
+      <f>cadium</f>
+    </t>
+    <t p="int.10" n="5" a="[1]" o="a-s---fn-" u="139">
+      <f>alterum</f>
+    </t>
+    <t p="int.10" n="6" a="[1]" o="n-s---fn-" u="140">
+      <f>statmo</f>
+    </t>
+    <t p="int.10" n="7" a="[1]" o="n-s---fn-" u="141">
+      <f>mnae</f>
+    </t>
+    <t p="int.10" n="8" a="[1]" o="a-s---fn-" u="142">
+      <f>vii</f>
+    </t>
+    <t p="int.10" n="9" a="[2]" o="n-s---fn-" u="143">
+      <f>et</f>
+    </t>
+    <t p="int.10" n="10" a="[1]" o="a-s---fn-" u="144">
+      <f>quadr</f>
+    </t>
+    <t p="int.10" n="11" a="[3]" o="n-s---fn-" u="145">
+      <f>et</f>
+    </t>
+    <t p="int.10" n="12" a="[1]" o="n-s---fn-" u="146">
+      <f>arclam</f>
+    </t>
+    <t p="int.10" n="13" a="[1]" o="a-s---fn-" u="147">
+      <f>ligneam</f>
+    </t>
+    <t p="int.10" n="14" a="[1]" join="b" o="u--------" u="148">
+      <f>,</f>
+    </t>
+    <t p="int.10" n="15" a="[1]" o="n-s---mv-" u="149">
+      <f>cathedran</f>
+    </t>
+    <t p="int.10" n="16" a="[2]" join="b" o="u--------" u="150">
+      <f>,</f>
+    </t>
+    <t p="int.11" n="1" a="[1]" o="n-s---mv-" u="151">
+      <f>pyxidam</f>
+    </t>
+    <t p="int.11" n="2" a="[1]" join="b" o="u--------" u="152">
+      <f>,</f>
+    </t>
+    <t p="int.11" n="3" a="[1]" o="v3sama---" u="153">
+      <f>cophinum</f>
+    </t>
+    <t p="int.11" n="4" a="[1]" o="v--pia---" u="154">
+      <f>et</f>
+    </t>
+    <t p="int.11" n="5" a="[1]" o="n-s---md-" u="155">
+      <f>seruam</f>
+    </t>
+    <t p="int.11" n="6" a="[1]" o="n-s---md-" u="156">
+      <f>paternam</f>
+    </t>
+    <t p="int.11" n="7" a="[1]" o="a-s---md-" u="157">
+      <f>Heraidam</f>
+    </t>
+    <t p="int.11" n="8" a="[1]" join="b" o="u--------" u="158">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="int.11" n="9" a="[1]" o="n-s---mv-" u="1">
+      <f>item</f>
+    </t>
+    <t p="int.11" n="10" a="[2]" o="n-s---mv-" u="2">
+      <f>et</f>
+    </t>
+    <t p="int.11" n="11" a="[1]" o="a-s---mv-" u="3">
+      <f>Marcus</f>
+    </t>
+    <t p="int.11" n="12" a="[1]" o="n-s---mv-" u="4">
+      <f>Petronius</f>
+    </t>
+    <t p="int.11" n="13" a="[1]" o="l-s---mg-" u="5">
+      <f>Seruillius</f>
+    </t>
+    <t p="int.12" n="1" a="[1]" o="n-s---mv-" u="6">
+      <f>suamet</f>
+    </t>
+    <t p="int.12" n="2" a="[1]" o="n-s---mv-" u="7">
+      <f>ipse</f>
+    </t>
+    <t p="int.12" n="3" a="[1]" o="l-s---mg-" u="8">
+      <f>intulisse</f>
+    </t>
+    <t p="int.12" n="4" a="[1]" o="d--------" u="9">
+      <f>se</f>
+    </t>
+    <t p="int.12" n="5" a="[1]" o="n-s---md-" u="10">
+      <f>dixit</f>
+    </t>
+    <t p="int.12" n="6" a="[1]" o="l-s---md-" u="11">
+      <f>ad</f>
+    </t>
+    <t p="int.12" n="7" a="[1]" o="n-s---md-" u="12">
+      <f>uicum</f>
+    </t>
+    <t p="int.12" n="8" a="[1]" o="a-s---md-" u="13">
+      <f>Philadelphiam</f>
+    </t>
+    <t p="int.12" n="9" a="[1]" o="n-s---md-" u="14">
+      <f>paterna</f>
+    </t>
+    <t p="int.12" n="10" a="[1]" o="n-s---md-" u="15">
+      <f>iuger</f>
+    </t>
+    <t p="int.12" n="11" a="[1]" o="c--------" u="16">
+      <f>fr</f>
+    </t>
+    <t p="int.12" n="12" a="[1]" o="l-s---mg-" u="17">
+      <f>duas</f>
+    </t>
+    <t p="int.12" n="13" a="[1]" o="d--------" u="18">
+      <f>in</f>
+    </t>
+    <t p="int.12" n="14" a="[1]" o="v-prpafa-" u="19">
+      <f>loco</f>
+    </t>
+    <t p="ext.1" n="1" a="[1]" o="l-s---mg-" u="20">
+      <f>Caius</f>
+    </t>
+    <t p="ext.1" n="2" a="[1]" o="n-s---mg-" u="21">
+      <f>Antistius</f>
+    </t>
+    <t p="ext.1" n="3" a="[1]" o="a-s---mg-" u="22">
+      <f>Nomissianus</f>
+    </t>
+    <t p="ext.1" n="4" a="[1]" o="n-s---mg-" u="23">
+      <f>filiam</f>
+    </t>
+    <t p="ext.1" n="5" a="[1]" o="l-s---mg-" u="24">
+      <f>suam</f>
+    </t>
+    <t p="ext.1" n="6" a="[1]" o="a-s---mg-" u="25">
+      <f>uirginem</f>
+    </t>
+    <t p="ext.1" n="7" a="[1]" o="n-s---mg-" u="26">
+      <f>Zenarion</f>
+    </t>
+    <t p="ext.1" n="8" a="[1]" o="u--------" u="27">
+      <f>e</f>
+    </t>
+    <t p="ext.1" n="9" a="[1]" o="n-s---fn-" u="28">
+      <f>lege</f>
+    </t>
+    <t p="ext.2" n="1" a="[1]" o="n-s---fn-" u="29">
+      <f>Iulia</f>
+    </t>
+    <t p="ext.2" n="2" a="[1]" o="n-s---fn-" u="30">
+      <f>quae</f>
+    </t>
+    <t p="ext.2" n="3" a="[1]" o="n-s---fn-" u="31">
+      <f>de</f>
+    </t>
+    <t p="ext.2" n="4" a="[1]" o="a-s---fn-" u="32">
+      <f>maritandis</f>
+    </t>
+    <t p="ext.2" n="5" a="[1]" o="n-s---fn-" u="33">
+      <f>ordinibus</f>
+    </t>
+    <t p="ext.2" n="6" a="[1]" o="n-s---fn-" u="34">
+      <f>lata</f>
+    </t>
+    <t p="ext.2" n="7" a="[1]" o="a-s---fn-" u="35">
+      <f>est</f>
+    </t>
+    <t p="ext.2" n="8" a="[1]" o="n-s---fn-" u="36">
+      <f>liberorum</f>
+    </t>
+    <t p="ext.2" n="9" a="[1]" o="a-s---fn-" u="37">
+      <f>pro</f>
+    </t>
+    <t p="ext.3" n="1" a="[1]" o="a-s---fn-" u="38">
+      <f>creandorum</f>
+    </t>
+    <t p="ext.3" n="2" a="[1]" o="n-s---fn-" u="39">
+      <f>causa</f>
+    </t>
+    <t p="ext.3" n="3" a="[1]" o="a-s---fn-" u="40">
+      <f>in</f>
+    </t>
+    <t p="ext.3" n="4" a="[1]" o="n-s---fn-" u="41">
+      <f>matrimonio</f>
+    </t>
+    <t p="ext.3" n="5" a="[1]" o="a-s---fn-" u="42">
+      <f>eam</f>
+    </t>
+    <t p="ext.3" n="6" a="[1]" o="n-s---fn-" u="43">
+      <f>collocauit</f>
+    </t>
+    <t p="ext.3" n="7" a="[1]" join="b" o="u--------" u="44">
+      <f>,</f>
+    </t>
+    <t p="ext.3" n="8" a="[1]" o="n-s---fn-" u="45">
+      <f>uxorem</f>
+    </t>
+    <t p="ext.3" n="9" a="[2]" o="n-s---fn-" u="46">
+      <f>eam</f>
+    </t>
+    <t p="ext.4" n="1" a="[1]" o="n-s---fn-" u="47">
+      <f>duxit</f>
+    </t>
+    <t p="ext.4" n="2" a="[1]" o="a-s---fn-" u="48">
+      <f>Marcus</f>
+    </t>
+    <t p="ext.4" n="3" a="[1]" o="n-s---fn-" u="49">
+      <f>Petronius</f>
+    </t>
+    <t p="ext.4" n="4" a="[1]" o="a-s---fn-" u="50">
+      <f>Seruillius</f>
+    </t>
+    <t p="ext.4" n="5" a="[1]" o="n-s---fn-" u="51">
+      <f>eique</f>
+    </t>
+    <t p="ext.4" n="6" a="[1]" o="n-s---fn-" u="52">
+      <f>dotis</f>
+    </t>
+    <t p="ext.4" n="7" a="[1]" o="a-s---fn-" u="53">
+      <f>dixit</f>
+    </t>
+    <t p="ext.4" n="8" a="[1]" o="n-s---fn-" u="54">
+      <f>et</f>
+    </t>
+    <t p="ext.4" n="9" a="[1]" o="a-s---fn-" u="55">
+      <f>dedit</f>
+    </t>
+    <t p="ext.4" n="10" a="[1]" o="n-s---fn-" u="56">
+      <f>ea</f>
+    </t>
+    <t p="ext.4" n="11" a="[1]" o="a-s---fn-" u="57">
+      <f>omnia</f>
+    </t>
+    <t p="ext.5" n="1" a="[1]" o="n-s---fn-" u="58">
+      <f>quae</f>
+    </t>
+    <t p="ext.5" n="2" a="[1]" o="a-s---fn-" u="59">
+      <f>infra</f>
+    </t>
+    <t p="ext.5" n="3" a="[1]" o="n-s---fn-" u="60">
+      <f>scripta</f>
+    </t>
+    <t p="ext.5" n="4" a="[1]" o="n-s---fn-" u="61">
+      <f>sunt</f>
+    </t>
+    <t p="ext.5" n="5" a="[1]" o="a-s---fn-" u="62">
+      <f>pro</f>
+    </t>
+    <t p="ext.5" n="6" a="[1]" o="n-s---fn-" u="63">
+      <f>eadem</f>
+    </t>
+    <t p="ext.5" n="7" a="[1]" o="n-s---fn-" u="64">
+      <f>supra</f>
+    </t>
+    <t p="ext.5" n="8" a="[2]" o="a-s---fn-" u="65">
+      <f>scripta</f>
+    </t>
+    <t p="ext.5" n="9" a="[1]" o="u--------" u="66">
+      <f>a</f>
+    </t>
+    <t p="ext.5" n="10" a="[1]" o="n-s---fn-" u="67">
+      <f>uicum</f>
+    </t>
+    <t p="ext.5" n="11" a="[1]" o="a-s---fn-" u="68">
+      <f>Philadelphiam</f>
+    </t>
+    <t p="ext.5" n="12" a="[1]" o="n-s---fn-" u="69">
+      <f>paternas</f>
+    </t>
+    <t p="ext.5" n="13" a="[1]" o="a-s---fn-" u="70">
+      <f>ab</f>
+    </t>
+    <t p="ext.5" n="14" a="[1]" o="n-s---fn-" u="71">
+      <f>iuger</f>
+    </t>
+    <t p="ext.5" n="15" a="[1]" o="a-s---fn-" u="72">
+      <f>dua</f>
+    </t>
+    <t p="ext.6" n="1" a="[1]" o="n-s---fn-" u="73">
+      <f>et</f>
+    </t>
+    <t p="ext.6" n="2" a="[1]" o="a-s---fn-" u="74">
+      <f>semis</f>
+    </t>
+    <t p="ext.6" n="3" a="[2]" o="n-s---fn-" u="75">
+      <f>et</f>
+    </t>
+    <t p="ext.6" n="4" a="[1]" o="a-s---fn-" u="76">
+      <f>quadrans</f>
+    </t>
+    <t p="ext.6" n="5" a="[1]" o="a-s---fn-" u="77">
+      <f>catoecicas</f>
+    </t>
+    <t p="ext.6" n="6" a="[1]" o="n-s---fn-" u="78">
+      <f>in</f>
+    </t>
+    <t p="ext.6" n="7" a="[1]" o="n-s---fn-" u="79">
+      <f>locó</f>
+    </t>
+    <t p="ext.6" n="8" a="[1]" o="a-s---fn-" u="80">
+      <f>Cor</f>
+    </t>
+    <t p="ext.7" n="1" a="[1]" o="n-s---fn-" u="81">
+      <f>in</f>
+    </t>
+    <t p="ext.7" n="2" a="[1]" o="a-s---fn-" u="82">
+      <f>eodem</f>
+    </t>
+    <t p="ext.7" n="3" a="[1]" o="n-s---fn-" u="83">
+      <f>uicó</f>
+    </t>
+    <t p="ext.7" n="4" a="[1]" o="a-s---fn-" u="84">
+      <f>paternas</f>
+    </t>
+    <t p="ext.7" n="5" a="[1]" o="n-s---fn-" u="85">
+      <f>amminas</f>
+    </t>
+    <t p="ext.7" n="6" a="[1]" o="n-s---fn-" u="86">
+      <f>tres</f>
+    </t>
+    <t p="ext.7" n="7" a="[1]" o="a-s---fn-" u="87">
+      <f>et</f>
+    </t>
+    <t p="ext.7" n="8" a="[1]" o="n-s---fn-" u="88">
+      <f>semis</f>
+    </t>
+    <t p="ext.7" n="9" a="[1]" join="b" o="u--------" u="89">
+      <f>,</f>
+    </t>
+    <t p="ext.7" n="10" a="[1]" o="n-s---fn-" u="90">
+      <f>par</f>
+    </t>
+    <t p="ext.8" n="1" a="[1]" o="n-s---fn-" u="91">
+      <f>tem</f>
+    </t>
+    <t p="ext.8" n="2" a="[1]" o="a-s---fn-" u="92">
+      <f>dimidiam</f>
+    </t>
+    <t p="ext.8" n="3" a="[1]" o="n-s---fn-" u="93">
+      <f>ampelitis</f>
+    </t>
+    <t p="ext.8" n="4" a="[1]" o="a-s---fn-" u="94">
+      <f>et</f>
+    </t>
+    <t p="ext.8" n="5" a="[1]" o="n-s---fn-" u="95">
+      <f>in</f>
+    </t>
+    <t p="ext.8" n="6" a="[1]" o="a-s---fn-" u="96">
+      <f>aureis</f>
+    </t>
+    <t p="ext.8" n="7" a="[1]" o="n-s---fn-" u="97">
+      <f>enotion</f>
+    </t>
+    <t p="ext.8" n="8" a="[1]" o="a-s---fn-" u="98">
+      <f>perlon</f>
+    </t>
+    <t p="ext.9" n="1" a="[1]" o="a-s---fn-" u="99">
+      <f>gum</f>
+    </t>
+    <t p="ext.9" n="2" a="[1]" o="n-s---fn-" u="100">
+      <f>tetarta</f>
+    </t>
+    <t p="ext.9" n="3" a="[1]" o="a-s---fn-" u="101">
+      <f>dua</f>
+    </t>
+    <t p="ext.9" n="4" a="[1]" o="n-s---fn-" u="102">
+      <f>et</f>
+    </t>
+    <t p="ext.9" n="5" a="[1]" o="a-s---fn-" u="103">
+      <f>semis</f>
+    </t>
+    <t p="ext.9" n="6" a="[1]" o="n-s---fn-" u="104">
+      <f>cottatia</f>
+    </t>
+    <t p="ext.9" n="7" a="[2]" o="a-s---fn-" u="105">
+      <f>tetarta</f>
+    </t>
+    <t p="ext.9" n="8" a="[1]" o="n-s---fn-" u="106">
+      <f>una</f>
+    </t>
+    <t p="ext.9" n="9" a="[2]" o="n-s---fn-" u="107">
+      <f>et</f>
+    </t>
+    <t p="ext.9" n="10" a="[2]" o="a-s---fn-" u="108">
+      <f>semis</f>
+    </t>
+    <t p="ext.9" n="11" a="[1]" join="b" o="u--------" u="109">
+      <f>,</f>
+    </t>
+    <t p="ext.9" n="12" a="[1]" o="n-s---fn-" u="110">
+      <f>fiunt</f>
+    </t>
+    <t p="ext.9" n="13" a="[3]" o="v2sfip---" u="111">
+      <f>tetarta</f>
+    </t>
+    <t p="ext.9" n="14" a="[1]" o="n-s---fn-" u="112">
+      <f>iiii</f>
+    </t>
+    <t p="ext.9" n="15" a="[2]" join="b" o="u--------" u="113">
+      <f>,</f>
+    </t>
+    <t p="ext.10" n="1" a="[1]" o="n-s---fn-" u="114">
+      <f>argentea</f>
+    </t>
+    <t p="ext.10" n="2" a="[1]" o="n-s---fn-" u="115">
+      <f>claria</f>
+    </t>
+    <t p="ext.10" n="3" a="[1]" o="a-s---fn-" u="116">
+      <f>par</f>
+    </t>
+    <t p="ext.10" n="4" a="[1]" o="n-s---fn-" u="117">
+      <f>unum</f>
+    </t>
+    <t p="ext.10" n="5" a="[1]" o="a-s---fn-" u="118">
+      <f>pondo</f>
+    </t>
+    <t p="ext.10" n="6" a="[1]" o="n-s---fn-" u="119">
+      <f>stateri</f>
+    </t>
+    <t p="ext.10" n="7" a="[1]" o="a-s---fn-" u="120">
+      <f>vii</f>
+    </t>
+    <t p="ext.10" n="8" a="[1]" o="n-s---fn-" u="121">
+      <f>et</f>
+    </t>
+    <t p="ext.10" n="9" a="[1]" o="a-s---fn-" u="122">
+      <f>in</f>
+    </t>
+    <t p="ext.10" n="10" a="[1]" o="n-s---fn-" u="123">
+      <f>ueste</f>
+    </t>
+    <t p="ext.10" n="11" a="[1]" o="a-s---fn-" u="124">
+      <f>aestumata</f>
+    </t>
+    <t p="ext.10" n="12" a="[1]" o="n-s---fn-" u="125">
+      <f>tuni</f>
+    </t>
+    <t p="ext.11" n="1" a="[1]" o="a-s---fn-" u="126">
+      <f>ca</f>
+    </t>
+    <t p="ext.11" n="2" a="[1]" o="n-s---fn-" u="127">
+      <f>et</f>
+    </t>
+    <t p="ext.11" n="3" a="[1]" o="a-s---fn-" u="128">
+      <f>palliolum</f>
+    </t>
+    <t p="ext.11" n="4" a="[2]" o="n-s---fn-" u="129">
+      <f>et</f>
+    </t>
+    <t p="ext.11" n="5" a="[1]" o="a-s---fn-" u="130">
+      <f>pallium</f>
+    </t>
+    <t p="ext.11" n="6" a="[1]" o="n-s---fn-" u="131">
+      <f>Scyrina</f>
+    </t>
+    <t p="ext.11" n="7" a="[1]" o="a-s---fn-" u="132">
+      <f>drachmarum</f>
+    </t>
+    <t p="ext.11" n="8" a="[1]" o="n-s---fn-" u="133">
+      <f>August</f>
+    </t>
+    <t p="ext.11" n="9" a="[1]" o="a-s---fn-" u="134">
+      <f>cdxxx</f>
+    </t>
+    <t p="ext.11" n="10" a="[3]" o="n-s---fn-" u="135">
+      <f>et</f>
+    </t>
+    <t p="ext.11" n="11" a="[1]" o="a-s---fn-" u="136">
+      <f>heratianon</f>
+    </t>
+    <t p="ext.11" n="12" a="[4]" o="n-s---fn-" u="137">
+      <f>et</f>
+    </t>
+    <t p="ext.11" n="13" a="[1]" o="a-s---fn-" u="138">
+      <f>epi</f>
+    </t>
+    <t p="ext.12" n="1" a="[1]" o="n-s---fn-" u="139">
+      <f>carsium</f>
+    </t>
+    <t p="ext.12" n="2" a="[1]" o="a-s---fn-" u="140">
+      <f>et</f>
+    </t>
+    <t p="ext.12" n="3" a="[1]" o="a-s---fn-" u="141">
+      <f>aeramenta</f>
+    </t>
+    <t p="ext.12" n="4" a="[1]" o="n-s---fn-" u="142">
+      <f>Uenerem</f>
+    </t>
+    <t p="ext.12" n="5" a="[2]" o="a-s---fn-" u="143">
+      <f>et</f>
+    </t>
+    <t p="ext.12" n="6" a="[1]" o="n-s---fn-" u="144">
+      <f>cadium</f>
+    </t>
+    <t p="ext.12" n="7" a="[1]" o="a-s---fn-" u="145">
+      <f>drachmarum</f>
+    </t>
+    <t p="ext.12" n="8" a="[1]" o="n-s---fn-" u="146">
+      <f>August</f>
+    </t>
+    <t p="ext.12" n="9" a="[1]" o="a-s---fn-" u="147">
+      <f>xxxxviii</f>
+    </t>
+    <t p="ext.12" n="10" a="[3]" o="n-s---fn-" u="148">
+      <f>et</f>
+    </t>
+    <t p="ext.12" n="11" a="[1]" o="a-s---fn-" u="149">
+      <f>osyptrum</f>
+    </t>
+    <t p="ext.12" n="12" a="[4]" o="n-s---fn-" u="150">
+      <f>et</f>
+    </t>
+    <t p="ext.12" n="13" a="[1]" o="a-s---fn-" u="151">
+      <f>arcam</f>
+    </t>
+    <t p="ext.13" n="1" a="[1]" o="u--------" u="152">
+      <f>s</f>
+    </t>
+    <t p="ext.13" n="2" a="[1]" join="b" o="u--------" u="153">
+      <f>,</f>
+    </t>
+    <t p="ext.13" n="3" a="[1]" o="a-s---mv-" u="154">
+      <f>lecythos</f>
+    </t>
+    <t p="ext.13" n="4" a="[1]" o="n-s---mv-" u="155">
+      <f>duos</f>
+    </t>
+    <t p="ext.13" n="5" a="[1]" o="n-s---mv-" u="156">
+      <f>et</f>
+    </t>
+    <t p="ext.13" n="6" a="[1]" o="n-s---mv-" u="157">
+      <f>cadium</f>
+    </t>
+    <t p="ext.13" n="7" a="[1]" o="a-s---mv-" u="158">
+      <f>alterum</f>
+    </t>
+    <t p="ext.13" n="8" a="[1]" o="n-s---mv-" u="159">
+      <f>statmó</f>
+    </t>
+    <t p="ext.13" n="9" a="[1]" o="n-s---mv-" u="160">
+      <f>mnae</f>
+    </t>
+    <t p="ext.13" n="10" a="[1]" o="a-s---mv-" u="161">
+      <f>vii</f>
+    </t>
+    <t p="ext.13" n="11" a="[1]" o="n-s---mv-" u="162">
+      <f>quadrans</f>
+    </t>
+    <t p="ext.13" n="12" a="[2]" o="n-s---mv-" u="163">
+      <f>et</f>
+    </t>
+    <t p="ext.13" n="13" a="[1]" o="v2sama---" u="164">
+      <f>arclam</f>
+    </t>
+    <t p="ext.13" n="14" a="[1]" o="d--------" u="165">
+      <f>li</f>
+    </t>
+    <t p="ext.14" n="1" a="[1]" o="a-s---fds" u="166">
+      <f>gneam</f>
+    </t>
+    <t p="ext.14" n="2" a="[1]" join="b" o="u--------" u="167">
+      <f>,</f>
+    </t>
+    <t p="ext.14" n="3" a="[1]" o="n-s---fv-" u="168">
+      <f>cathedram</f>
+    </t>
+    <t p="ext.14" n="4" a="[2]" join="b" o="u--------" u="169">
+      <f>,</f>
+    </t>
+    <t p="ext.14" n="5" a="[1]" o="a-s---fv-" u="170">
+      <f>pyxidem</f>
+    </t>
+    <t p="ext.14" n="6" a="[3]" join="b" o="u--------" u="171">
+      <f>,</f>
+    </t>
+    <t p="ext.14" n="7" a="[1]" o="a-s---fv-" u="172">
+      <f>cophinum</f>
+    </t>
+    <t p="ext.14" n="8" a="[1]" o="n-s---fv-" u="173">
+      <f>et</f>
+    </t>
+    <t p="ext.14" n="9" a="[1]" o="a-s---fv-" u="174">
+      <f>seruam</f>
+    </t>
+    <t p="ext.14" n="10" a="[1]" o="n-s---fv-" u="175">
+      <f>paternam</f>
+    </t>
+    <t p="ext.14" n="11" a="[1]" o="a-s---fv-" u="176">
+      <f>Heraidan</f>
+    </t>
+    <t p="ext.14" n="12" a="[2]" o="n-s---fv-" u="177">
+      <f>et</f>
+    </t>
+    <t p="ext.15" n="1" a="[1]" o="a-s---fv-" u="178">
+      <f>paraferna</f>
+    </t>
+    <t p="ext.15" n="2" a="[1]" o="n-s---fv-" u="179">
+      <f>tunica</f>
+    </t>
+    <t p="ext.15" n="3" a="[1]" o="n-s---fv-" u="180">
+      <f>et</f>
+    </t>
+    <t p="ext.15" n="4" a="[1]" o="n-s---fv-" u="181">
+      <f>palliolum</f>
+    </t>
+    <t p="ext.15" n="5" a="[1]" o="a-s---fv-" u="182">
+      <f>tribacum</f>
+    </t>
+    <t p="ext.15" n="6" a="[1]" join="b" o="u--------" u="183">
+      <f>.</f>
+    </t>
+  </s>
+</text>

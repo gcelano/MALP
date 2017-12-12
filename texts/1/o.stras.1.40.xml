@@ -1,0 +1,75 @@
+<text text-id="o.stras.1.40">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Ὧρος</f>
+      <l>
+        <l1 r="ne-s---mn-">Ὧρος</l1>
+      </l>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Τεῶτος</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="a-p---fg-" u="3">
+      <f>παστοφόρων</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="v3srie---" u="4">
+      <f>τέτακται</f>
+      <l>
+        <l1 r="v-3srie---">τάσσω</l1>
+        <l2>τάσσω</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---fg-" u="5">
+      <f>λαογραφίας</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="r--------" u="6">
+      <f>ιγ</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="a-p---fa-" u="7">
+      <f>ἔτους</f>
+    </t>
+    <t p="2" n="5" a="[1]" o="n-p---fa-" u="8">
+      <f>δραχμὰς</f>
+      <l>
+        <l1 r="n--p---fa-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="2" n="6" a="[1]" o="a--------" u="9">
+      <f>ι</f>
+    </t>
+    <t p="2" n="7" a="[1]" join="b" o="u--------" u="10">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="3" n="1" a="[1]" o="a-p---ma-" u="1">
+      <f>ἔτους</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="d--------" u="2">
+      <f>ιγ</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---mn-" u="3">
+      <f>Καίσαρος</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---md-" u="4">
+      <f>Φαμενὼθ</f>
+    </t>
+    <t p="3" n="5" a="[1]" o="u--------" u="5">
+      <f>κ</f>
+    </t>
+    <t p="3" n="6" a="[1]" join="b" o="u--------" u="6">
+      <f>.</f>
+    </t>
+  </s>
+</text>

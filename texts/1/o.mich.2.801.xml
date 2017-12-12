@@ -1,0 +1,52 @@
+<text text-id="o.mich.2.801">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="a-p---ma-" u="1">
+      <f>ἔτους</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="r--------" u="2">
+      <f>λδ</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Καίσαρος</f>
+      <l>
+        <l1 r="ne-s---mg-">Καῖσαρ</l1>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---mg-" u="4">
+      <f>Πανεσνέως</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---fn-" u="5">
+      <f>Μεσορὴ</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="--------" u="6">
+      <f>β</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---mg-" u="7">
+      <f>ζύτου</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-p---ma-" u="8">
+      <f>λάκκους</f>
+      <l>
+        <l1 r="n--p---ma-">λάκκος</l1>
+        <l2>λάκκος</l2>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="--------" u="9">
+      <f>δ</f>
+    </t>
+    <t p="3" n="4" a="[1]" join="b" o="u--------" u="10">
+      <f>.</f>
+    </t>
+  </s>
+</text>

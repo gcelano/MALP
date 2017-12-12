@@ -1,0 +1,81 @@
+<text text-id="o.trim.1.328">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="convex.1" n="1" a="[1]" join="b" o="u--------" u="1">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="convex.2" n="1" a="[1]" o="a-p---nn-" u="1">
+      <f>αὐτά</f>
+      <l>
+        <l1 r="a--p---nn-">αὐτός</l1>
+        <l2>αὐτός</l2>
+      </l>
+    </t>
+    <t p="convex.3" n="1" a="[1]" o="a-p---ma-" u="2">
+      <f>γλεύκους</f>
+    </t>
+    <t p="convex.4" n="1" a="[1]" o="m--------" u="3">
+      <f>εἴκοσι</f>
+      <l>
+        <l2>εἴκοσι</l2>
+      </l>
+    </t>
+    <t p="convex.4" n="2" a="[1]" o="a-p---nn-" u="4">
+      <f>τέσσαρα</f>
+    </t>
+    <t p="convex.5" n="1" a="[1]" o="a-s---mg-" u="5">
+      <f>ου</f>
+    </t>
+    <t p="convex.5" n="2" a="[1]" o="n-s---mg-" u="6">
+      <f>Ἀντινόου</f>
+      <l>
+        <l1 r="ne-s---mg-">Ἀντίνοος</l1>
+      </l>
+    </t>
+    <t p="convex.6" n="1" a="[1]" join="b" o="u--------" u="7">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="convex.6" n="2" a="[1]" o="--------" u="1">
+      <f>ω</f>
+    </t>
+    <t p="convex.6" n="3" a="[1]" o="p-s---md-" u="2">
+      <f>αὐτῷ</f>
+      <l>
+        <l1 r="pp-s---md-">αὐτός</l1>
+      </l>
+    </t>
+    <t p="convex.6" n="4" a="[1]" o="l-p---na-" u="3">
+      <f>τὰ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="convex.6" n="5" a="[1]" o="d--------" u="4">
+      <f>κοῦ</f>
+      <l>
+        <l1 r="di--------">ποῦ</l1>
+        <l2>πού</l2>
+      </l>
+    </t>
+    <t p="convex.7" n="1" a="[1]" o="d--------" u="5">
+      <f>φα</f>
+    </t>
+    <t p="concave.1" n="1" a="[1]" join="b" o="u--------" u="6">
+      <f>.</f>
+    </t>
+  </s>
+</text>

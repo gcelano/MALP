@@ -1,0 +1,52 @@
+<text text-id="o.stras.1.329">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="v.1" n="1" a="[1]" o="a-s---ng-" u="1">
+      <f>Ἀχμᾶσι</f>
+    </t>
+    <t p="v.1" n="2" a="[1]" o="n-s---ng-" u="2">
+      <f>πυροῦ</f>
+    </t>
+    <t p="v.1" n="3" a="[1]" o="u--------" u="3">
+      <f>λ</f>
+    </t>
+    <t p="v.2" n="1" a="[1]" o="r--------" u="4">
+      <f>ἐν</f>
+      <l>
+        <l1 r="r---------">ἐν</l1>
+        <l2>εἰς</l2>
+        <l2>ἐν</l2>
+      </l>
+    </t>
+    <t p="v.2" n="2" a="[1]" o="l-s---nd-" u="5">
+      <f>τῷ</f>
+      <l>
+        <l2>ὁ</l2>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="v.2" n="3" a="[1]" o="n-s---nd-" u="6">
+      <f>ἔτει</f>
+      <l>
+        <l1 r="n--s---nd-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="v.2" n="4" a="[1]" o="a-s---nd-" u="7">
+      <f>λα</f>
+    </t>
+    <t p="v.2" n="5" a="[1]" join="b" o="u--------" u="8">
+      <f>.</f>
+    </t>
+  </s>
+</text>

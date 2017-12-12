@@ -1,0 +1,92 @@
+<text text-id="o.heid.400">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-p---mn-" u="1">
+      <f>ἡμεροφύλακες</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mg-" u="2">
+      <f>μηνὸς</f>
+      <l>
+        <l1 r="n--s---mg-">μείς</l1>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---fn-" u="3">
+      <f>Ἁθύρ</f>
+    </t>
+    <t p="1" n="4" a="[1]" join="b" o="u--------" u="4">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="2" n="1" a="[1]" o="a-s---mn-" u="1">
+      <f>δεκανὸς</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Φθοσνεύς</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---mn-" u="3">
+      <f>Παμοντεχύσιος</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---mn-" u="4">
+      <f>Ἁρσιῆσις</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---mn-" u="5">
+      <f>Πελίσιος</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---mn-" u="6">
+      <f>Πετενῶθις</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---mn-" u="7">
+      <f>Πετεμενώφιος</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="n-s---mn-" u="8">
+      <f>Ψενεσουῆρις</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-s---mg-" u="9">
+      <f>Φθομώνθου</f>
+    </t>
+    <t p="6" n="1" a="[1]" o="n-s---fn-" u="10">
+      <f>Ψενμοντπασῆμις</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="a-s---mg-" u="11">
+      <f>Ψεμώνθου</f>
+    </t>
+    <t p="6" n="3" a="[1]" o="n-s---mg-" u="12">
+      <f>Παμώνθου</f>
+    </t>
+    <t p="7" n="1" a="[1]" o="n-s---fg-" u="13">
+      <f>Σεκῆς</f>
+    </t>
+    <t p="7" n="2" a="[1]" o="r--------" u="14">
+      <f>ἀπὸ</f>
+      <l>
+        <l1 r="r---------">ἀπό</l1>
+      </l>
+    </t>
+    <t p="7" n="3" a="[1]" o="n-s---mg-" u="15">
+      <f>Ἀσφύνεως</f>
+    </t>
+    <t p="8" n="1" a="[1]" o="v3ppie---" u="16">
+      <f>γίνονται</f>
+      <l>
+        <l2>γίγνομαι</l2>
+      </l>
+    </t>
+    <t p="8" n="2" a="[1]" o="u--------" u="17">
+      <f>ϛ</f>
+    </t>
+    <t p="8" n="3" a="[1]" join="b" o="u--------" u="18">
+      <f>.</f>
+    </t>
+  </s>
+</text>

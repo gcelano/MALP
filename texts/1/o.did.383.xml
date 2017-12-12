@@ -1,0 +1,395 @@
+<text text-id="o.did.383">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="convex.1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Φιλοκλῆς</f>
+      <l>
+        <l1 r="ne-s---mn-">Φιλοκλέης</l1>
+      </l>
+    </t>
+    <t p="convex.2" n="1" a="[1]" o="n-s---fd-" u="2">
+      <f>Σκνιπὶ</f>
+    </t>
+    <t p="convex.2" n="2" a="[1]" o="p-s---fd-" u="3">
+      <f>τῇ</f>
+      <l>
+        <l1 r="pa-s---fd-">ὁ</l1>
+        <l1 r="pr-s---fd-">ὅς</l1>
+      </l>
+    </t>
+    <t p="convex.2" n="3" a="[1]" o="a-s---fd-" u="4">
+      <f>ἀδε</f>
+    </t>
+    <t p="convex.3" n="1" a="[1]" o="n-s---fd-" u="5">
+      <f>λφῇ</f>
+    </t>
+    <t p="convex.3" n="2" a="[1]" o="a-p---na-" u="6">
+      <f>πλεῖστα</f>
+      <l>
+        <l2>πλεῖστος</l2>
+      </l>
+    </t>
+    <t p="convex.4" n="1" a="[1]" o="v--pna---" u="7">
+      <f>χαίρειν</f>
+      <l>
+        <l1 r="v---pna---">χαίρω</l1>
+        <l2>χαίρω</l2>
+      </l>
+    </t>
+    <t p="convex.4" n="2" a="[1]" join="b" o="u--------" u="8">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="convex.4" n="3" a="[1]" o="n-s---fv-" u="1">
+      <f>κόμι</f>
+    </t>
+    <t p="convex.4" n="4" a="[1]" join="b" o="u--------" u="2">
+      <f>-</f>
+    </t>
+    <t p="convex.5" n="1" a="[1]" o="v-pppafn-" u="3">
+      <f>σαι</f>
+    </t>
+    <t p="convex.5" n="2" a="[1]" o="r--------" u="4">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="convex.5" n="3" a="[1]" o="n-s---ma-" u="5">
+      <f>Ποτα</f>
+    </t>
+    <t p="convex.6" n="1" a="[1]" o="n-s---mg-" u="6">
+      <f>μίωνος</f>
+    </t>
+    <t p="convex.6" n="2" a="[1]" o="n-s---nn-" u="7">
+      <f>μαρ</f>
+    </t>
+    <t p="convex.7" n="1" a="[1]" o="a-s---nn-" u="8">
+      <f>σίππιον</f>
+    </t>
+    <t p="convex.7" n="2" a="[1]" o="d--------" u="9">
+      <f>ὅπου</f>
+      <l>
+        <l1 r="di--------">ὅπου</l1>
+        <l1 r="dr--------">ὅπου</l1>
+        <l2>ὅπου</l2>
+      </l>
+    </t>
+    <t p="convex.7" n="3" a="[1]" o="r--------" u="10">
+      <f>ἔνι</f>
+      <l>
+        <l1 r="r---------">ἐν</l1>
+        <l2>ἐν</l2>
+      </l>
+    </t>
+    <t p="convex.8" n="1" a="[1]" o="n-s---ng-" u="11">
+      <f>ματίου</f>
+    </t>
+    <t p="convex.8" n="2" a="[1]" o="n-s---na-" u="12">
+      <f>μάτιον</f>
+    </t>
+    <t p="convex.8" n="3" a="[1]" o="a-s---na-" u="13">
+      <f>ἥμισυ</f>
+      <l>
+        <l1 r="a--s---na-">ἥμισυς</l1>
+        <l2>ἥμισυς</l2>
+      </l>
+    </t>
+    <t p="convex.9" n="1" a="[1]" o="v-sppamn-" u="14">
+      <f>κρομμύων</f>
+    </t>
+    <t p="convex.10" n="1" a="[1]" o="d--------" u="15">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="convex.10" n="2" a="[1]" o="a-s---na-" u="16">
+      <f>πάλλιον</f>
+    </t>
+    <t p="convex.10" n="3" a="[1]" join="b" o="u--------" u="17">
+      <f>,</f>
+    </t>
+    <t p="convex.10" n="4" a="[1]" o="g--------" u="18">
+      <f>κε</f>
+      <l>
+        <l1 r="gm--------">ἄν</l1>
+        <l2>ἄν</l2>
+      </l>
+    </t>
+    <t p="convex.11" n="1" a="[1]" o="n-p---mg-" u="19">
+      <f>φαλωτῶν</f>
+    </t>
+    <t p="convex.12" n="1" a="[1]" o="d--------" u="20">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="convex.12" n="2" a="[1]" o="n-s---fa-" u="21">
+      <f>δέσμην</f>
+    </t>
+    <t p="convex.13" n="1" a="[1]" o="n-s---fg-" u="22">
+      <f>κράμβης</f>
+      <l>
+        <l1 r="n--s---fg-">κράμβη</l1>
+        <l2>κράμβη</l2>
+      </l>
+    </t>
+    <t p="convex.13" n="2" a="[1]" o="d--------" u="23">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="convex.14" n="1" a="[1]" o="n-s---na-" u="24">
+      <f>καβάτιον</f>
+    </t>
+    <t p="convex.14" n="2" a="[1]" o="a-s---na-" u="25">
+      <f>ταρι</f>
+    </t>
+    <t p="convex.15" n="1" a="[1]" o="a-s---mnc" u="26">
+      <f>χίων</f>
+    </t>
+    <t p="convex.15" n="2" a="[1]" join="b" o="u--------" u="27">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="convex.15" n="3" a="[1]" o="v1sria---" u="1">
+      <f>ἠρώτηκα</f>
+      <l>
+        <l2>ἐρωτάω</l2>
+      </l>
+    </t>
+    <t p="convex.16" n="1" a="[1]" o="n-s---ma-" u="2">
+      <f>Ποτάμωνα</f>
+    </t>
+    <t p="convex.17" n="1" a="[1]" o="v3saia---" u="3">
+      <f>ε</f>
+    </t>
+    <t p="convex.17" n="2" a="[1]" o="v3sasa---" u="4">
+      <f>καθίσῃ</f>
+      <l>
+        <l1 r="v-3sasa---">καθίζω</l1>
+        <l2>καθίζω</l2>
+      </l>
+    </t>
+    <t p="convex.18" n="1" a="[1]" o="v3spia---" u="5">
+      <f>ποει</f>
+    </t>
+    <t p="concave.19" n="1" a="[1]" o="l-s---fa-" u="6">
+      <f>τὴν</f>
+    </t>
+    <t p="concave.19" n="2" a="[1]" o="n-s---fa-" u="7">
+      <f>αὐ</f>
+    </t>
+    <t p="concave.20" n="1" a="[1]" o="l-s---fa-" u="8">
+      <f>τὴν</f>
+    </t>
+    <t p="concave.20" n="2" a="[1]" o="d--------" u="9">
+      <f>ἐχό</f>
+    </t>
+    <t p="concave.21" n="1" a="[1]" o="r--------" u="10">
+      <f>μενά</f>
+    </t>
+    <t p="concave.21" n="2" a="[1]" o="d--------" u="11">
+      <f>μο</f>
+    </t>
+    <t p="concave.22" n="1" a="[1]" o="u--------" u="12">
+      <f>υ</f>
+    </t>
+    <t p="concave.22" n="2" a="[1]" join="b" o="u--------" u="13">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="4">
+    <t p="concave.22" n="3" a="[1]" o="n-s---ma-" u="1">
+      <f>Φιλοκλῆ</f>
+      <l>
+        <l1 r="ne-s---ma-">Φιλοκλέης</l1>
+      </l>
+    </t>
+    <t p="concave.23" n="1" a="[1]" o="r--------" u="2">
+      <f>ς</f>
+    </t>
+    <t p="concave.23" n="2" a="[1]" o="n-s---md-" u="3">
+      <f>Καππάρει</f>
+    </t>
+    <t p="concave.24" n="1" a="[1]" o="l-s---md-" u="4">
+      <f>τῷ</f>
+      <l>
+        <l2>ὁ</l2>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="concave.24" n="2" a="[1]" o="n-s---md-" u="5">
+      <f>ἀδελφῷ</f>
+      <l>
+        <l1 r="n--s---md-">ἀδελφός</l1>
+        <l2>ἀδελφός</l2>
+      </l>
+    </t>
+    <t p="concave.25" n="1" a="[1]" o="v--pna---" u="6">
+      <f>χαίρειν</f>
+      <l>
+        <l1 r="v---pna---">χαίρω</l1>
+        <l2>χαίρω</l2>
+      </l>
+    </t>
+    <t p="concave.25" n="2" a="[1]" join="b" o="u--------" u="7">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="5">
+    <t p="concave.25" n="3" a="[1]" o="v1saia---" u="1">
+      <f>ἔπεμψα</f>
+      <l>
+        <l1 r="v-1saia---">πέμπω</l1>
+        <l2>πέμπω</l2>
+      </l>
+    </t>
+    <t p="concave.25" n="4" a="[1]" join="b" o="u--------" u="2">
+      <f>,</f>
+    </t>
+    <t p="concave.26" n="1" a="[1]" o="n-s---mv-" u="3">
+      <f>ἄδελφε</f>
+      <l>
+        <l1 r="n--s---mv-">ἀδελφός</l1>
+        <l2>ἀδελφός</l2>
+      </l>
+    </t>
+    <t p="concave.26" n="2" a="[1]" join="b" o="u--------" u="4">
+      <f>,</f>
+    </t>
+    <t p="concave.26" n="3" a="[1]" o="r--------" u="5">
+      <f>ἐπὶ</f>
+      <l>
+        <l1 r="r---------">ἐπί</l1>
+        <l2>ἐπί</l2>
+      </l>
+    </t>
+    <t p="concave.27" n="1" a="[1]" o="n-s---nn-" u="6">
+      <f>ἔλαιον</f>
+      <l>
+        <l1 r="n--s---nn-">ἔλαιον</l1>
+        <l2>ἔλαιον</l2>
+      </l>
+    </t>
+    <t p="concave.27" n="2" a="[1]" o="d--------" u="7">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="concave.27" n="3" a="[1]" o="d--------" u="8">
+      <f>οὔ</f>
+      <l>
+        <l1 r="d---------">οὐ</l1>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+      </l>
+    </t>
+    <t p="concave.28" n="1" a="[1]" o="g--------" u="9">
+      <f>πω</f>
+      <l>
+        <l2>πω</l2>
+      </l>
+    </t>
+    <t p="concave.28" n="2" a="[1]" o="p-s---md-" u="10">
+      <f>μοι</f>
+    </t>
+    <t p="concave.28" n="3" a="[1]" o="v3siia---" u="11">
+      <f>ἠνέ</f>
+    </t>
+    <t p="concave.29" n="1" a="[1]" o="v3saip---" u="12">
+      <f>χθη</f>
+    </t>
+    <t p="concave.29" n="2" a="[1]" join="b" o="u--------" u="13">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="6">
+    <t p="concave.29" n="3" a="[1]" o="i--------" u="1">
+      <f>λοιπό</f>
+    </t>
+    <t p="concave.30" n="1" a="[1]" o="i--------" u="2">
+      <f>ν</f>
+    </t>
+    <t p="concave.30" n="2" a="[1]" join="b" o="u--------" u="3">
+      <f>,</f>
+    </t>
+    <t p="concave.30" n="3" a="[1]" o="g--------" u="4">
+      <f>ἂν</f>
+      <l>
+        <l1 r="gm--------">ἄν</l1>
+      </l>
+    </t>
+    <t p="concave.30" n="4" a="[1]" o="v3sasp---" u="5">
+      <f>ἐνεχ</f>
+    </t>
+    <t p="concave.31" n="1" a="[1]" o="v3sasp---" u="6">
+      <f>θῇ</f>
+    </t>
+    <t p="concave.31" n="2" a="[1]" o="p-s---md-" u="7">
+      <f>μοι</f>
+    </t>
+    <t p="concave.31" n="3" a="[1]" join="b" o="u--------" u="8">
+      <f>,</f>
+    </t>
+    <t p="concave.31" n="4" a="[1]" o="g--------" u="9">
+      <f>πέ</f>
+    </t>
+    <t p="concave.32" n="1" a="[1]" o="v1sfia---" u="10">
+      <f>μψω</f>
+    </t>
+    <t p="concave.32" n="2" a="[1]" o="---------" u="11">
+      <f>σοι</f>
+    </t>
+    <t p="concave.32" n="3" a="[1]" o="p-s---fn-" u="12">
+      <f>ἡ</f>
+      <l>
+        <l1 r="pa-s---fn-">ὁ</l1>
+        <l2>ὅς</l2>
+      </l>
+    </t>
+    <t p="concave.33" n="1" a="[1]" o="v3piia---" u="13">
+      <f>μίχουν</f>
+    </t>
+    <t p="concave.33" n="2" a="[1]" join="b" o="u--------" u="14">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="7">
+    <t p="concave.34" n="1" a="[1]" o="v2spme---" u="1">
+      <f>ἔρρωσο</f>
+    </t>
+    <t p="concave.34" n="2" a="[1]" join="b" o="u--------" u="2">
+      <f>.</f>
+    </t>
+  </s>
+</text>

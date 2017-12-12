@@ -1,0 +1,115 @@
+<text text-id="bgu.2.439">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-p---md-" u="1">
+      <f>σιτολόγοις</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---fg-" u="2">
+      <f>Καρανίδος</f>
+    </t>
+    <t p="1" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="1" n="4" a="[1]" o="v3paia---" u="1">
+      <f>ἔσχον</f>
+      <l>
+        <l1 r="v-3paia---">ἔχω</l1>
+        <l2>ἔχω</l2>
+      </l>
+    </t>
+    <t p="1" n="5" a="[1]" o="v-sapamn-" u="2">
+      <f>προσφωνήσας</f>
+      <l>
+        <l1 r="v--sapamn-">προσφωνέω</l1>
+      </l>
+    </t>
+    <t p="1" n="6" a="[1]" o="n-p---ng-" u="3">
+      <f>σπερμάτων</f>
+      <l>
+        <l1 r="n--p---ng-">σπέρμα</l1>
+        <l2>σπέρμα</l2>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="c--------" u="4">
+      <f>κβ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---ng-" u="5">
+      <f>ἔτους</f>
+      <l>
+        <l1 r="n--s---ng-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="a-s---ng-" u="6">
+      <f>Ἀντωνείνου</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="n-s---mn-" u="7">
+      <f>Καίσαρος</f>
+    </t>
+    <t p="2" n="5" a="[1]" o="l-s---mg-" u="8">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="2" n="6" a="[1]" o="n-s---ng-" u="9">
+      <f>κυρίου</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="r--------" u="10">
+      <f>οζ</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---fg-" u="11">
+      <f>κληρουχίας</f>
+      <l>
+        <l1 r="n--s---fg-">κληρουχία</l1>
+        <l2>κληρουχία</l2>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---fn-" u="12">
+      <f>Ὡρεὶς</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---mg-" u="13">
+      <f>Κέλλερος</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---mn-" u="14">
+      <f>Κερκεσούχων</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="a-s---mg-" u="15">
+      <f>προσόδου</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="n-p---fa-" u="16">
+      <f>ἀρούρας</f>
+      <l>
+        <l1 r="n--p---fa-">ἄρουρα</l1>
+        <l2>ἄρουρα</l2>
+      </l>
+    </t>
+    <t p="4" n="5" a="[1]" o="--------" u="17">
+      <f>β</f>
+    </t>
+    <t p="4" n="6" a="[1]" o="a-p---fa-" u="18">
+      <f>ιϛ</f>
+    </t>
+    <t p="4" n="7" a="[1]" o="v-pappfg-" u="19">
+      <f>λβ</f>
+    </t>
+    <t p="4" n="8" a="[1]" o="--------" u="20">
+      <f>ξδ</f>
+    </t>
+    <t p="4" n="9" a="[1]" join="b" o="u--------" u="21">
+      <f>.</f>
+    </t>
+  </s>
+</text>

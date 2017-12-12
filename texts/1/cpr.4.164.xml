@@ -1,0 +1,177 @@
+<text text-id="cpr.4.164">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>ⲥⲧⲉⲫⲁⲛⲉ</f>
+    </t>
+    <t p="r.1" n="2" a="[1]" o="n-s---mv-" u="2">
+      <f>ⲡⲣⲱⲙⲉ</f>
+    </t>
+    <t p="r.1" n="3" a="[1]" o="a-s---mv-" u="3">
+      <f>ϣⲙⲟⲩⲛ</f>
+    </t>
+    <t p="r.1" n="4" a="[1]" o="n-s---mv-" u="4">
+      <f>ⲉⲓⲥϩⲁⲓ</f>
+    </t>
+    <t p="r.1" n="5" a="[1]" o="u--------" u="5">
+      <f>ⲛ</f>
+    </t>
+    <t p="r.1" n="6" a="[1]" o="u--------" u="6">
+      <f>ϩ</f>
+    </t>
+    <t p="r.1" n="7" a="[1]" o="d--------" u="7">
+      <f>ⲇⲱⲣⲉ</f>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="l-s---fg-" u="8">
+      <f>ⲛⲁⲕ</f>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="c--------" u="9">
+      <f>ὡς</f>
+      <l>
+        <l1 r="c---------">ὡς</l1>
+        <l2>ὡς</l2>
+      </l>
+    </t>
+    <t p="r.2" n="3" a="[1]" o="v3saia---" u="10">
+      <f>ⲥⲃⲟⲩⲓ</f>
+    </t>
+    <t p="r.2" n="4" a="[1]" o="d--------" u="11">
+      <f>ⲉⲓⲣ</f>
+    </t>
+    <t p="r.2" n="5" a="[1]" o="v3slim---" u="12">
+      <f>ϩⲱϥ</f>
+    </t>
+    <t p="r.2" n="6" a="[2]" o="v2slim---" u="13">
+      <f>ⲛⲁⲕ</f>
+    </t>
+    <t p="r.2" n="7" a="[1]" o="d--------" u="14">
+      <f>ⲧⲉⲛⲟⲩ</f>
+    </t>
+    <t p="r.2" n="8" a="[1]" o="g--------" u="15">
+      <f>οὖν</f>
+      <l>
+        <l1 r="g---------">οὖν</l1>
+        <l2>οὖν</l2>
+      </l>
+    </t>
+    <t p="r.2" n="9" a="[1]" o="p-s---fn-" u="16">
+      <f>ⲧⲓ</f>
+    </t>
+    <t p="r.2" n="10" a="[1]" o="v--pna---" u="17">
+      <f>ὁμολογεῖν</f>
+      <l>
+        <l1 r="v---pna---">ὁμολογέω</l1>
+        <l2>ὁμολογέω</l2>
+      </l>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="a-s---fn-" u="18">
+      <f>ⲉⲑⲏ</f>
+    </t>
+    <t p="r.3" n="2" a="[1]" o="n-s---fn-" u="19">
+      <f>ⲧⲁϭⲱ</f>
+    </t>
+    <t p="r.3" n="3" a="[1]" o="a-s---fn-" u="20">
+      <f>ⲉⲓⲣ</f>
+    </t>
+    <t p="r.3" n="4" a="[1]" o="a-s---fn-" u="21">
+      <f>ϩⲱϥ</f>
+    </t>
+    <t p="r.3" n="5" a="[1]" o="n-s---fn-" u="22">
+      <f>ⲛⲁⲕ</f>
+    </t>
+    <t p="r.3" n="6" a="[1]" o="c--------" u="23">
+      <f>ὡς</f>
+      <l>
+        <l1 r="c---------">ὡς</l1>
+        <l2>ὡς</l2>
+      </l>
+    </t>
+    <t p="r.3" n="7" a="[1]" o="n-s---fn-" u="24">
+      <f>ⲥⲃⲟⲩⲓ</f>
+    </t>
+    <t p="r.3" n="8" a="[1]" o="a-s---fn-" u="25">
+      <f>ϫⲓⲛⲉ</f>
+    </t>
+    <t p="r.3" n="9" a="[1]" o="n-s---fn-" u="26">
+      <f>ⲡⲟⲟⲩ</f>
+    </t>
+    <t p="r.3" n="10" a="[2]" o="a-s---fn-" u="27">
+      <f>ⲉⲑⲏ</f>
+    </t>
+    <t p="r.3" n="11" a="[1]" o="a-s---fn-" u="28">
+      <f>ϣⲁ</f>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="a-s---fn-" u="29">
+      <f>ⲛⲧⲉⲧⲛⲉⲧⲟϣϥ</f>
+    </t>
+    <t p="r.4" n="2" a="[1]" o="a-s---fn-" u="30">
+      <f>ⲛⲁⲓ</f>
+    </t>
+    <t p="r.4" n="3" a="[1]" o="n-s---fn-" u="31">
+      <f>ⲛⲧⲟⲕ</f>
+    </t>
+    <t p="r.4" n="4" a="[1]" o="a-s---fn-" u="32">
+      <f>ⲙⲛ</f>
+    </t>
+    <t p="r.4" n="5" a="[1]" o="a-s---fn-" u="33">
+      <f>ⲧⲉⲕⲥϩⲓⲙⲉ</f>
+    </t>
+    <t p="r.4" n="6" a="[1]" o="a-s---fn-" u="34">
+      <f>ⲧⲁⲥⲱⲧⲙ</f>
+    </t>
+    <t p="r.4" n="7" a="[1]" o="n-s---fn-" u="35">
+      <f>ⲉⲥⲱⲧⲛ</f>
+    </t>
+    <t p="r.5" n="1" a="[1]" o="a-s---fn-" u="36">
+      <f>ⲧⲁϩⲁⲣⲉϩ</f>
+    </t>
+    <t p="r.5" n="2" a="[1]" o="a-s---fn-" u="37">
+      <f>ⲉⲧⲁ</f>
+    </t>
+    <t p="r.5" n="3" a="[1]" o="n-s---fn-" u="38">
+      <f>κατάστασις</f>
+      <l>
+        <l1 r="n--s---fn-">κατάστασις</l1>
+        <l2>κατάστασις</l2>
+      </l>
+    </t>
+    <t p="r.5" n="4" a="[1]" o="a-s---fn-" u="39">
+      <f>ⲙⲛ</f>
+    </t>
+    <t p="r.5" n="5" a="[1]" o="a-s---fn-" u="40">
+      <f>ⲧⲁ</f>
+    </t>
+    <t p="r.5" n="6" a="[1]" o="n-s---fn-" u="41">
+      <f>ἐλευθερία</f>
+      <l>
+        <l1 r="n--s---fn-">ἐλευθερία</l1>
+        <l2>ἐλευθερία</l2>
+      </l>
+    </t>
+    <t p="r.5" n="7" a="[1]" o="n-s---fn-" u="42">
+      <f>ϫⲉ</f>
+    </t>
+    <t p="r.5" n="8" a="[1]" o="a-s---fn-" u="43">
+      <f>ⲛⲛⲁⲉϣ</f>
+    </t>
+    <t p="r.5" n="9" a="[1]" o="n-s---fn-" u="44">
+      <f>ⲧⲁⲩⲟ</f>
+    </t>
+    <t p="r.5" n="10" a="[1]" o="a-s---fn-" u="45">
+      <f>ⲟⲩϣⲁϫⲉ</f>
+    </t>
+    <t p="r.6" n="1" a="[1]" join="b" o="u--------" u="46">
+      <f>.</f>
+    </t>
+  </s>
+</text>

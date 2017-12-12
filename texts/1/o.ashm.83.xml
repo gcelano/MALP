@@ -1,0 +1,80 @@
+<text text-id="o.ashm.83">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1.3" n="1" a="[1]" o="n-s---mg-" u="1">
+      <f>Ἁρυώθου</f>
+    </t>
+    <t p="1.7" n="1" a="[1]" o="a-s---mg-" u="2">
+      <f>Χαρίτωνος</f>
+    </t>
+    <t p="1.7" n="2" a="[1]" o="n-s---mg-" u="3">
+      <f>δούλου</f>
+      <l>
+        <l1 r="n--s---mg-">δοῦλος</l1>
+        <l2>δοῦλος</l2>
+      </l>
+    </t>
+    <t p="1.7" n="3" a="[1]" join="b" o="u--------" u="4">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="2.1" n="1" a="[1]" o="n-s---fg-" u="1">
+      <f>Σεκῆς</f>
+    </t>
+    <t p="2.1" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Ἀβῶτος</f>
+    </t>
+    <t p="2.1" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="2.2" n="1" a="[1]" o="n-s---fg-" u="1">
+      <f>Σεκῆς</f>
+    </t>
+    <t p="2.2" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Κέλετος</f>
+    </t>
+    <t p="2.2" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="4">
+    <t p="2.3" n="1" a="[1]" o="d--------" u="1">
+      <f>Ἰναρῶς</f>
+    </t>
+    <t p="2.3" n="2" a="[1]" o="a-s---mn-" u="2">
+      <f>νεώτερος</f>
+      <l>
+        <l2>νεώτερος</l2>
+      </l>
+    </t>
+    <t p="2.3" n="3" a="[1]" o="n-s---mn-" u="3">
+      <f>Κέλετος</f>
+    </t>
+    <t p="2.3" n="4" a="[1]" join="b" o="u--------" u="4">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="5">
+    <t p="2.4" n="1" a="[1]" join="b" o="u--------" u="1">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="6">
+    <t p="2.6" n="1" a="[1]" join="b" o="u--------" u="1">
+      <f>.</f>
+    </t>
+  </s>
+</text>

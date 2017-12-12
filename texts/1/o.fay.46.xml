@@ -1,0 +1,77 @@
+<text text-id="o.fay.46">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="d--------" u="1">
+      <f>ἀργυρ</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="v2spme---" u="2">
+      <f>στεφάνου</f>
+      <l>
+        <l2>στεφανόω</l2>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-p---fn-" u="3">
+      <f>δραχμαὶ</f>
+      <l>
+        <l1 r="n--p---fn-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="1" n="4" a="[1]" o="a-p---fn-" u="4">
+      <f>ιϛ</f>
+    </t>
+    <t p="1" n="5" a="[1]" join="b" o="u--------" u="5">
+      <f>,</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="c--------" u="6">
+      <f>δα</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="r--------" u="7">
+      <f>παρ</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---ng-" u="8">
+      <f>στεφάνου</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="v3spsa---" u="9">
+      <f>Αφ</f>
+    </t>
+    <t p="2" n="5" a="[1]" join="b" o="u--------" u="10">
+      <f>,</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="v3spsa---" u="11">
+      <f>ἱππάρχῃ</f>
+      <l>
+        <l2>ἱππαρχέω</l2>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---mg-" u="12">
+      <f>πυροῦ</f>
+      <l>
+        <l1 r="n--s---mg-">πυρός</l1>
+        <l2>πυρός</l2>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---fn-" u="13">
+      <f>ἀρτάβη</f>
+      <l>
+        <l1 r="n--s---fn-">ἀρτάβη</l1>
+        <l2>ἀρτάβη</l2>
+      </l>
+    </t>
+    <t p="3" n="4" a="[1]" o="--------" u="14">
+      <f>α</f>
+    </t>
+    <t p="3" n="5" a="[1]" join="b" o="u--------" u="15">
+      <f>.</f>
+    </t>
+  </s>
+</text>

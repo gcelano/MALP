@@ -1,0 +1,147 @@
+<text text-id="chla.41.1198">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="17" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>Imperatore</f>
+    </t>
+    <t p="17" n="2" a="[1]" o="n-s---mv-" u="2">
+      <f>domino</f>
+    </t>
+    <t p="17" n="3" a="[1]" o="a-s---mv-" u="3">
+      <f>nostro</f>
+    </t>
+    <t p="17" n="4" a="[1]" o="n-s---mv-" u="4">
+      <f>Antonino</f>
+    </t>
+    <t p="17" n="5" a="[1]" o="n-s---mv-" u="5">
+      <f>III</f>
+    </t>
+    <t p="17" n="6" a="[1]" o="n-s---mv-" u="6">
+      <f>et</f>
+    </t>
+    <t p="17" n="7" a="[1]" o="a-s---mv-" u="7">
+      <f>Comaszone</f>
+    </t>
+    <t p="17" n="8" a="[1]" o="n-s---mv-" u="8">
+      <f>II</f>
+    </t>
+    <t p="17" n="9" a="[1]" o="l-s---mg-" u="9">
+      <f>consulibus</f>
+    </t>
+    <t p="18" n="1" a="[1]" o="l-s---mg-" u="10">
+      <f>IIII</f>
+    </t>
+    <t p="18" n="2" a="[1]" o="n-s---md-" u="11">
+      <f>Nonas</f>
+    </t>
+    <t p="18" n="3" a="[1]" o="n-s---md-" u="12">
+      <f>Martias</f>
+    </t>
+    <t p="18" n="4" a="[1]" o="a-s---md-" u="13">
+      <f>Valerius</f>
+    </t>
+    <t p="18" n="5" a="[1]" o="n-s---md-" u="14">
+      <f>Valentinus</f>
+    </t>
+    <t p="18" n="6" a="[1]" o="n-s---md-" u="15">
+      <f>agri</f>
+    </t>
+    <t p="19" n="1" a="[1]" o="a-s---md-" u="16">
+      <f>mensor</f>
+    </t>
+    <t p="19" n="2" a="[1]" o="n-s---md-" u="17">
+      <f>praefecti</f>
+    </t>
+    <t p="19" n="3" a="[1]" o="n-s---md-" u="18">
+      <f>Aegypti</f>
+    </t>
+    <t p="19" n="4" a="[1]" o="n-s---md-" u="19">
+      <f>suscepi</f>
+    </t>
+    <t p="19" n="5" a="[1]" o="a-s---md-" u="20">
+      <f>vinum</f>
+    </t>
+    <t p="20" n="1" a="[1]" o="n-s---md-" u="21">
+      <f>sextaria</f>
+    </t>
+    <t p="20" n="2" a="[1]" o="n-s---md-" u="22">
+      <f>castrensia</f>
+    </t>
+    <t p="20" n="3" a="[1]" o="a-s----d-" u="23">
+      <f>sescenta</f>
+    </t>
+    <t p="20" n="4" a="[1]" o="a-s---md-" u="24">
+      <f>quadragin</f>
+    </t>
+    <t p="21" n="1" a="[1]" o="l-s---mg-" u="25">
+      <f>ta</f>
+    </t>
+    <t p="21" n="2" a="[1]" o="n-s---md-" u="26">
+      <f>Tito</f>
+    </t>
+    <t p="21" n="3" a="[1]" o="n-s---md-" u="27">
+      <f>Flavio</f>
+    </t>
+    <t p="21" n="4" a="[1]" o="a-s---md-" u="28">
+      <f>eutheniarcha</f>
+    </t>
+    <t p="22" n="1" a="[1]" o="n-s---md-" u="29">
+      <f>Oxsoricito</f>
+    </t>
+    <t p="22" n="2" a="[1]" o="n-s---md-" u="30">
+      <f>poleis</f>
+    </t>
+    <t p="22" n="3" a="[1]" o="a-s---md-" u="31">
+      <f>qui</f>
+    </t>
+    <t p="22" n="4" a="[1]" o="u--------" u="32">
+      <f>i</f>
+    </t>
+    <t p="22" n="5" a="[1]" o="c--------" u="33">
+      <f>et</f>
+    </t>
+    <t p="22" n="6" a="[1]" o="l-p---fg-" u="34">
+      <f>pretium</f>
+    </t>
+    <t p="23" n="1" a="[1]" o="n-p---fg-" u="35">
+      <f>dedi</f>
+    </t>
+    <t p="23" n="2" a="[1]" o="u--------" u="36">
+      <f>in</f>
+    </t>
+    <t p="23" n="3" a="[1]" o="v3sfie---" u="37">
+      <f>sextarium</f>
+    </t>
+    <t p="23" n="4" a="[1]" o="a-s---mv-" u="38">
+      <f>castrense</f>
+    </t>
+    <t p="23" n="5" a="[1]" o="n-s---mv-" u="39">
+      <f>unum</f>
+    </t>
+    <t p="23" n="6" a="[1]" o="u--------" u="40">
+      <f>o</f>
+    </t>
+    <t p="24" n="1" a="[1]" o="v2sama---" u="41">
+      <f>bolos</f>
+    </t>
+    <t p="24" n="2" a="[1]" o="a-s---mv-" u="42">
+      <f>quaternos</f>
+    </t>
+    <t p="24" n="3" a="[1]" o="n-s---mv-" u="43">
+      <f>plenos</f>
+    </t>
+    <t p="24" n="4" a="[1]" join="b" o="u--------" u="44">
+      <f>.</f>
+    </t>
+  </s>
+</text>

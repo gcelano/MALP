@@ -1,0 +1,66 @@
+<text text-id="o.tebt.7">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>Παχὼν</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="d--------" u="2">
+      <f>κβ</f>
+    </t>
+    <t p="1" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>,</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="r--------" u="4">
+      <f>ἐπὶ</f>
+      <l>
+        <l1 r="r---------">ἐπί</l1>
+        <l2>ἐπί</l2>
+      </l>
+    </t>
+    <t p="1" n="5" a="[1]" o="n-s---mg-" u="5">
+      <f>λόγου</f>
+      <l>
+        <l1 r="n--s---mg-">λόγος</l1>
+        <l2>λόγος</l2>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="a-s---mg-" u="6">
+      <f>ἐπιτρίτου</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="m--------" u="7">
+      <f>β</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="a-p---ma-" u="8">
+      <f>ἔτους</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="n-s---ng-" u="9">
+      <f>ἀργυρίου</f>
+      <l>
+        <l1 r="n--s---ng-">ἀργύριον</l1>
+        <l2>ἀργύριον</l2>
+      </l>
+    </t>
+    <t p="2" n="5" a="[1]" o="a-p---fn-" u="10">
+      <f>δραχμαὶ</f>
+    </t>
+    <t p="2" n="6" a="[1]" o="n-p---fn-" u="11">
+      <f>τέσσαρες</f>
+      <l>
+        <l2>τέσσαρες</l2>
+      </l>
+    </t>
+    <t p="2" n="7" a="[1]" join="b" o="u--------" u="12">
+      <f>.</f>
+    </t>
+  </s>
+</text>

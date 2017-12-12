@@ -1,0 +1,109 @@
+<text text-id="bgu.3.785">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---md-" u="1">
+      <f>Ἀππιανῷ</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---md-" u="2">
+      <f>στρατηγῷ</f>
+      <l>
+        <l1 r="n--s---md-">στρατηγός</l1>
+        <l2>στρατηγός</l2>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="d--------" u="3">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="a-s---md-" u="4">
+      <f>Ἑρμοφίλῳ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="a-s---md-" u="5">
+      <f>βασιλικῷ</f>
+      <l>
+        <l1 r="a--s---md-">βασιλικός</l1>
+        <l2>βασιλικός</l2>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---mg-" u="6">
+      <f>Ἀρσινοΐτου</f>
+      <l>
+        <l1 r="ne-s---mg-">Ἀρσινοΐτης</l1>
+      </l>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---mg-" u="7">
+      <f>Ἡρακλείδου</f>
+      <l>
+        <l1 r="ne-s---mg-">Ἡρακλείδης</l1>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---fg-" u="8">
+      <f>μερίδος</f>
+      <l>
+        <l1 r="n--s---fg-">μερίς</l1>
+        <l2>μερίς</l2>
+      </l>
+    </t>
+    <t p="4" n="1" a="[1]" o="r--------" u="9">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---mg-" u="10">
+      <f>Νιννάρου</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="l-s---mg-" u="11">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="4" n="4" a="[1]" o="d--------" u="12">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="4" n="5" a="[1]" o="n-s---mg-" u="13">
+      <f>Πτο</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="a-s---mg-" u="14">
+      <f>λεμαίου</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-s---mg-" u="15">
+      <f>Ἰσιδώρου</f>
+    </t>
+    <t p="5" n="3" a="[1]" o="r--------" u="16">
+      <f>ἀπὸ</f>
+      <l>
+        <l1 r="r---------">ἀπό</l1>
+      </l>
+    </t>
+    <t p="5" n="4" a="[1]" o="n-s---fg-" u="17">
+      <f>κώμης</f>
+      <l>
+        <l1 r="n--s---fg-">κώμη</l1>
+        <l2>κώμη</l2>
+      </l>
+    </t>
+    <t p="6" n="1" a="[1]" o="n-s---fg-" u="18">
+      <f>Καρανίδος</f>
+    </t>
+    <t p="6" n="2" a="[1]" join="b" o="u--------" u="19">
+      <f>.</f>
+    </t>
+  </s>
+</text>

@@ -1,0 +1,40 @@
+<text text-id="cpr.7.49">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="p--------" u="1">
+      <f>χμγ</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="v2spia---" u="2">
+      <f>ἔχεις</f>
+      <l>
+        <l1 r="v-2spia---">ἔχω</l1>
+        <l2>ἔχω</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="p1s---mg-" u="3">
+      <f>μου</f>
+      <l>
+        <l2>ἐγώ</l2>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---ng-" u="4">
+      <f>κέρματος</f>
+      <l>
+        <l1 r="n--s---ng-">κέρμα</l1>
+      </l>
+    </t>
+    <t p="2" n="4" a="[1]" join="b" o="u--------" u="5">
+      <f>·</f>
+    </t>
+  </s>
+</text>
