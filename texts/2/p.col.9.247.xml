@@ -1,0 +1,140 @@
+<text text-id="p.col.9.247">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1,ctr.1" n="1" a="[1]" o="d--------" u="1">
+      <f>πάλλια</f>
+    </t>
+    <t p="1,ctr.1" n="2" a="[1]" o="-|-|-|-|-|-|-|-" u="2">
+      <f>β</f>
+    </t>
+    <t p="1,ctr.2" n="1" a="[1]" o="v3spie---" u="3">
+      <f>γίνεται</f>
+      <l>
+        <l2>γίγνομαι</l2>
+      </l>
+    </t>
+    <t p="1,ctr.2" n="2" a="[1]" o="l-p---na-" u="4">
+      <f>τὰ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="1,ctr.2" n="3" a="[1]" o="v-pppena-" u="5">
+      <f>προκείμενα</f>
+    </t>
+    <t p="1,ctr.3" n="1" a="[1]" o="u--------" u="6">
+      <f>ϛ</f>
+    </t>
+    <t p="1,ctr.3" n="2" a="[1]" o="n-s---mg-" u="7">
+      <f>πάγου</f>
+      <l>
+        <l1 r="n--s---mg-">πάγος</l1>
+        <l1 r="n--s---mg-">πᾶγος</l1>
+        <l2>πᾶγος</l2>
+        <l2>πάγος</l2>
+      </l>
+    </t>
+    <t p="1,ctr.3" n="3" a="[1]" o="n-p---na-" u="8">
+      <f>στιχάρια</f>
+    </t>
+    <t p="1,ctr.3" n="4" a="[1]" o="a-p---na-" u="9">
+      <f>τέλεια</f>
+      <l>
+        <l1 r="a--p---na-">τέλειος</l1>
+        <l2>τέλειος</l2>
+      </l>
+    </t>
+    <t p="1,ctr.3" n="5" a="[1]" o="g--------" u="10">
+      <f>γ</f>
+    </t>
+    <t p="1,ctr.4" n="1" a="[1]" o="a-s---ma-" u="11">
+      <f>στιχάριον</f>
+    </t>
+    <t p="1,ctr.4" n="2" a="[1]" o="a-s---ma-" u="12">
+      <f>παρατέλειον</f>
+    </t>
+    <t p="1,ctr.4" n="3" a="[1]" o="-|-|-|-|-|-|-|-" u="13">
+      <f>α</f>
+    </t>
+    <t p="1,ctr.5" n="1" a="[1]" o="a-p---na-" u="14">
+      <f>δελματικὰ</f>
+    </t>
+    <t p="1,ctr.5" n="2" a="[1]" o="n-p---na-" u="15">
+      <f>τέλεια</f>
+    </t>
+    <t p="1,ctr.5" n="3" a="[1]" o="v3saia---" u="16">
+      <f>ε</f>
+    </t>
+    <t p="1,ctr.6" n="1" a="[1]" o="a-s---ma-" u="17">
+      <f>δελματικὸν</f>
+    </t>
+    <t p="1,ctr.6" n="2" a="[1]" o="a-s---ma-" u="18">
+      <f>παρατέλειον</f>
+    </t>
+    <t p="1,ctr.6" n="3" a="[1]" o="-|-|-|-|-|-|-|-" u="19">
+      <f>α</f>
+    </t>
+    <t p="1,ctr.7" n="1" a="[1]" o="n-p---na-" u="20">
+      <f>πάλλια</f>
+    </t>
+    <t p="1,ctr.7" n="2" a="[1]" o="v3saia---" u="21">
+      <f>ε</f>
+    </t>
+    <t p="1,ctr.8" n="1" a="[1]" o="v3spie---" u="22">
+      <f>γίνεται</f>
+      <l>
+        <l2>γίγνομαι</l2>
+      </l>
+    </t>
+    <t p="1,ctr.8" n="2" a="[1]" o="n-p---na-" u="23">
+      <f>εἴδη</f>
+      <l>
+        <l1 r="n--p---na-">εἶδος</l1>
+        <l2>εἶδος</l2>
+      </l>
+    </t>
+    <t p="1,ctr.8" n="3" a="[1]" o="v3siia---" u="24">
+      <f>ιε</f>
+    </t>
+    <t p="1,ctr.9" n="1" a="[1]" o="p-p---mg-" u="25">
+      <f>ὧν</f>
+      <l>
+        <l1 r="pr-p---mg-">ὅς</l1>
+        <l1 r="ps-p---mg-">ὅς2</l1>
+        <l2>ὅς</l2>
+      </l>
+    </t>
+    <t p="1,ctr.10" n="1" a="[1]" o="n-s---fg-" u="26">
+      <f>κώμης</f>
+      <l>
+        <l1 r="n--s---fg-">κώμη</l1>
+        <l2>κώμη</l2>
+      </l>
+    </t>
+    <t p="1,ctr.10" n="2" a="[1]" o="n-s---mg-" u="27">
+      <f>Σαραπίηου</f>
+    </t>
+    <t p="1,ctr.11" n="1" a="[1]" o="a-s---nnc" u="28">
+      <f>πάλλιον</f>
+    </t>
+    <t p="1,ctr.11" n="2" a="[1]" o="-|-|-|-|-|-|-|-" u="29">
+      <f>α</f>
+    </t>
+    <t p="1,md.11" n="1" a="[1]" o="a-s---nnc" u="30">
+      <f>πάλλιον</f>
+    </t>
+    <t p="1,md.11" n="2" a="[1]" join="b" o="u--------" u="31">
+      <f>.</f>
+    </t>
+  </s>
+</text>

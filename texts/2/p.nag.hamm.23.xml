@@ -1,0 +1,244 @@
+<text text-id="p.nag.hamm.23">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="FrA.3" n="1" a="[1]" o="n-p---fn-" u="1">
+      <f>ευδαι</f>
+    </t>
+    <t p="FrA.4" n="1" a="[1]" o="a-p---fn-" u="2">
+      <f>σαεπ</f>
+    </t>
+    <t p="FrA.5" n="1" a="[1]" o="n-p---fn-" u="3">
+      <f>αναι</f>
+    </t>
+    <t p="FrA.6" n="1" a="[1]" o="r--------" u="4">
+      <f>ὑπὲρ</f>
+      <l>
+        <l1 r="r---------">ὑπέρ</l1>
+      </l>
+    </t>
+    <t p="FrB.1" n="1" a="[1]" o="v3saia---" u="5">
+      <f>ε</f>
+    </t>
+    <t p="FrB.2" n="1" a="[1]" o="n-s---mg-" u="6">
+      <f>οπολείτου</f>
+    </t>
+    <t p="FrB.3" n="1" a="[1]" o="a-s---md-" u="7">
+      <f>αίῳ</f>
+    </t>
+    <t p="FrB.3" n="2" a="[1]" o="r--------" u="8">
+      <f>διὰ</f>
+      <l>
+        <l1 r="r---------">διά</l1>
+      </l>
+    </t>
+    <t p="FrB.3" n="3" a="[1]" o="n-s---mg-" u="9">
+      <f>Τιβερίνου</f>
+    </t>
+    <t p="FrB.3" n="4" a="[1]" o="u--------" u="10">
+      <f>π</f>
+    </t>
+    <t p="FrB.3" n="5" a="[1]" o="v-spppfg-" u="11">
+      <f>λι</f>
+    </t>
+    <t p="FrB.4" n="1" a="[1]" o="r--------" u="12">
+      <f>διὰ</f>
+      <l>
+        <l1 r="r---------">διά</l1>
+      </l>
+    </t>
+    <t p="FrB.4" n="2" a="[1]" o="n-s---mg-" u="13">
+      <f>Αγω</f>
+    </t>
+    <t p="FrB.5" n="1" a="[1]" o="n-s---md-" u="14">
+      <f>Ἰουνίῳ</f>
+    </t>
+    <t p="FrB.5" n="2" a="[1]" o="r--------" u="15">
+      <f>διὰ</f>
+      <l>
+        <l1 r="r---------">διά</l1>
+      </l>
+    </t>
+    <t p="FrB.5" n="3" a="[1]" o="n-s---mn-" u="16">
+      <f>Μέλανος</f>
+    </t>
+    <t p="FrB.6" n="1" a="[1]" o="r--------" u="17">
+      <f>διὰ</f>
+      <l>
+        <l1 r="r---------">διά</l1>
+      </l>
+    </t>
+    <t p="FrB.6" n="2" a="[1]" o="n-s---mg-" u="18">
+      <f>Σιλβανοῦ</f>
+    </t>
+    <t p="FrB.7" n="1" a="[1]" o="v3ppoe---" u="19">
+      <f>ενδεμ</f>
+    </t>
+    <t p="FrB.8" n="1" a="[1]" o="n-p---mg-" u="20">
+      <f>Σαραπίων</f>
+    </t>
+    <t p="FrB.9" n="1" a="[1]" o="n-p---na-" u="21">
+      <f>ελεα</f>
+    </t>
+    <t p="FrB.9" n="2" a="[1]" o="u--------" u="22">
+      <f>κ</f>
+    </t>
+    <t p="FrB.10" n="1" a="[1]" o="d--------" u="23">
+      <f>ετω</f>
+    </t>
+    <t p="FrB.11" n="1" a="[1]" o="d--------" u="24">
+      <f>αυ</f>
+    </t>
+    <t p="FrB.11" n="2" a="[1]" o="d--------" u="25">
+      <f>αρ</f>
+    </t>
+    <t p="FrB.12" n="1" a="[1]" o="p-p---mn-" u="26">
+      <f>ου</f>
+    </t>
+    <t p="FrC,1.2" n="1" a="[1]" o="u--------" u="27">
+      <f>Βγ</f>
+    </t>
+    <t p="FrC,1.3" n="1" a="[1]" o="r--------" u="28">
+      <f>ἀπὸ</f>
+      <l>
+        <l1 r="r---------">ἀπό</l1>
+      </l>
+    </t>
+    <t p="FrC,1.3" n="2" a="[1]" o="v3sfie---" u="29">
+      <f>Δι</f>
+    </t>
+    <t p="FrC,1.3" n="3" a="[1]" o="n-p---na-" u="30">
+      <f>τάλαντα</f>
+      <l>
+        <l1 r="n--p---na-">τάλαντον</l1>
+        <l2>τάλαντον</l2>
+      </l>
+    </t>
+    <t p="FrC,1.3" n="4" a="[1]" o="u--------" u="31">
+      <f>Δ</f>
+    </t>
+    <t p="FrC,1.4" n="1" a="[1]" o="n-p---na-" u="32">
+      <f>τάλαντα</f>
+      <l>
+        <l1 r="n--p---na-">τάλαντον</l1>
+        <l2>τάλαντον</l2>
+      </l>
+    </t>
+    <t p="FrC,1.4" n="2" a="[1]" o="a-p---na-" u="33">
+      <f>Αυ</f>
+    </t>
+    <t p="FrC,1.5" n="1" a="[1]" o="n-p---na-" u="34">
+      <f>τάλαντα</f>
+      <l>
+        <l1 r="n--p---na-">τάλαντον</l1>
+        <l2>τάλαντον</l2>
+      </l>
+    </t>
+    <t p="FrC,1.5" n="2" a="[1]" o="a-p---na-" u="35">
+      <f>Ζ</f>
+    </t>
+    <t p="FrC,2.6" n="1" a="[1]" o="p2s----a-" u="36">
+      <f>σε</f>
+    </t>
+    <t p="FrC,2.7" n="1" a="[1]" o="p-s---fg-" u="37">
+      <f>σαλ</f>
+    </t>
+    <t p="FrC,2.10" n="1" a="[1]" o="v--ppefn-" u="38">
+      <f>ειπ</f>
+    </t>
+    <t p="FrC,2.10" n="2" a="[1]" o="v-drpamn-" u="39">
+      <f>λοι</f>
+    </t>
+    <t p="FrC,2.11" n="1" a="[1]" o="n-p---na-" u="40">
+      <f>δια</f>
+    </t>
+    <t p="FrC,2.12" n="1" a="[1]" o="r--------" u="41">
+      <f>ευδ</f>
+    </t>
+    <t p="FrC,2.13" n="1" a="[1]" o="d--------" u="42">
+      <f>ὁμοῦ</f>
+      <l>
+        <l1 r="d---------">ὁμοῦ</l1>
+        <l2>ὁμοῦ</l2>
+      </l>
+    </t>
+    <t p="FrC,2.14" n="1" a="[1]" o="n-s---fg-" u="43">
+      <f>Θηβαίδος</f>
+    </t>
+    <t p="FrC,2.14" n="2" a="[1]" o="d--------" u="44">
+      <f>κάτω</f>
+      <l>
+        <l1 r="d---------">κάτω</l1>
+        <l2>κάτω</l2>
+      </l>
+    </t>
+    <t p="FrC,2.15" n="1" a="[1]" o="n-s---fg-" u="45">
+      <f>Θηβαίδος</f>
+    </t>
+    <t p="FrC,2.15" n="2" a="[1]" o="d--------" u="46">
+      <f>ἄνω</f>
+      <l>
+        <l1 r="d---------">ἄνω2</l1>
+        <l2>ἄνω</l2>
+      </l>
+    </t>
+    <t p="FrC,2.16" n="1" a="[1]" o="r--------" u="47">
+      <f>πα</f>
+    </t>
+    <t p="FrD.1" n="1" a="[1]" o="n-s---mg-" u="48">
+      <f>ολου</f>
+    </t>
+    <t p="FrD.1" n="2" a="[1]" o="d--------" u="49">
+      <f>ἀπ</f>
+    </t>
+    <t p="FrD.2" n="1" a="[1]" o="d--------" u="50">
+      <f>οὕτως</f>
+      <l>
+        <l1 r="dd--------">οὕτως</l1>
+        <l2>οὕτως</l2>
+      </l>
+    </t>
+    <t p="FrD.2" n="2" a="[1]" join="b" o="u--------" u="51">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="FrD.3" n="1" a="[1]" o="v3spma---" u="1">
+      <f>κτω</f>
+    </t>
+    <t p="FrD.3" n="2" a="[1]" o="d--------" u="2">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="FrD.3" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Σύρου</f>
+      <l>
+        <l1 r="ne-s---mg-">Σύρος</l1>
+      </l>
+    </t>
+    <t p="FrD.4" n="1" a="[1]" o="d--------" u="4">
+      <f>αχ</f>
+    </t>
+    <t p="FrD.4" n="2" a="[1]" o="d--------" u="5">
+      <f>οὕτως</f>
+      <l>
+        <l1 r="dd--------">οὕτως</l1>
+        <l2>οὕτως</l2>
+      </l>
+    </t>
+    <t p="FrD.4" n="3" a="[1]" join="b" o="u--------" u="6">
+      <f>·</f>
+    </t>
+  </s>
+</text>

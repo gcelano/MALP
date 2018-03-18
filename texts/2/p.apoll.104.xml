@@ -1,0 +1,115 @@
+<text text-id="p.apoll.104">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="n-p---na-" u="1">
+      <f>ὀθόνια</f>
+      <l>
+        <l1 r="n--p---na-">ὀθόνιον</l1>
+        <l2>ὀθόνιον</l2>
+      </l>
+    </t>
+    <t p="r.1" n="2" a="[1]" join="b" o="u--------" u="2">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="r.2" n="1" a="[1]" o="a-s---na-" u="1">
+      <f>ὑποκαμίσιον</f>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="d--------" u="2">
+      <f>οι</f>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="n-s---na-" u="3">
+      <f>λουλλάκιον</f>
+    </t>
+    <t p="r.4" n="2" a="[1]" o="a-s---na-" u="4">
+      <f>μύλινον</f>
+    </t>
+    <t p="r.4" n="3" a="[1]" o="a-s---na-" u="5">
+      <f>ψιλόν</f>
+      <l>
+        <l1 r="a--s---na-">ψιλός</l1>
+        <l2>ψιλός</l2>
+      </l>
+    </t>
+    <t p="r.5" n="1" a="[1]" o="n-s---na-" u="6">
+      <f>λουλλάκιον</f>
+    </t>
+    <t p="r.5" n="2" a="[1]" o="a-s---na-" u="7">
+      <f>ὀνύχινον</f>
+    </t>
+    <t p="r.5" n="3" a="[1]" o="a-s---na-" u="8">
+      <f>ψιλόν</f>
+      <l>
+        <l1 r="a--s---na-">ψιλός</l1>
+        <l2>ψιλός</l2>
+      </l>
+    </t>
+    <t p="r.6" n="1" a="[1]" o="n-s---na-" u="9">
+      <f>λουλλάκιον</f>
+    </t>
+    <t p="r.6" n="2" a="[1]" o="a-s---na-" u="10">
+      <f>μύρινον</f>
+    </t>
+    <t p="r.7" n="1" a="[1]" o="a-s---na-" u="11">
+      <f>λουλλάκιον</f>
+    </t>
+    <t p="r.7" n="2" a="[1]" o="a-s---na-" u="12">
+      <f>κρόκινον</f>
+    </t>
+    <t p="r.8" n="1" a="[1]" o="n-s---na-" u="13">
+      <f>τριβώνιον</f>
+      <l>
+        <l1 r="n--s---na-">τριβώνιον</l1>
+        <l2>τριβώνιον</l2>
+      </l>
+    </t>
+    <t p="v.10" n="1" a="[1]" o="a-s---na-" u="14">
+      <f>ἀκρούλιον</f>
+    </t>
+    <t p="v.11" n="1" a="[1]" o="a-s---na-" u="15">
+      <f>ἀκρούλιον</f>
+    </t>
+    <t p="v.11" n="2" a="[1]" o="a-s---na-" u="16">
+      <f>καινούργιον</f>
+    </t>
+    <t p="v.12" n="1" a="[1]" o="a-s---na-" u="17">
+      <f>ἀκρούλιον</f>
+    </t>
+    <t p="v.12" n="2" a="[1]" o="a-s---na-" u="18">
+      <f>παλαιόν</f>
+      <l>
+        <l1 r="a--s---na-">παλαιός</l1>
+        <l2>παλαιός</l2>
+      </l>
+    </t>
+    <t p="v.13" n="1" a="[1]" o="n-s---na-" u="19">
+      <f>μαντέλιον</f>
+    </t>
+    <t p="v.13" n="2" a="[1]" o="a-s---na-" u="20">
+      <f>ἀντίσκινον</f>
+    </t>
+    <t p="v.14" n="1" a="[1]" o="a-s---na-" u="21">
+      <f>σάβανον</f>
+    </t>
+    <t p="v.14" n="2" a="[1]" o="a-s---na-" u="22">
+      <f>σκεπαστικόν</f>
+    </t>
+    <t p="v.15" n="1" a="[1]" o="v-srpama-" u="23">
+      <f>ὀθονομάλλωτα</f>
+    </t>
+    <t p="v.15" n="2" a="[1]" join="b" o="u--------" u="24">
+      <f>·</f>
+    </t>
+  </s>
+</text>

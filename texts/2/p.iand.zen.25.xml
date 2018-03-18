@@ -1,0 +1,60 @@
+<text text-id="p.iand.zen.25">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="u--------" u="1">
+      <f>υ</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="d--------" u="2">
+      <f>ωι</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="v2spme---" u="3">
+      <f>παραγενο</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="v1ppoa---" u="4">
+      <f>μεν</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="c--------" u="5">
+      <f>ρωι</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="d--------" u="6">
+      <f>ὡς</f>
+      <l>
+        <l1 r="dr--------">ὡς</l1>
+        <l1 r="d---------">ὡς</l1>
+        <l2>ὡς</l2>
+      </l>
+    </t>
+    <t p="4" n="3" a="[1]" o="l-p---md-" u="7">
+      <f>τοῖς</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="5" n="1" a="[1]" o="d--------" u="8">
+      <f>μακα</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="v2saia---" u="9">
+      <f>ἔδωκας</f>
+      <l>
+        <l1 r="v-2saia---">δίδωμι</l1>
+        <l2>δίδωμι</l2>
+      </l>
+    </t>
+    <t p="6" n="1" a="[1]" o="v2siie---" u="10">
+      <f>ἔρρωσο</f>
+    </t>
+    <t p="6" n="2" a="[1]" join="b" o="u--------" u="11">
+      <f>.</f>
+    </t>
+  </s>
+</text>

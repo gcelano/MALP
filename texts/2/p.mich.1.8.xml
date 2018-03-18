@@ -1,0 +1,85 @@
+<text text-id="p.mich.1.8">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Ποσειδώνιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Ποσειδώνιος</l1>
+      </l>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="d--------" u="2">
+      <f>τῶι</f>
+      <l>
+        <l1 r="d---------">τῷ</l1>
+        <l2>τῷ</l2>
+      </l>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="n-s---md-" u="3">
+      <f>βασιλεῖ</f>
+      <l>
+        <l1 r="n--s---md-">βασιλεύς</l1>
+        <l2>βασιλεύς</l2>
+      </l>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="p1p---ma-" u="4">
+      <f>ἡμᾶς</f>
+      <l>
+        <l2>ἐγώ</l2>
+      </l>
+    </t>
+    <t p="r.3" n="2" a="[1]" o="u--------" u="5">
+      <f>τ</f>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="a-p---nn-" u="6">
+      <f>λυγγια</f>
+    </t>
+    <t p="v.5" n="1" a="[1]" o="n-s---mg-" u="7">
+      <f>Ποσειδωνίου</f>
+      <l>
+        <l1 r="ne-s---mg-">Ποσειδώνιος</l1>
+      </l>
+    </t>
+    <t p="v.5" n="2" a="[1]" o="a-p---ng-" u="8">
+      <f>ξενίων</f>
+      <l>
+        <l1 r="a--p---ng-">ξένιος</l1>
+        <l2>ξένιος</l2>
+      </l>
+    </t>
+    <t p="v.6" n="1" a="[1]" o="l-p---ng-" u="9">
+      <f>τῶν</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="v.6" n="2" a="[1]" o="p-p---ng-" u="10">
+      <f>τῶι</f>
+    </t>
+    <t p="v.6" n="3" a="[1]" o="n-s---md-" u="11">
+      <f>βασιλεῖ</f>
+      <l>
+        <l1 r="n--s---md-">βασιλεύς</l1>
+        <l2>βασιλεύς</l2>
+      </l>
+    </t>
+    <t p="v.7" n="1" a="[1]" o="v-prpemg-" u="12">
+      <f>ἀπεσταλμένων</f>
+      <l>
+        <l1 r="v--prpemg-">ἀποστέλλω</l1>
+      </l>
+    </t>
+    <t p="v.7" n="2" a="[1]" join="b" o="u--------" u="13">
+      <f>.</f>
+    </t>
+  </s>
+</text>

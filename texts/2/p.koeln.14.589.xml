@@ -1,0 +1,107 @@
+<text text-id="p.koeln.14.589">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="2" n="1" a="[1]" o="a-s---fn-" u="1">
+      <f>Mεσορὴ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---md-" u="2">
+      <f>μηνὶ</f>
+      <l>
+        <l1 r="n--s---md-">μείς</l1>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="l-s---fg-" u="3">
+      <f>τῆς</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="2" n="4" a="[1]" o="v2sasa---" u="4">
+      <f>παρούσῃς</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="l-s---fn-" u="5">
+      <f>ἡ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---fn-" u="6">
+      <f>μίσθωσις</f>
+      <l>
+        <l1 r="n--s---fn-">μίσθωσις</l1>
+        <l2>μίσθωσις</l2>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---fn-" u="7">
+      <f>κυρία</f>
+      <l>
+        <l1 r="n--s---fn-">κυρία</l1>
+        <l2>κυρία</l2>
+      </l>
+    </t>
+    <t p="3" n="4" a="[1]" o="d--------" u="8">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="3" n="5" a="[1]" o="n-s---fn-" u="9">
+      <f>βεβαία</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="d--------" u="10">
+      <f>γενικῶς</f>
+      <l>
+        <l1 r="d---------">γενικός</l1>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="c--------" u="11">
+      <f>καὶ</f>
+      <l>
+        <l1 r="c---------">καί</l1>
+        <l2>καί</l2>
+      </l>
+    </t>
+    <t p="4" n="3" a="[1]" o="d--------" u="12">
+      <f>ἰδικῶς</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="a-p---mg-" u="13">
+      <f>πάντων</f>
+      <l>
+        <l1 r="a--p---mg-">πᾶς</l1>
+        <l2>πᾶς</l2>
+      </l>
+    </t>
+    <t p="4" n="5" a="[1]" o="p1s---mg-" u="14">
+      <f>μου</f>
+      <l>
+        <l2>ἐγώ</l2>
+      </l>
+    </t>
+    <t p="5" n="1" a="[1]" o="v-sappmn-" u="15">
+      <f>ἐπερωτηθεὶς</f>
+      <l>
+        <l1 r="v--sappmn-">ἐπερωτάω</l1>
+      </l>
+    </t>
+    <t p="5" n="2" a="[1]" o="v1saia---" u="16">
+      <f>ὡμολόγησα</f>
+      <l>
+        <l1 r="v-1saia---">ὁμολογέω</l1>
+        <l2>ὁμολογέω</l2>
+      </l>
+    </t>
+    <t p="5" n="3" a="[1]" join="b" o="u--------" u="17">
+      <f>.</f>
+    </t>
+  </s>
+</text>

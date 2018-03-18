@@ -1,0 +1,120 @@
+<text text-id="p.lond.4.1571">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="Fr1.1" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>ⲁⲛⲟⲕ</f>
+    </t>
+    <t p="Fr1.1" n="2" a="[1]" o="n-s---mv-" u="2">
+      <f>ⲫⲓⲗⲟⲑⲉⲟⲥ</f>
+    </t>
+    <t p="Fr2.1" n="1" a="[1]" o="u--------" u="3">
+      <f>ⲡ</f>
+    </t>
+    <t p="Fr2.1" n="2" a="[1]" o="a-s---mn-" u="4">
+      <f>ἰλλούστριος</f>
+    </t>
+    <t p="Fr2.2" n="1" a="[1]" o="n-s---mn-" u="5">
+      <f>παντοκράτωρ</f>
+      <l>
+        <l1 r="n--s---mn-">παντοκράτωρ</l1>
+        <l2>παντοκράτωρ</l2>
+      </l>
+    </t>
+    <t p="Fr2.3" n="1" a="[1]" o="n-s---nd-" u="6">
+      <f>ϫⲛⲡⲓ</f>
+    </t>
+    <t p="Fr2.3" n="2" a="[1]" o="v--pna---" u="7">
+      <f>καταβάλλειν</f>
+      <l>
+        <l1 r="v---pna---">καταβάλλω</l1>
+        <l2>καταβάλλω</l2>
+      </l>
+    </t>
+    <t p="Fr2.4" n="1" a="[1]" o="a-s---na-" u="8">
+      <f>δημόσιον</f>
+      <l>
+        <l1 r="a--s---na-">δημόσιος</l1>
+        <l2>δημόσιος</l2>
+      </l>
+    </t>
+    <t p="Fr2.4" n="2" a="[1]" o="n-s---na-" u="9">
+      <f>ⲛⲡⲧ</f>
+    </t>
+    <t p="Fr2.5" n="1" a="[1]" o="n-s---md-" u="10">
+      <f>ⲛⲛⲟⲩϥ</f>
+    </t>
+    <t p="Fr2.5" n="2" a="[1]" o="v3ppie---" u="11">
+      <f>γίνονται</f>
+      <l>
+        <l2>γίγνομαι</l2>
+      </l>
+    </t>
+    <t p="Fr2.5" n="3" a="[1]" o="a-p---na-" u="12">
+      <f>ἀρίθμια</f>
+    </t>
+    <t p="Fr2.5" n="4" a="[1]" o="n-p---na-" u="13">
+      <f>νομίσματα</f>
+      <l>
+        <l1 r="n--p---na-">νόμισμα</l1>
+        <l2>νόμισμα</l2>
+      </l>
+    </t>
+    <t p="Fr2.6" n="1" a="[1]" o="a-p---na-" u="14">
+      <f>ⲛⲧⲉⲓϩⲉ</f>
+    </t>
+    <t p="Fr2.12" n="1" a="[1]" o="n-p---na-" u="15">
+      <f>ⲁⲛⲟⲕ</f>
+    </t>
+    <t p="Fr2.12" n="2" a="[1]" o="a-p---na-" u="16">
+      <f>ⲫⲓⲗⲟⲑⲉⲟⲥ</f>
+    </t>
+    <t p="Fr2.12" n="3" a="[1]" o="u--------" u="17">
+      <f>ⲡ</f>
+    </t>
+    <t p="Fr2.13" n="1" a="[1]" o="a-p---na-" u="18">
+      <f>ⲛⲫⲁⲣⲟⲟⲩ</f>
+    </t>
+    <t p="Fr2.13" n="2" a="[1]" o="n-p---na-" u="19">
+      <f>ⲧⲓ</f>
+    </t>
+    <t p="Fr2.13" n="3" a="[1]" o="v--pna---" u="20">
+      <f>στοιχεῖν</f>
+      <l>
+        <l1 r="v---pna---">στοιχέω</l1>
+        <l2>στοιχέω</l2>
+      </l>
+    </t>
+    <t p="Fr2.14" n="1" a="[1]" o="a-p---na-" u="21">
+      <f>ⲓⲱⲁⲛⲛⲏⲥ</f>
+    </t>
+    <t p="Fr2.14" n="2" a="[1]" o="a-p---na-" u="22">
+      <f>ⲡϣⲛ</f>
+    </t>
+    <t p="Fr2.15" n="1" a="[1]" o="v--pna---" u="23">
+      <f>παρακαλεῖν</f>
+      <l>
+        <l1 r="v---pna---">παρακαλέω</l1>
+        <l2>παρακαλέω</l2>
+      </l>
+    </t>
+    <t p="Fr2.15" n="2" a="[1]" o="n-p---na-" u="24">
+      <f>ⲙⲟⲓ</f>
+    </t>
+    <t p="Fr2.16" n="1" a="[1]" o="a-p---na-" u="25">
+      <f>vac</f>
+    </t>
+    <t p="Fr2.16" n="2" a="[1]" join="b" o="u--------" u="26">
+      <f>.</f>
+    </t>
+  </s>
+</text>

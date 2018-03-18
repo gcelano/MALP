@@ -1,0 +1,46 @@
+<text text-id="p.koeln.12.476">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---na-" u="1">
+      <f>ὑπόμνημα</f>
+      <l>
+        <l1 r="n--s---na-">ὑπόμνημα</l1>
+        <l2>ὑπόμνημα</l2>
+      </l>
+    </t>
+    <t p="1" n="2" a="[1]" o="r--------" u="2">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---ma-" u="3">
+      <f>Πά</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---fg-" u="4">
+      <f>σιτος</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="a-s---fg-" u="5">
+      <f>παστοφόρου</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---ma-" u="6">
+      <f>Ἡρα</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---md-" u="7">
+      <f>κλείτωι</f>
+    </t>
+    <t p="3" n="2" a="[1]" join="b" o="u--------" u="8">
+      <f>.</f>
+    </t>
+  </s>
+</text>

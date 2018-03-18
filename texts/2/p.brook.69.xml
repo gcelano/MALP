@@ -1,0 +1,84 @@
+<text text-id="p.brook.69">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-p---fa-" u="1">
+      <f>δραχμὰς</f>
+      <l>
+        <l1 r="n--p---fa-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="m--------" u="2">
+      <f>τρεῖς</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-p---ma-" u="3">
+      <f>ὀβολοὺς</f>
+      <l>
+        <l1 r="n--p---ma-">ὀβολός</l1>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="v3saia---" u="4">
+      <f>ε</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="r--------" u="5">
+      <f>𐅵</f>
+    </t>
+    <t p="2" n="5" a="[1]" o="a-p---ma-" u="6">
+      <f>χαλκοῦς</f>
+      <l>
+        <l1 r="a--p---ma-">χάλκεος</l1>
+        <l2>χάλκεος</l2>
+        <l2>χαλκοῦς</l2>
+      </l>
+    </t>
+    <t p="2" n="6" a="[1]" o="-|-|-|-|-|-|-|-" u="7">
+      <f>β</f>
+    </t>
+    <t p="2" n="7" a="[1]" join="b" o="u--------" u="8">
+      <f>,</f>
+    </t>
+    <t p="2" n="8" a="[1]" o="v3ppie---" u="9">
+      <f>γίνονται</f>
+      <l>
+        <l2>γίγνομαι</l2>
+      </l>
+    </t>
+    <t p="2" n="9" a="[1]" o="a-p---fn-" u="10">
+      <f>δραχμαὶ</f>
+    </t>
+    <t p="2" n="10" a="[1]" o="g--------" u="11">
+      <f>γ</f>
+    </t>
+    <t p="2" n="11" a="[1]" o="a-p---mn-" u="12">
+      <f>ὀβολοὶ</f>
+    </t>
+    <t p="2" n="12" a="[2]" o="v3saia---" u="13">
+      <f>ε</f>
+    </t>
+    <t p="2" n="13" a="[2]" o="c--------" u="14">
+      <f>𐅵</f>
+    </t>
+    <t p="2" n="14" a="[1]" o="v3spia---" u="15">
+      <f>χαλκοῖ</f>
+      <l>
+        <l1 r="v-3spia---">χαλκόω</l1>
+        <l2>χαλκόω</l2>
+      </l>
+    </t>
+    <t p="2" n="15" a="[2]" o="-|-|-|-|-|-|-|-" u="16">
+      <f>β</f>
+    </t>
+    <t p="2" n="16" a="[1]" join="b" o="u--------" u="17">
+      <f>.</f>
+    </t>
+  </s>
+</text>

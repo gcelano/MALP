@@ -1,0 +1,92 @@
+<text text-id="p.oxy.2.345">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Πλούταρχος</f>
+      <l>
+        <l1 r="ne-s---mn-">Πλούταρχος</l1>
+      </l>
+    </t>
+    <t p="1" n="2" a="[1]" o="d--------" u="2">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="-|-|-|-|-|-|-|-" u="3">
+      <f>Α</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="l-p---mn-" u="4">
+      <f>οἱ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="v-prpemn-" u="5">
+      <f>καθεσταμένοι</f>
+      <l>
+        <l1 r="v--prpemn-">καθίστημι</l1>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="v3saia---" u="6">
+      <f>ἐπιτη</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-p---mn-" u="7">
+      <f>ρηταὶ</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="d--------" u="8">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-p---mn-" u="9">
+      <f>χειρισταὶ</f>
+      <l>
+        <l1 r="n--p---mn-">χειριστής</l1>
+      </l>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-p---na-" u="10">
+      <f>κατα</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-p---mg-" u="11">
+      <f>λοχισμῶν</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---mg-" u="12">
+      <f>Ὀξυρυγχείτου</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="l-p---md-" u="13">
+      <f>τοῖς</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-p---md-" u="14">
+      <f>ἀγορανόμοις</f>
+      <l>
+        <l1 r="n--p---md-">ἀγορανόμος</l1>
+        <l2>ἀγορανόμος</l2>
+      </l>
+    </t>
+    <t p="5" n="3" a="[1]" o="v--pna---" u="15">
+      <f>χαίρειν</f>
+      <l>
+        <l1 r="v---pna---">χαίρω</l1>
+        <l2>χαίρω</l2>
+      </l>
+    </t>
+    <t p="5" n="4" a="[1]" join="b" o="u--------" u="16">
+      <f>.</f>
+    </t>
+  </s>
+</text>

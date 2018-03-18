@@ -1,0 +1,84 @@
+<text text-id="p.col.3.33">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="r--------" u="1">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mg-" u="2">
+      <f>Πατροκλέους</f>
+      <l>
+        <l1 r="ne-s---mg-">Πάτροκλος</l1>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="p-p---ng-" u="3">
+      <f>ὧν</f>
+      <l>
+        <l1 r="pr-p---ng-">ὅς</l1>
+        <l1 r="ps-p---ng-">ὅς2</l1>
+        <l2>ὅς</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="r--------" u="4">
+      <f>μετρεῖ</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-p---mg-" u="5">
+      <f>Ζήνων</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---ng-" u="6">
+      <f>ἔτους</f>
+      <l>
+        <l1 r="n--s---ng-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="a-s---ng-" u="7">
+      <f>λα</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---fn-" u="8">
+      <f>Μεσορὴ</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="a-s---fn-" u="9">
+      <f>ιγ</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="r--------" u="10">
+      <f>ἐν</f>
+      <l>
+        <l1 r="r---------">ἐν</l1>
+        <l2>εἰς</l2>
+        <l2>ἐν</l2>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-p---fn-" u="11">
+      <f>Φιλαδελφείαι</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="n-s---ng-" u="12">
+      <f>σησάμου</f>
+      <l>
+        <l1 r="n--s---ng-">σήσαμον</l1>
+        <l2>σήσαμον</l2>
+      </l>
+    </t>
+    <t p="4" n="4" a="[1]" o="n-s---fg-" u="13">
+      <f>ἀρτάβας</f>
+    </t>
+    <t p="4" n="5" a="[1]" o="n-s---fn-" u="14">
+      <f>ρη</f>
+    </t>
+    <t p="4" n="6" a="[1]" join="b" o="u--------" u="15">
+      <f>.</f>
+    </t>
+  </s>
+</text>

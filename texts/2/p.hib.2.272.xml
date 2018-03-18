@@ -1,0 +1,80 @@
+<text text-id="p.hib.2.272">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="p-d---ma-" u="1">
+      <f>τῶι</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="d--------" u="2">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---md-" u="3">
+      <f>Θέωνι</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---md-" u="4">
+      <f>στρατηγῶι</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="r--------" u="5">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---mg-" u="6">
+      <f>Σαραπίωνος</f>
+      <l>
+        <l1 r="n--s---mg-">Σαραπίων</l1>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="u--------" u="7">
+      <f>Τ</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="r--------" u="8">
+      <f>ἀπὸ</f>
+      <l>
+        <l1 r="r---------">ἀπό</l1>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---fg-" u="9">
+      <f>κώμης</f>
+      <l>
+        <l1 r="n--s---fg-">κώμη</l1>
+        <l2>κώμη</l2>
+      </l>
+    </t>
+    <t p="4" n="3" a="[1]" o="n-s---fg-" u="10">
+      <f>Ψύχεως</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="l-s---mg-" u="11">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="4" n="5" a="[1]" o="d--------" u="12">
+      <f>κάτω</f>
+      <l>
+        <l1 r="d---------">κάτω</l1>
+        <l2>κάτω</l2>
+      </l>
+    </t>
+    <t p="4" n="6" a="[1]" o="n-s---mg-" u="13">
+      <f>Κωίτου</f>
+    </t>
+    <t p="4" n="7" a="[1]" join="b" o="u--------" u="14">
+      <f>.</f>
+    </t>
+  </s>
+</text>

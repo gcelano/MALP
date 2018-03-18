@@ -1,0 +1,183 @@
+<text text-id="p.hamb.2.173">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Ἀμμώνιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Ἀμμώνιος2</l1>
+      </l>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---md-" u="2">
+      <f>Νικάνορι</f>
+      <l>
+        <l1 r="ne-s---md-">Νικάνωρ</l1>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="v--pna---" u="3">
+      <f>χαίρειν</f>
+      <l>
+        <l1 r="v---pna---">χαίρω</l1>
+        <l2>χαίρω</l2>
+      </l>
+    </t>
+    <t p="1" n="4" a="[1]" join="b" o="u--------" u="4">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="1" n="5" a="[1]" o="v2sama---" u="1">
+      <f>διάγραψον</f>
+    </t>
+    <t p="1" n="6" a="[1]" o="r--------" u="2">
+      <f>ἐκ</f>
+      <l>
+        <l1 r="r---------">ἐκ</l1>
+        <l2>ἐκ</l2>
+      </l>
+    </t>
+    <t p="1" n="7" a="[1]" o="l-s---mg-" u="3">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="1" n="8" a="[1]" o="a-s---mg-" u="4">
+      <f>ἐμοῦ</f>
+      <l>
+        <l2>ἐμός</l2>
+      </l>
+    </t>
+    <t p="1" n="9" a="[1]" o="n-s---mg-" u="5">
+      <f>λόγου</f>
+      <l>
+        <l1 r="n--s---mg-">λόγος</l1>
+        <l2>λόγος</l2>
+      </l>
+    </t>
+    <t p="1" n="10" a="[1]" o="n-s---md-" u="6">
+      <f>Ἀπολλωνίωι</f>
+    </t>
+    <t p="1" n="11" a="[1]" o="l-s---mg-" u="7">
+      <f>τῶι</f>
+    </t>
+    <t p="1" n="12" a="[1]" o="r--------" u="8">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---mg-" u="9">
+      <f>Ἀντιόχου</f>
+      <l>
+        <l1 r="ne-s---mg-">Ἀντίοχος</l1>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="v-sppamn-" u="10">
+      <f>μόσχων</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-p---ng-" u="11">
+      <f>λευκῶν</f>
+      <l>
+        <l1 r="n--p---ng-">λευκόν</l1>
+        <l2>λευκόν</l2>
+      </l>
+    </t>
+    <t p="2" n="4" a="[1]" o="a--------" u="12">
+      <f>δύο</f>
+    </t>
+    <t p="2" n="5" a="[1]" o="n-s---fa-" u="13">
+      <f>τιμὴν</f>
+      <l>
+        <l1 r="n--s---fa-">τιμή</l1>
+      </l>
+    </t>
+    <t p="2" n="6" a="[1]" o="n-s---mg-" u="14">
+      <f>χαλκοῦ</f>
+      <l>
+        <l1 r="n--s---mg-">χαλκός</l1>
+        <l1 r="n--s---mg-">χαλκοῦς</l1>
+        <l2>χαλκός</l2>
+        <l2>χαλκοῦς</l2>
+      </l>
+    </t>
+    <t p="2" n="7" a="[1]" o="n-p---fa-" u="15">
+      <f>δραχμὰς</f>
+      <l>
+        <l1 r="n--p---fa-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="2" n="8" a="[1]" o="a-p---fa-" u="16">
+      <f>πεντακοσίας</f>
+      <l>
+        <l2>πεντακόσιοι</l2>
+      </l>
+    </t>
+    <t p="2" n="9" a="[1]" o="a--------" u="17">
+      <f>τεσσαράκοντα</f>
+    </t>
+    <t p="2" n="10" a="[1]" join="b" o="u--------" u="18">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="3" n="1" a="[1]" o="v2spme---" u="1">
+      <f>ἔρρωσο</f>
+    </t>
+    <t p="3" n="2" a="[1]" join="b" o="u--------" u="2">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="4">
+    <t p="3" n="3" a="[1]" o="a-p---ma-" u="1">
+      <f>ἔτους</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="u--------" u="2">
+      <f>ϛ</f>
+    </t>
+    <t p="3" n="5" a="[1]" o="n-s---md-" u="3">
+      <f>Χοιὰχ</f>
+    </t>
+    <t p="3" n="6" a="[1]" o="u--------" u="4">
+      <f>κ</f>
+    </t>
+    <t p="3" n="7" a="[2]" join="b" o="u--------" u="5">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="5">
+    <t p="3" n="8" a="[1]" o="v2sama---" u="1">
+      <f>χρημάτισον</f>
+    </t>
+    <t p="3" n="9" a="[1]" o="n-s---mg-" u="2">
+      <f>χαλκοῦ</f>
+      <l>
+        <l1 r="n--s---mg-">χαλκός</l1>
+        <l1 r="n--s---mg-">χαλκοῦς</l1>
+        <l2>χαλκός</l2>
+        <l2>χαλκοῦς</l2>
+      </l>
+    </t>
+    <t p="3" n="10" a="[1]" o="n-p---fn-" u="3">
+      <f>δραχμαὶ</f>
+      <l>
+        <l1 r="n--p---fn-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="3" n="11" a="[1]" o="a-p---fn-" u="4">
+      <f>φμ</f>
+    </t>
+    <t p="3" n="12" a="[3]" join="b" o="u--------" u="5">
+      <f>.</f>
+    </t>
+  </s>
+</text>

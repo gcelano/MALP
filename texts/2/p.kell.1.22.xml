@@ -1,0 +1,89 @@
+<text text-id="p.kell.1.22">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="2" n="1" a="[1]" o="a-s---nn-" u="1">
+      <f>τέταρτον</f>
+      <l>
+        <l1 r="a--s---nn-">τέταρτος</l1>
+        <l2>τέταρτος</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="v3ppia---" u="2">
+      <f>μέλλουσιν</f>
+      <l>
+        <l1 r="v-3ppia---">μέλλω</l1>
+        <l2>μέλλω</l2>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="a-p---md-" u="3">
+      <f>ὑπάτοις</f>
+      <l>
+        <l1 r="a--p---md-">ὕπατος</l1>
+        <l2>ὕπατος</l2>
+      </l>
+    </t>
+    <t p="2" n="4" a="[1]" join="b" o="u--------" u="4">
+      <f>,</f>
+    </t>
+    <t p="2" n="5" a="[1]" o="r--------" u="5">
+      <f>πρὸ</f>
+      <l>
+        <l1 r="r---------">πρό</l1>
+      </l>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-p---mg-" u="6">
+      <f>Εἰδῶν</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="a-p---mg-" u="7">
+      <f>Φεβραρίων</f>
+    </t>
+    <t p="3" n="3" a="[1]" join="b" o="u--------" u="8">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="3" n="4" a="[1]" o="d--------" u="1">
+      <f>μετʼ</f>
+      <l>
+        <l1 r="d---------">μετά</l1>
+      </l>
+    </t>
+    <t p="3" n="5" a="[1]" o="v3ppsa---" u="2">
+      <f>ἀνάγνωσιν</f>
+    </t>
+    <t p="3" n="6" a="[1]" o="l-p---mg-" u="3">
+      <f>τῶν</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="4" n="1" a="[1]" o="v-pppemg-" u="4">
+      <f>ἐνγεγραμμένων</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="d--------" u="5">
+      <f>συννόμως</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="l-s---mn-" u="6">
+      <f>ὁ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="5" n="1" a="[1]" o="v3sfim---" u="7">
+      <f>διαλήμψεται</f>
+    </t>
+    <t p="5" n="2" a="[1]" join="b" o="u--------" u="8">
+      <f>.</f>
+    </t>
+  </s>
+</text>

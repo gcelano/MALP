@@ -1,0 +1,75 @@
+<text text-id="p.louvre.1.56">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>λόγος</f>
+      <l>
+        <l1 r="n--s---mn-">λόγος</l1>
+        <l2>λόγος</l2>
+      </l>
+    </t>
+    <t p="r.1" n="2" a="[1]" o="v-sppamn-" u="2">
+      <f>ἐργατῶν</f>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="n-p---ma-" u="3">
+      <f>Αβους</f>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="n-s---mg-" u="4">
+      <f>χόρτου</f>
+      <l>
+        <l1 r="n--s---mg-">χόρτος</l1>
+        <l2>χόρτος</l2>
+      </l>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="n-s---md-" u="5">
+      <f>Παῦνι</f>
+    </t>
+    <t p="r.3" n="2" a="[1]" o="r--------" u="6">
+      <f>κ</f>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="n-s---fg-" u="7">
+      <f>ἐργάτης</f>
+    </t>
+    <t p="r.4" n="2" a="[1]" o="-|-|-|-|-|-|-|-" u="8">
+      <f>α</f>
+    </t>
+    <t p="r.5" n="1" a="[1]" o="n-s---fd-" u="9">
+      <f>Ἐπεὶφ</f>
+    </t>
+    <t p="r.5" n="2" a="[1]" o="-|-|-|-|-|-|-|-" u="10">
+      <f>α</f>
+    </t>
+    <t p="r.6" n="1" a="[1]" o="a--------" u="11">
+      <f>ι</f>
+    </t>
+    <t p="r.6" n="2" a="[1]" o="a-s---mn-" u="12">
+      <f>ἄλλος</f>
+      <l>
+        <l1 r="a--s---mn-">ἄλλος</l1>
+        <l2>ἄλλος</l2>
+      </l>
+    </t>
+    <t p="r.6" n="3" a="[1]" o="-|-|-|-|-|-|-|-" u="13">
+      <f>α</f>
+    </t>
+    <t p="r.7" n="1" a="[1]" o="n-p---na-" u="14">
+      <f>ια</f>
+    </t>
+    <t p="r.7" n="2" a="[1]" o="-|-|-|-|-|-|-|-" u="15">
+      <f>α</f>
+    </t>
+    <t p="r.7" n="3" a="[1]" join="b" o="u--------" u="16">
+      <f>·</f>
+    </t>
+  </s>
+</text>

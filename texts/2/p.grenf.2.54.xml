@@ -1,0 +1,123 @@
+<text text-id="p.grenf.2.54">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="a-p---ma-" u="1">
+      <f>ἔτους</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="r--------" u="2">
+      <f>ιγ</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Ἀντωνίνου</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="n-s---mg-" u="4">
+      <f>Καίσαρος</f>
+      <l>
+        <l1 r="ne-s---mg-">Καῖσαρ</l1>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="l-s---mg-" u="5">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="a-s---mg-" u="6">
+      <f>κυρίου</f>
+      <l>
+        <l1 r="a--s---mg-">κύριος</l1>
+        <l2>κύριος</l2>
+        <l2>κύριος</l2>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---mg-" u="7">
+      <f>Μεσορὴ</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="v3siia---" u="8">
+      <f>ιε</f>
+    </t>
+    <t p="2" n="5" a="[1]" join="b" o="u--------" u="9">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="2" n="6" a="[1]" o="v3saia---" u="1">
+      <f>διέγραψε</f>
+      <l>
+        <l2>διαγράφω</l2>
+      </l>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---fg-" u="2">
+      <f>Παβοῦς</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---fn-" u="3">
+      <f>Ἀπολλ</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="r--------" u="4">
+      <f>ὑπὲρ</f>
+      <l>
+        <l1 r="r---------">ὑπέρ</l1>
+      </l>
+    </t>
+    <t p="3" n="4" a="[1]" o="a-s---fg-" u="5">
+      <f>μεριδαρχικῆς</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---fg-" u="6">
+      <f>προσόδου</f>
+      <l>
+        <l1 r="n--s---fg-">πρόσοδος</l1>
+        <l2>πρόσοδος</l2>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="l-s---ng-" u="7">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="4" n="3" a="[1]" o="d--------" u="8">
+      <f>αὐτοῦ</f>
+      <l>
+        <l1 r="dd--------">αὐτός</l1>
+        <l2>αὐτοῦ</l2>
+      </l>
+    </t>
+    <t p="4" n="4" a="[1]" o="a-p---fa-" u="9">
+      <f>ἔτους</f>
+    </t>
+    <t p="4" n="5" a="[1]" o="n-p---fa-" u="10">
+      <f>δραχμὰς</f>
+      <l>
+        <l1 r="n--p---fa-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="4" n="6" a="[1]" o="a--------" u="11">
+      <f>εἴκοσι</f>
+    </t>
+    <t p="4" n="7" a="[1]" join="b" o="u--------" u="12">
+      <f>,</f>
+    </t>
+    <t p="4" n="8" a="[2]" o="n-p---fa-" u="13">
+      <f>δραχμὰς</f>
+      <l>
+        <l1 r="n--p---fa-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="4" n="9" a="[1]" o="u--------" u="14">
+      <f>κ</f>
+    </t>
+    <t p="4" n="10" a="[1]" join="b" o="u--------" u="15">
+      <f>.</f>
+    </t>
+  </s>
+</text>

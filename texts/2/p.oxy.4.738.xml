@@ -1,0 +1,147 @@
+<text text-id="p.oxy.4.738">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="2.1" n="1" a="[1]" o="n-s---nd-" u="1">
+      <f>δείπνῳ</f>
+      <l>
+        <l1 r="n--s---nd-">δεῖπνον</l1>
+        <l2>δεῖπνον</l2>
+      </l>
+    </t>
+    <t p="2.1" n="2" a="[1]" o="v3saia---" u="2">
+      <f>ε</f>
+    </t>
+    <t p="2.1" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="2.2" n="1" a="[1]" o="a-s---na-" u="1">
+      <f>Κανωπικὸν</f>
+    </t>
+    <t p="2.3" n="1" a="[1]" o="n-s---na-" u="2">
+      <f>ἧπαρ</f>
+      <l>
+        <l1 r="n--s---na-">ἧπαρ</l1>
+        <l2>ἧπαρ</l2>
+      </l>
+    </t>
+    <t p="2.3" n="2" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="2.4" n="1" a="[1]" o="n-s---nd-" u="1">
+      <f>δείπνῳ</f>
+      <l>
+        <l1 r="n--s---nd-">δεῖπνον</l1>
+        <l2>δεῖπνον</l2>
+      </l>
+    </t>
+    <t p="2.4" n="2" a="[1]" o="a-s---nd-" u="2">
+      <f>ϛ</f>
+    </t>
+    <t p="2.4" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="4">
+    <t p="2.5" n="1" a="[1]" o="n-p---nn-" u="1">
+      <f>ὄστρεα</f>
+      <l>
+        <l1 r="n--p---nn-">ὄστρεον</l1>
+        <l2>ὄστρεον</l2>
+      </l>
+    </t>
+    <t p="2.5" n="2" a="[1]" o="u--------" u="2">
+      <f>ι</f>
+    </t>
+    <t p="2.5" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>,</f>
+    </t>
+    <t p="2.6" n="1" a="[1]" o="n-s---fv-" u="4">
+      <f>θρίδαξ</f>
+    </t>
+    <t p="2.6" n="2" a="[1]" o="-|-|-|-|-|-|-|-" u="5">
+      <f>α</f>
+    </t>
+    <t p="2.6" n="3" a="[1]" join="b" o="u--------" u="6">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="5">
+    <t p="2.7" n="1" a="[1]" o="n-s---nd-" u="1">
+      <f>δείπνῳ</f>
+      <l>
+        <l1 r="n--s---nd-">δεῖπνον</l1>
+        <l2>δεῖπνον</l2>
+      </l>
+    </t>
+    <t p="2.7" n="2" a="[1]" o="a-s---nd-" u="2">
+      <f>ζ</f>
+    </t>
+    <t p="2.7" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>·</f>
+    </t>
+  </s>
+  <s n="6">
+    <t p="2.8" n="1" a="[1]" o="v1sria---" u="1">
+      <f>ἀρτίδια</f>
+    </t>
+    <t p="2.8" n="2" a="[1]" o="-|-|-|-|-|-|-|-" u="2">
+      <f>β</f>
+    </t>
+    <t p="2.8" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>,</f>
+    </t>
+    <t p="2.9" n="1" a="[1]" o="n-s---mn-" u="4">
+      <f>ὄρνις</f>
+      <l>
+        <l2>ὄρνις</l2>
+      </l>
+    </t>
+    <t p="2.9" n="2" a="[1]" o="n-s---fn-" u="5">
+      <f>σιδυτὴ</f>
+    </t>
+    <t p="2.9" n="3" a="[1]" o="r--------" u="6">
+      <f>ἐξ</f>
+      <l>
+        <l1 r="r---------">ἐκ</l1>
+        <l2>ἐκ</l2>
+        <l2>ἐξ</l2>
+      </l>
+    </t>
+    <t p="2.9" n="4" a="[1]" o="n-s---ng-" u="7">
+      <f>ὕδατος</f>
+      <l>
+        <l1 r="n--s---ng-">ὕδωρ</l1>
+        <l2>ὕδωρ</l2>
+      </l>
+    </t>
+    <t p="2.9" n="5" a="[1]" o="-|-|-|-|-|-|-|-" u="8">
+      <f>α</f>
+    </t>
+    <t p="2.9" n="6" a="[1]" join="b" o="u--------" u="9">
+      <f>,</f>
+    </t>
+    <t p="2.10" n="1" a="[1]" o="v2saia---" u="10">
+      <f>πτέρυγες</f>
+    </t>
+    <t p="2.10" n="2" a="[1]" o="-|-|-|-|-|-|-|-" u="11">
+      <f>β</f>
+    </t>
+    <t p="2.10" n="3" a="[1]" join="b" o="u--------" u="12">
+      <f>.</f>
+    </t>
+  </s>
+</text>
