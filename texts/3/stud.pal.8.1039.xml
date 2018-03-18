@@ -1,0 +1,70 @@
+<text text-id="stud.pal.8.1039">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---md-" u="1">
+      <f>κυρῷ</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---fd-" u="2">
+      <f>Γεροντ</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="v2spme---" u="3">
+      <f>παράσχου</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---md-" u="4">
+      <f>Γεροντίῳ</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---mg-" u="5">
+      <f>χρυσοῦ</f>
+      <l>
+        <l1 r="n--s---mg-">χρυσός</l1>
+        <l2>χρυσός</l2>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---na-" u="6">
+      <f>νομισμάτιον</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="a-s---na-" u="7">
+      <f>ἓν</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="a-s---na-" u="8">
+      <f>ῥυπαρόν</f>
+      <l>
+        <l1 r="a--s---na-">ῥυπαρός</l1>
+        <l2>ῥυπαρός</l2>
+      </l>
+    </t>
+    <t p="5" n="1" a="[1]" o="n-s---mg-" u="9">
+      <f>χρυσοῦ</f>
+      <l>
+        <l1 r="n--s---mg-">χρυσός</l1>
+        <l2>χρυσός</l2>
+      </l>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-s---na-" u="10">
+      <f>νομισμάτιον</f>
+    </t>
+    <t p="5" n="3" a="[1]" o="--------" u="11">
+      <f>α</f>
+    </t>
+    <t p="5" n="4" a="[1]" o="a-s---na-" u="12">
+      <f>ῥυπαρόν</f>
+      <l>
+        <l1 r="a--s---na-">ῥυπαρός</l1>
+        <l2>ῥυπαρός</l2>
+      </l>
+    </t>
+    <t p="5" n="5" a="[1]" join="b" o="u--------" u="13">
+      <f>.</f>
+    </t>
+  </s>
+</text>

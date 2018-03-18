@@ -1,0 +1,58 @@
+<text text-id="sb.1.5429">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Ἁρσύτης</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mg-" u="2">
+      <f>Ἁρσύτου</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="g--------" u="3">
+      <f>μη</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="r--------" u="4">
+      <f>τρὸς</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---mg-" u="5">
+      <f>Τετνήου</f>
+    </t>
+    <t p="2" n="3" a="[1]" join="b" o="u--------" u="6">
+      <f>,</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="a-d---mn-" u="7">
+      <f>ἐβίω</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="v3saia---" u="8">
+      <f>σεν</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="a-p---ma-" u="9">
+      <f>ἔτους</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="--------" u="10">
+      <f>α</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-p---mg-" u="11">
+      <f>μηνῶν</f>
+      <l>
+        <l1 r="n--p---mg-">μείς</l1>
+        <l2>μείς</l2>
+      </l>
+    </t>
+    <t p="3" n="5" a="[1]" o="u--------" u="12">
+      <f>ι</f>
+    </t>
+    <t p="3" n="6" a="[1]" join="b" o="u--------" u="13">
+      <f>.</f>
+    </t>
+  </s>
+</text>

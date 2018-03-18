@@ -1,0 +1,70 @@
+<text text-id="sb.6.9601_4">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="d--------" u="1">
+      <f>Σενσανσνῶς</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="v3saia---" u="2">
+      <f>Ὀβε</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---fn-" u="3">
+      <f>τασκῶρις</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---md-" u="4">
+      <f>Πετεμί</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="a-s---mn-" u="5">
+      <f>νιος</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---fg-" u="6">
+      <f>μητρὸς</f>
+      <l>
+        <l1 r="n--s---fg-">μήτηρ</l1>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---mn-" u="7">
+      <f>Σενψενπνῆβις</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---fn-" u="8">
+      <f>γυνὴ</f>
+      <l>
+        <l1 r="n--s---fn-">γυνή</l1>
+      </l>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---mg-" u="9">
+      <f>Πανεχάτου</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---md-" u="10">
+      <f>ὀρνι</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="n-s---fn-" u="11">
+      <f>θᾶ</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="v3saia---" u="12">
+      <f>ἐβίωσεν</f>
+      <l>
+        <l1 r="v-3saia---">βιόω</l1>
+        <l2>βιόω</l2>
+      </l>
+    </t>
+    <t p="6" n="1" a="[1]" o="a-s---fn-" u="13">
+      <f>ἔτη</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="n-s---fn-" u="14">
+      <f>λη</f>
+    </t>
+    <t p="6" n="3" a="[1]" join="b" o="u--------" u="15">
+      <f>.</f>
+    </t>
+  </s>
+</text>

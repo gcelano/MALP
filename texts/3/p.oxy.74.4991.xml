@@ -1,0 +1,93 @@
+<text text-id="p.oxy.74.4991">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="n-p---md-" u="1">
+      <f>λαογράφοις</f>
+    </t>
+    <t p="r.1" n="2" a="[1]" o="n-s---mg-" u="2">
+      <f>Μητρῴου</f>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="r--------" u="3">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="a-s---mg-" u="4">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="n-s---mg-" u="5">
+      <f>Πολυκάρπου</f>
+    </t>
+    <t p="r.3" n="2" a="[1]" o="a-s---mg-" u="6">
+      <f>ἰδίου</f>
+      <l>
+        <l1 r="a--s---mg-">ἴδιος</l1>
+        <l2>ἴδιος</l2>
+      </l>
+    </t>
+    <t p="r.4" n="1" a="[1]" o="n-s---mg-" u="7">
+      <f>Μάρκου</f>
+      <l>
+        <l1 r="ne-s---mg-">Μάρκος</l1>
+      </l>
+    </t>
+    <t p="r.4" n="2" a="[1]" o="n-s---mg-" u="8">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="r.5" n="1" a="[1]" o="n-s---mg-" u="9">
+      <f>Ἀχιλλέως</f>
+      <l>
+        <l1 r="ne-s---mg-">Ἀχιλλεύς</l1>
+      </l>
+    </t>
+    <t p="r.5" n="2" a="[1]" o="l-s---mg-" u="10">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="r.5" n="3" a="[1]" o="d--------" u="11">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="r.5" n="4" a="[1]" o="n-s---mg-" u="12">
+      <f>Ἰσιδώρου</f>
+    </t>
+    <t p="r.6" n="1" a="[1]" o="d--------" u="13">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="r.6" n="2" a="[1]" o="c--------" u="14">
+      <f>ὡς</f>
+      <l>
+        <l1 r="c---------">ὡς</l1>
+        <l2>ὡς</l2>
+      </l>
+    </t>
+    <t p="r.6" n="3" a="[1]" o="v3spia---" u="15">
+      <f>χρηματίζει</f>
+      <l>
+        <l1 r="v-3spia---">χρηματίζω</l1>
+        <l2>χρηματίζω</l2>
+      </l>
+    </t>
+    <t p="r.6" n="4" a="[1]" join="b" o="u--------" u="16">
+      <f>.</f>
+    </t>
+  </s>
+</text>

@@ -1,0 +1,66 @@
+<text text-id="p.turku.87">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="ii.2" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>τη</f>
+    </t>
+    <t p="ii.3" n="1" a="[1]" o="--------" u="2">
+      <f>δ</f>
+    </t>
+    <t p="ii.3" n="2" a="[1]" o="v3sama---" u="3">
+      <f>υν</f>
+    </t>
+    <t p="ii.3" n="3" a="[1]" o="u--------" u="4">
+      <f>μ</f>
+    </t>
+    <t p="ii.3" n="4" a="[1]" o="u--------" u="5">
+      <f>φ</f>
+    </t>
+    <t p="ii.4" n="1" a="[1]" o="u--------" u="6">
+      <f>τ</f>
+    </t>
+    <t p="ii.4" n="2" a="[1]" o="n-s---fv-" u="7">
+      <f>αρχ</f>
+    </t>
+    <t p="ii.5" n="1" a="[1]" o="u--------" u="8">
+      <f>τ</f>
+    </t>
+    <t p="ii.5" n="2" a="[1]" o="n-s---fv-" u="9">
+      <f>ιμ</f>
+    </t>
+    <t p="ii.6" n="1" a="[1]" o="u--------" u="10">
+      <f>χ</f>
+    </t>
+    <t p="ii.6" n="2" a="[1]" o="r--------" u="11">
+      <f>επ</f>
+    </t>
+    <t p="ii.7" n="1" a="[1]" o="n-p---na-" u="12">
+      <f>φρυπο</f>
+    </t>
+    <t p="ii.8" n="1" a="[1]" o="u--------" u="13">
+      <f>ι</f>
+    </t>
+    <t p="ii.8" n="2" a="[1]" o="v3ppia---" u="14">
+      <f>σι</f>
+    </t>
+    <t p="ii.9" n="1" a="[1]" o="v3sii----" u="15">
+      <f>ελοιπ</f>
+    </t>
+    <t p="ii.10" n="1" a="[1]" o="l-p---na-" u="16">
+      <f>υπερ</f>
+    </t>
+    <t p="ii.11" n="1" a="[1]" join="b" o="u--------" u="17">
+      <f>.</f>
+    </t>
+  </s>
+</text>

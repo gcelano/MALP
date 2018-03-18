@@ -1,0 +1,109 @@
+<text text-id="sb.20.14361">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="A.4" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Αὐρήλιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Αὐρήλιος</l1>
+      </l>
+    </t>
+    <t p="A.4" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Ἰσιδωριανὸς</f>
+    </t>
+    <t p="A.4" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="A.4" n="4" a="[1]" o="r--------" u="4">
+      <f>Βησᾶ</f>
+    </t>
+    <t p="A.5" n="1" a="[1]" o="a-s---mg-" u="5">
+      <f>νεωτέρου</f>
+      <l>
+        <l2>νεώτερος</l2>
+      </l>
+    </t>
+    <t p="A.5" n="2" a="[1]" o="n-s---mg-" u="6">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="A.5" n="3" a="[1]" o="n-s---mg-" u="7">
+      <f>Μικκάλου</f>
+    </t>
+    <t p="A.5" n="4" a="[1]" o="v-sapamn-" u="8">
+      <f>βιώσας</f>
+      <l>
+        <l1 r="v--sapamn-">βιόω</l1>
+      </l>
+    </t>
+    <t p="A.6" n="1" a="[1]" o="n-p---na-" u="9">
+      <f>ἔτη</f>
+      <l>
+        <l1 r="n--p---na-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="A.6" n="2" a="[1]" o="a-p---na-" u="10">
+      <f>τρία</f>
+    </t>
+    <t p="A.6" n="3" a="[1]" join="b" o="u--------" u="11">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="B.1" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Αὐρήλιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Αὐρήλιος</l1>
+      </l>
+    </t>
+    <t p="B.1" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Ἰσιδωριανὸς</f>
+    </t>
+    <t p="B.1" n="3" a="[1]" o="n-s---mg-" u="3">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="B.1" n="4" a="[1]" o="r--------" u="4">
+      <f>Βησᾶ</f>
+    </t>
+    <t p="B.2" n="1" a="[1]" o="a-s---mg-" u="5">
+      <f>νεωτέρου</f>
+      <l>
+        <l2>νεώτερος</l2>
+      </l>
+    </t>
+    <t p="B.2" n="2" a="[1]" o="n-s---mg-" u="6">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="B.3" n="1" a="[1]" o="n-s---mg-" u="7">
+      <f>Μικκάλου</f>
+    </t>
+    <t p="B.3" n="2" a="[1]" o="v-sapamn-" u="8">
+      <f>βιώσας</f>
+      <l>
+        <l1 r="v--sapamn-">βιόω</l1>
+      </l>
+    </t>
+    <t p="B.4" n="1" a="[1]" o="n-p---na-" u="9">
+      <f>ἔτη</f>
+      <l>
+        <l1 r="n--p---na-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="B.4" n="2" a="[1]" o="a-p---na-" u="10">
+      <f>τρία</f>
+    </t>
+    <t p="B.4" n="3" a="[1]" join="b" o="u--------" u="11">
+      <f>.</f>
+    </t>
+  </s>
+</text>

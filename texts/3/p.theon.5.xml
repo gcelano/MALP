@@ -1,0 +1,153 @@
+<text text-id="p.theon.5">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="--------" u="1">
+      <f>κ</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="a-p---ma-" u="2">
+      <f>ἔτους</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---md-" u="3">
+      <f>Τῦβι</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="u--------" u="4">
+      <f>ιϛ</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="r--------" u="5">
+      <f>ἐκ</f>
+      <l>
+        <l1 r="r---------">ἐκ</l1>
+        <l2>ἐκ</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---mg-" u="6">
+      <f>λόγου</f>
+      <l>
+        <l1 r="n--s---mg-">λόγος</l1>
+        <l2>λόγος</l2>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-p---mg-" u="7">
+      <f>Ἰουλίων</f>
+      <l>
+        <l1 r="ne-p---mg-">Ἰούλιος</l1>
+      </l>
+    </t>
+    <t p="2" n="4" a="[1]" o="n-s---mg-" u="8">
+      <f>Θέωνος</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="d--------" u="9">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---mg-" u="10">
+      <f>Θέωνος</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="l-s---mg-" u="11">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="3" n="4" a="[2]" o="d--------" u="12">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="3" n="5" a="[1]" o="n-s---mg-" u="13">
+      <f>Τρύφωνος</f>
+      <l>
+        <l1 r="ne-s---mg-">Τρύφων</l1>
+      </l>
+    </t>
+    <t p="4" n="1" a="[1]" o="n-s---fg-" u="14">
+      <f>τιμῆς</f>
+      <l>
+        <l1 r="n--s---fg-">τιμή</l1>
+        <l2>τιμή</l2>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="v-sppamn-" u="15">
+      <f>σαβάνων</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="--------" u="16">
+      <f>β</f>
+    </t>
+    <t p="4" n="4" a="[1]" o="a-p---na-" u="17">
+      <f>ἀγορασ</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="v3pama---" u="18">
+      <f>θέντων</f>
+      <l>
+        <l1 r="v-3pama---">τίθημι</l1>
+        <l2>τίθημι</l2>
+      </l>
+    </t>
+    <t p="5" n="2" a="[1]" o="r--------" u="19">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="5" n="3" a="[1]" o="n-s---mn-" u="20">
+      <f>Ἁρθώνιος</f>
+    </t>
+    <t p="6" n="1" a="[1]" o="n-s---mg-" u="21">
+      <f>ὀθονιοπώλου</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="r--------" u="22">
+      <f>εἰς</f>
+      <l>
+        <l1 r="r---------">εἰς</l1>
+        <l2>εἰς</l2>
+      </l>
+    </t>
+    <t p="6" n="3" a="[1]" o="l-s---na-" u="23">
+      <f>τὸ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="6" n="4" a="[1]" o="n-s---na-" u="24">
+      <f>σκέπασμα</f>
+      <l>
+        <l1 r="n--s---na-">σκέπασμα</l1>
+        <l2>σκέπασμα</l2>
+      </l>
+    </t>
+    <t p="7" n="1" a="[1]" o="l-s---fg-" u="25">
+      <f>υπα</f>
+    </t>
+    <t p="10" n="1" a="[1]" o="v2sama---" u="26">
+      <f>δὸς</f>
+      <l>
+        <l1 r="v-2sama---">δίδωμι</l1>
+      </l>
+    </t>
+    <t p="10" n="2" a="[1]" o="l-p---fa-" u="27">
+      <f>τὰς</f>
+    </t>
+    <t p="10" n="3" a="[1]" o="n-p---fa-" u="28">
+      <f>δραχμὰς</f>
+      <l>
+        <l1 r="n--p---fa-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="10" n="4" a="[1]" join="b" o="u--------" u="29">
+      <f>.</f>
+    </t>
+  </s>
+</text>

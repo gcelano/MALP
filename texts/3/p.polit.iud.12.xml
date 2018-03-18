@@ -1,0 +1,74 @@
+<text text-id="p.polit.iud.12">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="l-p---md-" u="1">
+      <f>τοῖς</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="r.1" n="2" a="[1]" o="l-s---na-" u="2">
+      <f>τὸ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="r.1" n="3" a="[1]" o="p-s---mn-" u="3">
+      <f>λε</f>
+    </t>
+    <t p="r.1" n="4" a="[1]" o="n-s---na-" u="4">
+      <f>ἔτος</f>
+      <l>
+        <l1 r="n--s---na-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="r.1" n="5" a="[1]" o="v3ppia---" u="5">
+      <f>ἄρχουσι</f>
+      <l>
+        <l1 r="v-3ppia---">ἄρχω</l1>
+        <l2>ἄρχω</l2>
+      </l>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="r--------" u="6">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="n-s---mg-" u="7">
+      <f>Νικάνορος</f>
+      <l>
+        <l1 r="ne-s---mg-">Νικάνωρ</l1>
+      </l>
+    </t>
+    <t p="r.2" n="3" a="[1]" o="l-s---mg-" u="8">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="r.2" n="4" a="[1]" o="n-s---mg-" u="9">
+      <f>Τρύφωνος</f>
+      <l>
+        <l1 r="ne-s---mg-">Τρύφων</l1>
+      </l>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="n-s---mg-" u="10">
+      <f>Ἰουδαίου</f>
+    </t>
+    <t p="r.3" n="2" a="[1]" join="b" o="u--------" u="11">
+      <f>.</f>
+    </t>
+  </s>
+</text>

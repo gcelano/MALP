@@ -1,0 +1,286 @@
+<text text-id="sb.3.6223">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="B,int.14" n="1" a="[1]" o="n-s---fn-" u="1">
+      <f>Μηουία</f>
+    </t>
+    <t p="B,int.14" n="2" a="[1]" o="n-s---ma-" u="2">
+      <f>Διονυσάριον</f>
+    </t>
+    <t p="B,int.14" n="3" a="[1]" o="v1saim---" u="3">
+      <f>ᾐτησάμην</f>
+      <l>
+        <l2>αἰτέω</l2>
+      </l>
+    </t>
+    <t p="B,int.14" n="4" a="[1]" o="a-s---ma-" u="4">
+      <f>κύριον</f>
+      <l>
+        <l1 r="a--s---ma-">κύριος</l1>
+        <l2>κύριος</l2>
+        <l2>κύριος</l2>
+      </l>
+    </t>
+    <t p="B,int.14" n="5" a="[1]" o="n-s---ma-" u="5">
+      <f>ἐπιγρα</f>
+    </t>
+    <t p="B,int.15" n="1" a="[1]" o="v-sppema-" u="6">
+      <f>φόμενον</f>
+    </t>
+    <t p="B,int.15" n="2" a="[1]" o="n-s---ma-" u="7">
+      <f>Ἰούλιον</f>
+      <l>
+        <l1 r="ne-s---ma-">Ἰούλιος</l1>
+      </l>
+    </t>
+    <t p="B,int.15" n="3" a="[1]" o="n-s---ma-" u="8">
+      <f>Ἀλέξανδρον</f>
+      <l>
+        <l1 r="ne-s---ma-">Ἀλέξανδρος</l1>
+      </l>
+    </t>
+    <t p="B,int.15" n="4" a="[1]" join="b" o="u--------" u="9">
+      <f>,</f>
+    </t>
+    <t p="B,int.15" n="5" a="[1]" o="c--------" u="10">
+      <f>ὡς</f>
+      <l>
+        <l1 r="c---------">ὡς</l1>
+        <l2>ὡς</l2>
+      </l>
+    </t>
+    <t p="B,int.15" n="6" a="[1]" o="d--------" u="11">
+      <f>πρόκι</f>
+    </t>
+    <t p="B,int.16" n="1" a="[1]" o="v3spie---" u="12">
+      <f>ται</f>
+    </t>
+    <t p="B,int.16" n="2" a="[1]" join="b" o="u--------" u="13">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="B,int.16" n="3" a="[1]" o="n-s---mn-" u="1">
+      <f>Γάιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Γάιος</l1>
+      </l>
+    </t>
+    <t p="B,int.16" n="4" a="[1]" o="n-s---mn-" u="2">
+      <f>Ἰούλιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Ἰούλιος</l1>
+      </l>
+    </t>
+    <t p="B,int.16" n="5" a="[1]" o="n-s---mn-" u="3">
+      <f>Ἡρακλᾶς</f>
+    </t>
+    <t p="B,int.16" n="6" a="[1]" o="v1saia---" u="4">
+      <f>ἔγραψα</f>
+      <l>
+        <l1 r="v-1saia---">γράφω</l1>
+        <l2>γράφω</l2>
+      </l>
+    </t>
+    <t p="B,int.16" n="7" a="[1]" o="r--------" u="5">
+      <f>ὑπὲρ</f>
+      <l>
+        <l1 r="r---------">ὑπέρ</l1>
+      </l>
+    </t>
+    <t p="B,int.16" n="8" a="[1]" o="p-s---fg-" u="6">
+      <f>αὐτῆς</f>
+      <l>
+        <l1 r="pp-s---fg-">αὐτός</l1>
+      </l>
+    </t>
+    <t p="B,int.17" n="1" a="[1]" o="n-p---na-" u="7">
+      <f>γράμματα</f>
+      <l>
+        <l1 r="n--p---na-">γράμμα</l1>
+        <l2>γράμμα</l2>
+      </l>
+    </t>
+    <t p="B,int.17" n="2" a="[1]" o="c--------" u="8">
+      <f>μὴ</f>
+      <l>
+        <l1 r="c---------">μή</l1>
+        <l2>μή</l2>
+      </l>
+    </t>
+    <t p="B,int.17" n="3" a="[1]" o="n-s---fg-" u="9">
+      <f>εἰδυίης</f>
+    </t>
+    <t p="B,int.17" n="4" a="[1]" join="b" o="u--------" u="10">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="A,ext.39" n="1" a="[1]" o="n-s---fn-" u="1">
+      <f>Μηουία</f>
+    </t>
+    <t p="A,ext.39" n="2" a="[1]" o="n-s---ma-" u="2">
+      <f>Διονυσάριον</f>
+    </t>
+    <t p="A,ext.39" n="3" a="[1]" o="v1saim---" u="3">
+      <f>ᾐτησάμην</f>
+      <l>
+        <l2>αἰτέω</l2>
+      </l>
+    </t>
+    <t p="A,ext.39" n="4" a="[1]" o="a-s---ma-" u="4">
+      <f>κύριον</f>
+      <l>
+        <l1 r="a--s---ma-">κύριος</l1>
+        <l2>κύριος</l2>
+        <l2>κύριος</l2>
+      </l>
+    </t>
+    <t p="A,ext.39" n="5" a="[1]" o="v-sapamn-" u="5">
+      <f>ἐπιγραφό</f>
+    </t>
+    <t p="A,ext.40" n="1" a="[1]" o="v-sppema-" u="6">
+      <f>μενον</f>
+    </t>
+    <t p="A,ext.40" n="2" a="[1]" o="n-s---ma-" u="7">
+      <f>Ἰούλιον</f>
+      <l>
+        <l1 r="ne-s---ma-">Ἰούλιος</l1>
+      </l>
+    </t>
+    <t p="A,ext.40" n="3" a="[1]" o="n-s---ma-" u="8">
+      <f>Ἀλέξανδρον</f>
+      <l>
+        <l1 r="ne-s---ma-">Ἀλέξανδρος</l1>
+      </l>
+    </t>
+    <t p="A,ext.40" n="4" a="[1]" join="b" o="u--------" u="9">
+      <f>,</f>
+    </t>
+    <t p="A,ext.40" n="5" a="[1]" o="c--------" u="10">
+      <f>ὡς</f>
+      <l>
+        <l1 r="c---------">ὡς</l1>
+        <l2>ὡς</l2>
+      </l>
+    </t>
+    <t p="A,ext.40" n="6" a="[1]" o="v3spie---" u="11">
+      <f>πρόκειται</f>
+      <l>
+        <l2>πρόκειμαι</l2>
+      </l>
+    </t>
+    <t p="A,ext.40" n="7" a="[1]" join="b" o="u--------" u="12">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="4">
+    <t p="A,ext.40" n="8" a="[1]" o="n-s---mn-" u="1">
+      <f>Γάιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Γάιος</l1>
+      </l>
+    </t>
+    <t p="A,ext.40" n="9" a="[1]" o="n-s---mn-" u="2">
+      <f>Ἰούλιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Ἰούλιος</l1>
+      </l>
+    </t>
+    <t p="A,ext.41" n="1" a="[1]" o="n-s---mn-" u="3">
+      <f>Ἡρακλᾶς</f>
+    </t>
+    <t p="A,ext.41" n="2" a="[1]" o="v1saia---" u="4">
+      <f>ἔγραψα</f>
+      <l>
+        <l1 r="v-1saia---">γράφω</l1>
+        <l2>γράφω</l2>
+      </l>
+    </t>
+    <t p="A,ext.41" n="3" a="[1]" o="r--------" u="5">
+      <f>ὑπὲρ</f>
+      <l>
+        <l1 r="r---------">ὑπέρ</l1>
+      </l>
+    </t>
+    <t p="A,ext.41" n="4" a="[1]" o="p-s---fg-" u="6">
+      <f>αὐτῆς</f>
+      <l>
+        <l1 r="pp-s---fg-">αὐτός</l1>
+      </l>
+    </t>
+    <t p="A,ext.41" n="5" a="[1]" o="n-p---na-" u="7">
+      <f>γράμματα</f>
+      <l>
+        <l1 r="n--p---na-">γράμμα</l1>
+        <l2>γράμμα</l2>
+      </l>
+    </t>
+    <t p="A,ext.41" n="6" a="[1]" o="c--------" u="8">
+      <f>μὴ</f>
+      <l>
+        <l1 r="c---------">μή</l1>
+        <l2>μή</l2>
+      </l>
+    </t>
+    <t p="A,ext.41" n="7" a="[1]" o="n-s---fg-" u="9">
+      <f>εἰδυίης</f>
+    </t>
+    <t p="A,ext.41" n="8" a="[1]" join="b" o="u--------" u="10">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="5">
+    <t p="A,ext.42" n="1" a="[1]" o="n-s---fg-" u="1">
+      <f>Μεβίας</f>
+    </t>
+    <t p="A,ext.42" n="2" a="[1]" o="a-s---fg-" u="2">
+      <f>Διονυσαρίου</f>
+    </t>
+    <t p="A,ext.42" n="3" a="[1]" o="v-sppefg-" u="3">
+      <f>αἰτουμένης</f>
+      <l>
+        <l1 r="v--sppefg-">αἰτέω</l1>
+      </l>
+    </t>
+    <t p="A,ext.43" n="1" a="[1]" o="a-s---ma-" u="4">
+      <f>κύριον</f>
+      <l>
+        <l1 r="a--s---ma-">κύριος</l1>
+        <l2>κύριος</l2>
+        <l2>κύριος</l2>
+      </l>
+    </t>
+    <t p="A,ext.43" n="2" a="[1]" o="n-s---ma-" u="5">
+      <f>Γάϊον</f>
+      <l>
+        <l1 r="ne-s---ma-">Γάιος</l1>
+      </l>
+    </t>
+    <t p="A,ext.43" n="3" a="[1]" o="n-s---ma-" u="6">
+      <f>Ἰούλιον</f>
+      <l>
+        <l1 r="ne-s---ma-">Ἰούλιος</l1>
+      </l>
+    </t>
+    <t p="A,ext.43" n="4" a="[1]" o="n-s---ma-" u="7">
+      <f>Ἀλέξανδρον</f>
+      <l>
+        <l1 r="ne-s---ma-">Ἀλέξανδρος</l1>
+      </l>
+    </t>
+    <t p="A,ext.43" n="5" a="[1]" join="b" o="u--------" u="8">
+      <f>.</f>
+    </t>
+  </s>
+</text>

@@ -1,0 +1,145 @@
+<text text-id="p.tebt.2.601">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="3/7" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Τύραννος</f>
+      <l>
+        <l1 r="ne-s---mn-">Τύραννος</l1>
+      </l>
+    </t>
+    <t p="3/7" n="2" a="[1]" o="v-sapmmn-" u="2">
+      <f>γενάμενος</f>
+    </t>
+    <t p="3/7" n="3" a="[1]" o="n-s---mn-" u="3">
+      <f>ἐπιτηρητὴς</f>
+    </t>
+    <t p="3/7" n="4" a="[1]" o="r--------" u="4">
+      <f>ὑπὲρ</f>
+      <l>
+        <l1 r="r---------">ὑπέρ</l1>
+      </l>
+    </t>
+    <t p="3/7" n="5" a="[1]" o="l-s---mg-" u="5">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="3/7" n="6" a="[1]" o="a-s---mg-" u="6">
+      <f>τρεισκαιδεκάτου</f>
+    </t>
+    <t p="3/7" n="7" a="[1]" o="n-s---ng-" u="7">
+      <f>ἔτους</f>
+      <l>
+        <l1 r="n--s---ng-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="3/7" n="8" a="[1]" o="a-p---fg-" u="8">
+      <f>ἱερατικῶν</f>
+    </t>
+    <t p="3/7" n="9" a="[1]" o="v-sapamn-" u="9">
+      <f>ὠνὼν</f>
+    </t>
+    <t p="3/7" n="10" a="[1]" o="n-s---fg-" u="10">
+      <f>Τεπτύνεως</f>
+    </t>
+    <t p="3/7" n="11" a="[1]" join="b" o="u--------" u="11">
+      <f>,</f>
+    </t>
+    <t p="3/7" n="12" a="[1]" o="v3saia---" u="12">
+      <f>διέγραψε</f>
+      <l>
+        <l2>διαγράφω</l2>
+      </l>
+    </t>
+    <t p="3/7" n="13" a="[1]" o="n-s---mn-" u="13">
+      <f>Ποῦρις</f>
+    </t>
+    <t p="3/7" n="14" a="[1]" o="n-s---mn-" u="14">
+      <f>Λοῦτος</f>
+      <l>
+        <l1 r="ne-s---mn-">Λοῦτος</l1>
+      </l>
+    </t>
+    <t p="3/7" n="15" a="[1]" o="r--------" u="15">
+      <f>ἀφʼ</f>
+      <l>
+        <l1 r="r---------">ἀπό</l1>
+      </l>
+    </t>
+    <t p="3/7" n="16" a="[1]" o="p-p---mg-" u="16">
+      <f>ὧν</f>
+      <l>
+        <l1 r="pr-p---mg-">ὅς</l1>
+        <l1 r="ps-p---mg-">ὅς2</l1>
+        <l2>ὅς</l2>
+      </l>
+    </t>
+    <t p="3/7" n="17" a="[1]" o="v3saia---" u="17">
+      <f>ὤφειλε</f>
+      <l>
+        <l1 r="v-3saia---">ὀφείλω</l1>
+        <l2>ὀφέλλω</l2>
+      </l>
+    </t>
+    <t p="3/7" n="18" a="[2]" o="r--------" u="18">
+      <f>ὑπὲρ</f>
+      <l>
+        <l1 r="r---------">ὑπέρ</l1>
+      </l>
+    </t>
+    <t p="3/7" n="19" a="[2]" o="l-s---mg-" u="19">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="3/7" n="20" a="[2]" o="a-s---mg-" u="20">
+      <f>τρεισκαιδεκάτου</f>
+    </t>
+    <t p="3/7" n="21" a="[2]" o="a-p---fa-" u="21">
+      <f>ἔτους</f>
+    </t>
+    <t p="3/7" n="22" a="[1]" o="n-p---fa-" u="22">
+      <f>δραχμὰς</f>
+      <l>
+        <l1 r="n--p---fa-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="3/7" n="23" a="[1]" o="v3sasp---" u="23">
+      <f>δεκάδυο</f>
+    </t>
+    <t p="3/7" n="24" a="[2]" join="b" o="u--------" u="24">
+      <f>,</f>
+    </t>
+    <t p="3/7" n="25" a="[1]" o="v3ppie---" u="25">
+      <f>γίνονται</f>
+      <l>
+        <l2>γίγνομαι</l2>
+      </l>
+    </t>
+    <t p="3/7" n="26" a="[1]" o="n-p---fn-" u="26">
+      <f>δραχμαὶ</f>
+      <l>
+        <l1 r="n--p---fn-">δραχμή</l1>
+      </l>
+    </t>
+    <t p="3/7" n="27" a="[1]" o="a-p---fn-" u="27">
+      <f>ιβ</f>
+    </t>
+    <t p="3/7" n="28" a="[1]" join="b" o="u--------" u="28">
+      <f>.</f>
+    </t>
+  </s>
+</text>

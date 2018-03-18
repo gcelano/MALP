@@ -1,0 +1,63 @@
+<text text-id="p.prag.3.243">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="a-p---ma-" u="1">
+      <f>ἔτους</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mg-" u="2">
+      <f>Μάρκου</f>
+      <l>
+        <l1 r="ne-s---mg-">Μάρκος</l1>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="a-s---mg-" u="3">
+      <f>Αὐρηλίου</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---mg-" u="4">
+      <f>Σεουήρου</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---mg-" u="5">
+      <f>Ἀλεξάνδρου</f>
+      <l>
+        <l1 r="ne-s---mg-">Ἀλέξανδρος</l1>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="a-s---mg-" u="6">
+      <f>Εὐσεβοῦς</f>
+      <l>
+        <l1 r="ae-s---mg-">εὐσεβής</l1>
+      </l>
+    </t>
+    <t p="4" n="1" a="[1]" o="a-s---mg-" u="7">
+      <f>Εὐτυχοῦς</f>
+      <l>
+        <l1 r="a--s---mg-">εὐτυχής</l1>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---mg-" u="8">
+      <f>Σεβαστοῦ</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="n-s---md-" u="9">
+      <f>Φαῶφι</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-s---fg-" u="10">
+      <f>ἀριθμήσεως</f>
+    </t>
+    <t p="5" n="3" a="[1]" o="n-s---fn-" u="11">
+      <f>Θώθ</f>
+    </t>
+    <t p="5" n="4" a="[1]" join="b" o="u--------" u="12">
+      <f>.</f>
+    </t>
+  </s>
+</text>

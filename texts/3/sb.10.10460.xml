@@ -1,0 +1,85 @@
+<text text-id="sb.10.10460">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="FrA.1" n="1" a="[1]" o="--------" u="1">
+      <f>ρ</f>
+    </t>
+    <t p="FrA.2" n="1" a="[1]" o="v-sapamn-" u="2">
+      <f>παρεάσας</f>
+    </t>
+    <t p="FrA.2" n="2" a="[1]" o="n-p---na-" u="3">
+      <f>δια</f>
+    </t>
+    <t p="FrA.2" n="3" a="[1]" o="u--------" u="4">
+      <f>τ</f>
+    </t>
+    <t p="FrA.3" n="1" a="[1]" o="c--------" u="5">
+      <f>ὡς</f>
+      <l>
+        <l1 r="c---------">ὡς</l1>
+        <l2>ὡς</l2>
+      </l>
+    </t>
+    <t p="FrA.3" n="2" a="[1]" o="v1ppia---" u="6">
+      <f>μέλλομεν</f>
+      <l>
+        <l1 r="v-1ppia---">μέλλω</l1>
+        <l2>μέλλω</l2>
+      </l>
+    </t>
+    <t p="FrA.3" n="3" a="[1]" o="d--------" u="7">
+      <f>κελ</f>
+    </t>
+    <t p="FrA.4" n="1" a="[1]" o="r--------" u="8">
+      <f>ὑπὲρ</f>
+      <l>
+        <l1 r="r---------">ὑπέρ</l1>
+      </l>
+    </t>
+    <t p="FrA.4" n="2" a="[1]" o="p-s---na-" u="9">
+      <f>ὃ</f>
+      <l>
+        <l1 r="pr-s---na-">ὅς</l1>
+      </l>
+    </t>
+    <t p="FrA.4" n="3" a="[1]" o="v2spia---" u="10">
+      <f>νομίζεις</f>
+      <l>
+        <l1 r="v-2spia---">νομίζω</l1>
+        <l2>νομίζω</l2>
+      </l>
+    </t>
+    <t p="FrA.5" n="1" a="[1]" o="v3spia---" u="11">
+      <f>ἐστι</f>
+      <l>
+        <l1 r="vc3spia---">εἰμί</l1>
+        <l2>εἰμί</l2>
+      </l>
+    </t>
+    <t p="FrA.5" n="2" a="[1]" o="r--------" u="12">
+      <f>διὰ</f>
+      <l>
+        <l1 r="r---------">διά</l1>
+      </l>
+    </t>
+    <t p="FrA.5" n="3" a="[1]" o="p-s---mg-" u="13">
+      <f>σοῦ</f>
+      <l>
+        <l1 r="ps-s---mg-">σός</l1>
+      </l>
+    </t>
+    <t p="FrA.5" n="4" a="[1]" join="b" o="u--------" u="14">
+      <f>.</f>
+    </t>
+  </s>
+</text>

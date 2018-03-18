@@ -1,0 +1,272 @@
+<text text-id="sb.20.15139">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>Diaconus</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---mv-" u="2">
+      <f>Macedoni</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="a-s---mv-" u="3">
+      <f>suo</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="n-s---mv-" u="4">
+      <f>salutem</f>
+    </t>
+    <t p="1" n="5" a="[1]" join="b" o="u--------" u="5">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="2" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>Dissimulare</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="n-s---mv-" u="2">
+      <f>non</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="a-s---mv-" u="3">
+      <f>potui</f>
+    </t>
+    <t p="2" n="4" a="[1]" join="b" o="u--------" u="4">
+      <f>,</f>
+    </t>
+    <t p="2" n="5" a="[1]" o="n-s---mv-" u="5">
+      <f>ut</f>
+    </t>
+    <t p="2" n="6" a="[1]" o="n-s---mv-" u="6">
+      <f>tibi</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="l-s---mg-" u="7">
+      <f>non</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="a-s---mv-" u="8">
+      <f>scriberem</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="n-s---mv-" u="9">
+      <f>te</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="l-s---mg-" u="10">
+      <f>ualdissime</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="l-s---mg-" u="11">
+      <f>decriminatum</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---mg-" u="12">
+      <f>aput</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="a-s---mg-" u="13">
+      <f>Iucundum</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="r--------" u="14">
+      <f>et</f>
+    </t>
+    <t p="5" n="2" a="[1]" o="n-s---fd-" u="15">
+      <f>Didom</f>
+    </t>
+    <t p="5" n="3" a="[1]" o="u--------" u="16">
+      <f>a</f>
+    </t>
+    <t p="5" n="4" a="[1]" o="a-s---fd-" u="17">
+      <f>Domitii</f>
+    </t>
+    <t p="5" n="5" a="[1]" o="n-s---fd-" u="18">
+      <f>liberto</f>
+    </t>
+    <t p="5" n="6" a="[1]" join="b" o="u--------" u="19">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="5" n="7" a="[1]" o="n-s---mv-" u="1">
+      <f>Itaque</f>
+    </t>
+    <t p="5" n="8" a="[1]" join="b" o="u--------" u="2">
+      <f>,</f>
+    </t>
+    <t p="6" n="1" a="[1]" o="a-s---mv-" u="3">
+      <f>mi</f>
+    </t>
+    <t p="6" n="2" a="[1]" o="n-s---mv-" u="4">
+      <f>frater</f>
+    </t>
+    <t p="6" n="3" a="[1]" join="b" o="u--------" u="5">
+      <f>,</f>
+    </t>
+    <t p="6" n="4" a="[1]" o="g--------" u="6">
+      <f>da</f>
+    </t>
+    <t p="6" n="5" a="[1]" o="n-s---mv-" u="7">
+      <f>operam</f>
+    </t>
+    <t p="6" n="6" a="[2]" join="b" o="u--------" u="8">
+      <f>,</f>
+    </t>
+    <t p="6" n="7" a="[1]" o="g--------" u="9">
+      <f>ut</f>
+    </t>
+    <t p="7" n="1" a="[1]" o="---------" u="10">
+      <f>ualenter</f>
+    </t>
+    <t p="7" n="2" a="[1]" o="n-s---fn-" u="11">
+      <f>satisfacias</f>
+    </t>
+    <t p="7" n="3" a="[1]" o="n-s---fn-" u="12">
+      <f>illis</f>
+    </t>
+    <t p="7" n="4" a="[1]" join="b" o="u--------" u="13">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="4">
+    <t p="8" n="1" a="[1]" o="n-s---mv-" u="1">
+      <f>Nireo</f>
+    </t>
+    <t p="8" n="2" a="[1]" o="n-s---mv-" u="2">
+      <f>quoque</f>
+    </t>
+    <t p="8" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>,</f>
+    </t>
+    <t p="8" n="4" a="[1]" o="a-s---mv-" u="4">
+      <f>conliberto</f>
+    </t>
+    <t p="8" n="5" a="[1]" o="n-s---mv-" u="5">
+      <f>suo</f>
+    </t>
+    <t p="8" n="6" a="[2]" join="b" o="u--------" u="6">
+      <f>,</f>
+    </t>
+    <t p="8" n="7" a="[1]" o="v2spma---" u="7">
+      <f>multa</f>
+    </t>
+    <t p="9" n="1" a="[1]" o="n-s---md-" u="8">
+      <f>scelera</f>
+    </t>
+    <t p="9" n="2" a="[1]" o="u--------" u="9">
+      <f>de</f>
+    </t>
+    <t p="9" n="3" a="[1]" o="u--------" u="10">
+      <f>te</f>
+    </t>
+    <t p="9" n="4" a="[1]" o="n-s---fv-" u="11">
+      <f>scripsit</f>
+    </t>
+    <t p="9" n="5" a="[1]" join="b" o="u--------" u="12">
+      <f>,</f>
+    </t>
+    <t p="9" n="6" a="[1]" o="n-s---fv-" u="13">
+      <f>qui</f>
+    </t>
+    <t p="9" n="7" a="[2]" join="b" o="u--------" u="14">
+      <f>,</f>
+    </t>
+    <t p="9" n="8" a="[1]" o="a-s---fv-" u="15">
+      <f>ut</f>
+    </t>
+    <t p="10" n="1" a="[1]" o="n-s---fv-" u="16">
+      <f>suspicor</f>
+    </t>
+    <t p="10" n="2" a="[1]" join="b" o="u--------" u="17">
+      <f>,</f>
+    </t>
+    <t p="10" n="3" a="[1]" o="a-s---fv-" u="18">
+      <f>credidit</f>
+    </t>
+    <t p="10" n="4" a="[1]" o="n-s---fv-" u="19">
+      <f>ei</f>
+    </t>
+    <t p="10" n="5" a="[1]" o="a-s---fv-" u="20">
+      <f>et</f>
+    </t>
+    <t p="10" n="6" a="[1]" o="n-s---fv-" u="21">
+      <f>te</f>
+    </t>
+    <t p="10" n="7" a="[1]" o="n-s---fv-" u="22">
+      <f>non</f>
+    </t>
+    <t p="10" n="8" a="[1]" o="n-s---fv-" u="23">
+      <f>mediocriter</f>
+    </t>
+    <t p="11" n="1" a="[1]" o="n-s---fv-" u="24">
+      <f>lacerat</f>
+    </t>
+    <t p="11" n="2" a="[1]" join="b" o="u--------" u="25">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="5">
+    <t p="11" n="3" a="[1]" o="n-s---mv-" u="1">
+      <f>Contubernales</f>
+    </t>
+    <t p="11" n="4" a="[1]" o="n-s---mv-" u="2">
+      <f>mei</f>
+    </t>
+    <t p="11" n="5" a="[1]" o="a-s---mv-" u="3">
+      <f>te</f>
+    </t>
+    <t p="12" n="1" a="[1]" o="n-s---mv-" u="4">
+      <f>salutant</f>
+    </t>
+    <t p="12" n="2" a="[1]" join="b" o="u--------" u="5">
+      <f>;</f>
+    </t>
+  </s>
+  <s n="6">
+    <t p="12" n="3" a="[1]" o="d--------" u="1">
+      <f>tu</f>
+    </t>
+    <t p="12" n="4" a="[1]" o="v3sao----" u="2">
+      <f>tuos</f>
+    </t>
+    <t p="12" n="5" a="[1]" o="v2pria---" u="3">
+      <f>salutes</f>
+    </t>
+    <t p="12" n="6" a="[1]" join="b" o="u--------" u="4">
+      <f>,</f>
+    </t>
+    <t p="12" n="7" a="[1]" o="n-s---fv-" u="5">
+      <f>rogo</f>
+    </t>
+    <t p="12" n="8" a="[1]" join="b" o="u--------" u="6">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="7">
+    <t p="13" n="1" a="[1]" o="d--------" u="1">
+      <f>ama</f>
+    </t>
+    <t p="13" n="2" a="[1]" o="d--------" u="2">
+      <f>nos</f>
+    </t>
+    <t p="13" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>,</f>
+    </t>
+    <t p="13" n="4" a="[1]" o="u--------" u="4">
+      <f>ut</f>
+    </t>
+    <t p="13" n="5" a="[1]" o="n-s---fv-" u="5">
+      <f>instituisti</f>
+    </t>
+    <t p="13" n="6" a="[1]" join="b" o="u--------" u="6">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="8">
+    <t p="14" n="1" a="[1]" o="--------" u="1">
+      <f>Uale</f>
+    </t>
+    <t p="14" n="2" a="[1]" join="b" o="u--------" u="2">
+      <f>.</f>
+    </t>
+  </s>
+</text>

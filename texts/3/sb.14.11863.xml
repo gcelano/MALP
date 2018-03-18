@@ -1,0 +1,132 @@
+<text text-id="sb.14.11863">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="39" n="1" a="[1]" o="n-s---mn-" u="1">
+      <f>Αὐτοκράτωρ</f>
+      <l>
+        <l1 r="ne-s---mn-">Αὐτοκράτωρ</l1>
+      </l>
+    </t>
+    <t p="39" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Καῖσαρ</f>
+      <l>
+        <l1 r="ne-s---mn-">Καῖσαρ</l1>
+      </l>
+    </t>
+    <t p="39" n="3" a="[1]" o="n-s---mn-" u="3">
+      <f>Λούκιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Λούκιος</l1>
+      </l>
+    </t>
+    <t p="39" n="4" a="[1]" o="n-s---mn-" u="4">
+      <f>Σεπτίμιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Σεπτίμιος</l1>
+      </l>
+    </t>
+    <t p="39" n="5" a="[1]" o="n-s---mn-" u="5">
+      <f>Σεουῆρος</f>
+    </t>
+    <t p="40" n="1" a="[1]" o="a-s---mn-" u="6">
+      <f>Εὐσεβὴς</f>
+      <l>
+        <l1 r="ae-s---mn-">εὐσεβής</l1>
+      </l>
+    </t>
+    <t p="40" n="2" a="[1]" o="n-s---mn-" u="7">
+      <f>Περτίναξ</f>
+    </t>
+    <t p="40" n="3" a="[1]" o="a-s---mn-" u="8">
+      <f>Σεβαστὸς</f>
+      <l>
+        <l1 r="ae-s---mn-">σεβαστός</l1>
+      </l>
+    </t>
+    <t p="40" n="4" a="[1]" o="a-s---mn-" u="9">
+      <f>Ἀραβικὸς</f>
+    </t>
+    <t p="40" n="5" a="[1]" o="a-s---mn-" u="10">
+      <f>Ἀδιαβηνικὸς</f>
+    </t>
+    <t p="41" n="1" a="[1]" o="a-s---mn-" u="11">
+      <f>Παρθικὸς</f>
+    </t>
+    <t p="41" n="2" a="[1]" o="a-s---mn-" u="12">
+      <f>μέγιστος</f>
+      <l>
+        <l2>μέγας</l2>
+      </l>
+    </t>
+    <t p="41" n="3" a="[1]" o="d--------" u="13">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="41" n="4" a="[1]" o="n-s---mn-" u="14">
+      <f>Αὐτοκράτωρ</f>
+      <l>
+        <l1 r="ne-s---mn-">Αὐτοκράτωρ</l1>
+      </l>
+    </t>
+    <t p="41" n="5" a="[1]" o="n-s---mn-" u="15">
+      <f>Καῖσαρ</f>
+      <l>
+        <l1 r="ne-s---mn-">Καῖσαρ</l1>
+      </l>
+    </t>
+    <t p="41" n="6" a="[1]" o="n-s---mn-" u="16">
+      <f>Μάρκος</f>
+      <l>
+        <l1 r="ne-s---mn-">Μάρκος</l1>
+      </l>
+    </t>
+    <t p="42" n="1" a="[1]" o="n-s---mn-" u="17">
+      <f>Αὐρήλιος</f>
+      <l>
+        <l1 r="ne-s---mn-">Αὐρήλιος</l1>
+      </l>
+    </t>
+    <t p="42" n="2" a="[1]" o="n-s---mn-" u="18">
+      <f>Ἀντωνῖνος</f>
+      <l>
+        <l1 r="ne-s---mn-">Ἀντωνῖνος</l1>
+      </l>
+    </t>
+    <t p="42" n="3" a="[1]" o="a-s---mn-" u="19">
+      <f>Εὐσεβὴς</f>
+      <l>
+        <l1 r="ae-s---mn-">εὐσεβής</l1>
+      </l>
+    </t>
+    <t p="42" n="4" a="[1]" o="a-s---mn-" u="20">
+      <f>Σεβαστὸς</f>
+      <l>
+        <l1 r="ae-s---mn-">σεβαστός</l1>
+      </l>
+    </t>
+    <t p="42" n="5" a="[1]" o="v3ppia---" u="21">
+      <f>λέγουσιν</f>
+      <l>
+        <l1 r="v-3ppia---">λέγω</l1>
+        <l2>λέγω</l2>
+        <l2>λέγω</l2>
+        <l2>λέγω</l2>
+      </l>
+    </t>
+    <t p="42" n="6" a="[1]" join="b" o="u--------" u="22">
+      <f>·</f>
+    </t>
+  </s>
+</text>

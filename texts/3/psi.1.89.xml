@@ -1,0 +1,140 @@
+<text text-id="psi.1.89">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="v3saip---" u="1">
+      <f>ἐδόθη</f>
+      <l>
+        <l1 r="v-3saip---">δίδωμι</l1>
+        <l2>δίδωμι</l2>
+      </l>
+    </t>
+    <t p="1" n="2" a="[1]" o="r--------" u="2">
+      <f>διὰ</f>
+      <l>
+        <l1 r="r---------">διά</l1>
+      </l>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---fd-" u="3">
+      <f>Κοσμᾶ</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="n-s---mg-" u="4">
+      <f>προνοητοῦ</f>
+    </t>
+    <t p="1" n="5" a="[1]" o="n-s---fg-" u="5">
+      <f>Τερύθεως</f>
+    </t>
+    <t p="1" n="6" a="[1]" o="r--------" u="6">
+      <f>εἰς</f>
+      <l>
+        <l1 r="r---------">εἰς</l1>
+        <l2>εἰς</l2>
+      </l>
+    </t>
+    <t p="1" n="7" a="[1]" o="l-s---ma-" u="7">
+      <f>τὸν</f>
+    </t>
+    <t p="1" n="8" a="[1]" o="a-s---ma-" u="8">
+      <f>ἅγιον</f>
+      <l>
+        <l1 r="a--s---ma-">ἅγιος</l1>
+        <l2>ἅγιος</l2>
+      </l>
+    </t>
+    <t p="1" n="9" a="[1]" o="v-prpana-" u="9">
+      <f>ἀββᾶ</f>
+    </t>
+    <t p="1" n="10" a="[1]" o="n-s---mv-" u="10">
+      <f>Ἑρμῆ</f>
+      <l>
+        <l1 r="ne-s---mv-">Ἑρμῆς</l1>
+      </l>
+    </t>
+    <t p="1" n="11" a="[1]" o="n-s---md-" u="11">
+      <f>λόγῳ</f>
+      <l>
+        <l1 r="n--s---md-">λόγος</l1>
+        <l2>λόγος</l2>
+      </l>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---fg-" u="12">
+      <f>προσφορᾶς</f>
+      <l>
+        <l1 r="n--s---fg-">προσφορά</l1>
+        <l2>προσφορά</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="r--------" u="13">
+      <f>ἐξ</f>
+      <l>
+        <l1 r="r---------">ἐκ</l1>
+        <l2>ἐκ</l2>
+        <l2>ἐξ</l2>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---ng-" u="14">
+      <f>ἔθους</f>
+      <l>
+        <l1 r="n--s---ng-">ἔθος</l1>
+        <l2>ἔθος</l2>
+      </l>
+    </t>
+    <t p="2" n="4" a="[1]" o="d--------" u="15">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="2" n="5" a="[1]" o="r--------" u="16">
+      <f>ἐπὶ</f>
+      <l>
+        <l1 r="r---------">ἐπί</l1>
+        <l2>ἐπί</l2>
+      </l>
+    </t>
+    <t p="2" n="6" a="[1]" o="l-s---fg-" u="17">
+      <f>τῆς</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="2" n="7" a="[1]" o="u--------" u="18">
+      <f>θ</f>
+    </t>
+    <t p="2" n="8" a="[1]" o="a-s---fg-" u="19">
+      <f>ἰνδικτίονος</f>
+    </t>
+    <t p="2" n="9" a="[1]" o="n-s---mg-" u="20">
+      <f>σίτου</f>
+      <l>
+        <l1 r="n--s---mg-">σῖτος</l1>
+        <l2>σῖτος</l2>
+      </l>
+    </t>
+    <t p="2" n="10" a="[1]" o="n-s---md-" u="21">
+      <f>καγκέλλῳ</f>
+    </t>
+    <t p="2" n="11" a="[1]" o="n-p---fa-" u="22">
+      <f>ἀρτάβας</f>
+      <l>
+        <l1 r="n--p---fa-">ἀρτάβη</l1>
+        <l2>ἀρτάβη</l2>
+      </l>
+    </t>
+    <t p="2" n="12" a="[1]" o="v-dappmn-" u="23">
+      <f>εἰκοσιπέντε</f>
+    </t>
+    <t p="2" n="13" a="[1]" join="b" o="u--------" u="24">
+      <f>·</f>
+    </t>
+  </s>
+</text>

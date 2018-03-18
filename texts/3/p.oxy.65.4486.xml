@@ -1,0 +1,126 @@
+<text text-id="p.oxy.65.4486">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1.1" n="1" a="[1]" o="a-s---fa-" u="1">
+      <f>ἀρχεφόδωι</f>
+    </t>
+    <t p="1.1" n="2" a="[1]" o="n-s---fa-" u="2">
+      <f>Τακόνα</f>
+    </t>
+    <t p="1.1" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="1.2" n="1" a="[1]" o="v2sama---" u="1">
+      <f>πέμψον</f>
+      <l>
+        <l1 r="v-2sama---">πέμπω</l1>
+        <l2>πέμπω</l2>
+      </l>
+    </t>
+    <t p="1.2" n="2" a="[1]" o="n-s---ma-" u="2">
+      <f>Κέφαλον</f>
+      <l>
+        <l1 r="ne-s---ma-">Κέφαλος</l1>
+      </l>
+    </t>
+    <t p="1.3" n="1" a="[1]" o="n-s---ma-" u="3">
+      <f>ὀνηλάτην</f>
+    </t>
+    <t p="1.3" n="2" a="[1]" o="v-sapamg-" u="4">
+      <f>ἐντυχόντος</f>
+      <l>
+        <l1 r="v--sapamg-">ἐντυγχάνω</l1>
+      </l>
+    </t>
+    <t p="1.4" n="1" a="[1]" o="n-s---mg-" u="5">
+      <f>Σαραπίωνος</f>
+      <l>
+        <l1 r="n--s---mg-">Σαραπίων</l1>
+      </l>
+    </t>
+    <t p="1.4" n="2" a="[1]" o="n-s---mg-" u="6">
+      <f>ἐνάρχου</f>
+    </t>
+    <t p="1.4" n="3" a="[1]" o="a-s---mg-" u="7">
+      <f>ἐξηγητοῦ</f>
+    </t>
+    <t p="1.4" n="4" a="[1]" join="b" o="u--------" u="8">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="3">
+    <t p="2.5" n="1" a="[1]" o="v1spia---" u="1">
+      <f>ἀρχεφόδωι</f>
+    </t>
+    <t p="2.5" n="2" a="[1]" o="a-p---fg-" u="2">
+      <f>Τυνχινφάγων</f>
+    </t>
+    <t p="2.5" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="4">
+    <t p="2.6" n="1" a="[1]" o="v2sama---" u="1">
+      <f>πέμψον</f>
+      <l>
+        <l1 r="v-2sama---">πέμπω</l1>
+        <l2>πέμπω</l2>
+      </l>
+    </t>
+    <t p="2.6" n="2" a="[1]" o="n-s---ma-" u="2">
+      <f>Κέλαον</f>
+    </t>
+    <t p="2.6" n="3" a="[1]" o="d--------" u="3">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="2.6" n="4" a="[1]" o="n-s---ma-" u="4">
+      <f>Ἑρμῆν</f>
+      <l>
+        <l1 r="ne-s---ma-">Ἑρμῆς</l1>
+      </l>
+    </t>
+    <t p="2.7" n="1" a="[1]" o="n-s---mg-" u="5">
+      <f>Ἑρμῆτος</f>
+    </t>
+    <t p="2.7" n="2" a="[1]" o="v-sapamg-" u="6">
+      <f>ἐντυχόντος</f>
+      <l>
+        <l1 r="v--sapamg-">ἐντυγχάνω</l1>
+      </l>
+    </t>
+    <t p="2.7" n="3" a="[1]" o="n-s---fn-" u="7">
+      <f>Σαρα</f>
+    </t>
+    <t p="2.8" n="1" a="[1]" o="n-s---mg-" u="8">
+      <f>πίωνος</f>
+    </t>
+    <t p="2.8" n="2" a="[1]" o="a-s---mg-" u="9">
+      <f>ἐνάρχου</f>
+    </t>
+    <t p="2.8" n="3" a="[1]" o="n-s---mg-" u="10">
+      <f>ἐξηγητοῦ</f>
+      <l>
+        <l1 r="n--s---mg-">ἐξηγητής</l1>
+        <l2>ἐξηγητής</l2>
+      </l>
+    </t>
+    <t p="2.8" n="4" a="[1]" join="b" o="u--------" u="11">
+      <f>.</f>
+    </t>
+  </s>
+</text>

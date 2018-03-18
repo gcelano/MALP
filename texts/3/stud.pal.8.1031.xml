@@ -1,0 +1,95 @@
+<text text-id="stud.pal.8.1031">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="r--------" u="1">
+      <f>στρ</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---fg-" u="2">
+      <f>Ἰωάννης</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="u--------" u="3">
+      <f>τ</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="u--------" u="4">
+      <f>κ</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-p---md-" u="5">
+      <f>παράσχ</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="a-s---ng-" u="6">
+      <f>ου</f>
+    </t>
+    <t p="2" n="5" a="[1]" o="r--------" u="7">
+      <f>ἀπὸ</f>
+      <l>
+        <l1 r="r---------">ἀπό</l1>
+      </l>
+    </t>
+    <t p="3" n="1" a="[1]" o="u--------" u="8">
+      <f>π</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="n-s---fa-" u="9">
+      <f>Καιν</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="d--------" u="10">
+      <f>οῦ</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="a-p---ng-" u="11">
+      <f>νοταρίων</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="u--------" u="12">
+      <f>τ</f>
+    </t>
+    <t p="4" n="2" a="[1]" o="n-s---fg-" u="13">
+      <f>τιμῆς</f>
+      <l>
+        <l1 r="n--s---fg-">τιμή</l1>
+        <l2>τιμή</l2>
+      </l>
+    </t>
+    <t p="4" n="3" a="[1]" o="n-p---na-" u="14">
+      <f>νομισμάτια</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="m--------" u="15">
+      <f>πεντήκοντα</f>
+      <l>
+        <l2>πεντήκοντα</l2>
+      </l>
+    </t>
+    <t p="5" n="2" a="[1]" o="a-p---na-" u="16">
+      <f>ῥυπαρὰ</f>
+      <l>
+        <l1 r="a--p---na-">ῥυπαρός</l1>
+      </l>
+    </t>
+    <t p="5" n="3" a="[1]" o="n-p---na-" u="17">
+      <f>νομισμάτια</f>
+    </t>
+    <t p="5" n="4" a="[1]" o="r--------" u="18">
+      <f>ν</f>
+    </t>
+    <t p="5" n="5" a="[2]" o="n-p---na-" u="19">
+      <f>ῥυπαρὰ</f>
+    </t>
+    <t p="5" n="6" a="[1]" o="a-p---na-" u="20">
+      <f>μόνα</f>
+      <l>
+        <l1 r="a--p---na-">μόνος</l1>
+        <l2>μόνος</l2>
+      </l>
+    </t>
+    <t p="5" n="7" a="[1]" join="b" o="u--------" u="21">
+      <f>.</f>
+    </t>
+  </s>
+</text>

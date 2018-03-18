@@ -1,0 +1,159 @@
+<text text-id="p.petr.3.34">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="A.1" n="1" a="[1]" o="n-s---nn-" u="1">
+      <f>προσάγγελμα</f>
+    </t>
+    <t p="A.1" n="2" a="[1]" o="n-s---md-" u="2">
+      <f>Σεμθεῖ</f>
+    </t>
+    <t p="A.1" n="3" a="[1]" o="v3spia---" u="3">
+      <f>κωμογραμματεῖ</f>
+    </t>
+    <t p="A.2" n="1" a="[1]" o="n-s---fg-" u="4">
+      <f>Λυσιμαχίδος</f>
+    </t>
+    <t p="A.2" n="2" a="[1]" o="r--------" u="5">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="A.2" n="3" a="[1]" o="n-s---mg-" u="6">
+      <f>Δωσιθέου</f>
+    </t>
+    <t p="A.2" n="4" a="[1]" o="n-s---mn-" u="7">
+      <f>Θράικος</f>
+    </t>
+    <t p="A.3" n="1" a="[1]" o="l-s---fg-" u="8">
+      <f>τῆς</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="A.3" n="2" a="[1]" o="v3saia---" u="9">
+      <f>ε</f>
+    </t>
+    <t p="A.3" n="3" a="[1]" o="n-s---fg-" u="10">
+      <f>ἱππαρχίας</f>
+      <l>
+        <l1 r="n--s---fg-">ἱππαρχία</l1>
+        <l2>ἱππαρχία</l2>
+      </l>
+    </t>
+    <t p="A.3" n="4" a="[1]" o="a-s---fg-" u="11">
+      <f>ἑκατονταρούρου</f>
+    </t>
+    <t p="A.3" n="5" a="[1]" join="b" o="u--------" u="12">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="A.3" n="6" a="[1]" o="v-papamn-" u="1">
+      <f>ἐπελθόντες</f>
+      <l>
+        <l1 r="v--papamn-">ἐπέρχομαι</l1>
+      </l>
+    </t>
+    <t p="A.3" n="7" a="[1]" o="p-p---mn-" u="2">
+      <f>τινὲς</f>
+    </t>
+    <t p="A.3" n="8" a="[1]" o="d--------" u="3">
+      <f>τῆι</f>
+      <l>
+        <l1 r="d---------">τῇ</l1>
+        <l2>τῇ</l2>
+      </l>
+    </t>
+    <t p="A.3" n="9" a="[1]" o="n-s---fd-" u="4">
+      <f>νυκτὶ</f>
+      <l>
+        <l1 r="n--s---fd-">νύξ</l1>
+      </l>
+    </t>
+    <t p="A.4" n="1" a="[1]" o="d--------" u="5">
+      <f>τῆι</f>
+      <l>
+        <l1 r="d---------">τῇ</l1>
+        <l2>τῇ</l2>
+      </l>
+    </t>
+    <t p="A.4" n="2" a="[1]" o="v3ppsa---" u="6">
+      <f>φερούσηι</f>
+    </t>
+    <t p="A.4" n="3" a="[1]" o="r--------" u="7">
+      <f>εἰς</f>
+      <l>
+        <l1 r="r---------">εἰς</l1>
+        <l2>εἰς</l2>
+      </l>
+    </t>
+    <t p="A.4" n="4" a="[1]" o="l-s---fa-" u="8">
+      <f>τὴν</f>
+    </t>
+    <t p="A.4" n="5" a="[1]" o="--------" u="9">
+      <f>β</f>
+    </t>
+    <t p="A.4" n="6" a="[1]" o="l-s---mg-" u="10">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="A.4" n="7" a="[1]" o="v-sapamn-" u="11">
+      <f>Παχὼν</f>
+    </t>
+    <t p="A.5" n="1" a="[1]" o="l-s---fa-" u="12">
+      <f>τὴν</f>
+    </t>
+    <t p="A.5" n="2" a="[1]" o="n-s---fa-" u="13">
+      <f>ἅλω</f>
+      <l>
+        <l1 r="n--s---fa-">ἅλως</l1>
+      </l>
+    </t>
+    <t p="A.5" n="3" a="[2]" o="l-s---fa-" u="14">
+      <f>τὴν</f>
+    </t>
+    <t p="A.5" n="4" a="[1]" o="a-s---fa-" u="15">
+      <f>ἱππικὴν</f>
+      <l>
+        <l1 r="a--s---fa-">ἱππικός</l1>
+      </l>
+    </t>
+    <t p="A.5" n="5" a="[1]" o="d--------" u="16">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="A.5" n="6" a="[1]" o="v3piia---" u="17">
+      <f>ἐνεπύρισάν</f>
+    </t>
+    <t p="A.5" n="7" a="[1]" o="p-s---mg-" u="18">
+      <f>μου</f>
+    </t>
+    <t p="A.5" n="8" a="[3]" o="l-s---fa-" u="19">
+      <f>τὴν</f>
+    </t>
+    <t p="A.6" n="1" a="[1]" o="n-s---fa-" u="20">
+      <f>ἅλω</f>
+      <l>
+        <l1 r="n--s---fa-">ἅλως</l1>
+      </l>
+    </t>
+    <t p="A.6" n="2" a="[1]" join="b" o="u--------" u="21">
+      <f>.</f>
+    </t>
+  </s>
+</text>

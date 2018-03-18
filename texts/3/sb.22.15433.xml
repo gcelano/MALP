@@ -1,0 +1,39 @@
+<text text-id="sb.22.15433">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="2" n="1" a="[1]" o="v3saia---" u="1">
+      <f>ἐβίωσεν</f>
+      <l>
+        <l1 r="v-3saia---">βιόω</l1>
+        <l2>βιόω</l2>
+      </l>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-p---ng-" u="2">
+      <f>ἐτῶν</f>
+      <l>
+        <l1 r="n--p---ng-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="3" n="2" a="[1]" o="g--------" u="3">
+      <f>κε</f>
+      <l>
+        <l1 r="gm--------">ἄν</l1>
+        <l2>ἄν</l2>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" join="b" o="u--------" u="4">
+      <f>.</f>
+    </t>
+  </s>
+</text>

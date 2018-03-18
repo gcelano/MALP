@@ -1,0 +1,89 @@
+<text text-id="sb.12.11237">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="d--------" u="1">
+      <f>πα</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="v--pna---" u="2">
+      <f>βραδύνειν</f>
+      <l>
+        <l1 r="v---pna---">βραδύνω</l1>
+        <l2>βραδύνω</l2>
+      </l>
+    </t>
+    <t p="2" n="2" a="[1]" o="p-p---na-" u="3">
+      <f>τά</f>
+      <l>
+        <l1 r="pa-p---na-">ὁ</l1>
+        <l1 r="pr-p---na-">ὅς</l1>
+      </l>
+    </t>
+    <t p="3" n="1" a="[1]" o="a-s---ma-" u="4">
+      <f>χιον</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="v3sria---" u="5">
+      <f>παραγεν</f>
+    </t>
+    <t p="4" n="1" a="[1]" o="c--------" u="6">
+      <f>καὶ</f>
+      <l>
+        <l1 r="c---------">καί</l1>
+        <l2>καί</l2>
+      </l>
+    </t>
+    <t p="4" n="2" a="[1]" o="p-s---mn-" u="7">
+      <f>σὺ</f>
+    </t>
+    <t p="4" n="3" a="[1]" o="d--------" u="8">
+      <f>οὐκ</f>
+      <l>
+        <l1 r="d---------">οὐ</l1>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+        <l2>οὐ</l2>
+      </l>
+    </t>
+    <t p="4" n="4" a="[1]" o="v2spia---" u="9">
+      <f>ἀγνοεῖς</f>
+      <l>
+        <l1 r="v-2spia---">ἀγνοέω</l1>
+        <l2>ἀγνοέω</l2>
+      </l>
+    </t>
+    <t p="4" n="5" a="[1]" o="l-s---fa-" u="10">
+      <f>τὴν</f>
+    </t>
+    <t p="5" n="1" a="[1]" o="n-s---fa-" u="11">
+      <f>λέσχην</f>
+      <l>
+        <l1 r="n--s---fa-">λέσχη</l1>
+        <l2>λέσχη</l2>
+      </l>
+    </t>
+    <t p="5" n="2" a="[1]" join="b" o="u--------" u="12">
+      <f>.</f>
+    </t>
+  </s>
+</text>

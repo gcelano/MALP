@@ -1,0 +1,63 @@
+<text text-id="p.tebt.2.437">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.00" n="1" a="[1]" o="v--pna---" u="1">
+      <f>γινώσκειν</f>
+      <l>
+        <l1 r="v---pna---">γιγνώσκω</l1>
+        <l2>γιγνώσκω</l2>
+      </l>
+    </t>
+    <t p="r.00" n="2" a="[1]" o="p-s---ma-" u="2">
+      <f>σε</f>
+    </t>
+    <t p="r.00" n="3" a="[1]" o="v1spia---" u="3">
+      <f>θέλω</f>
+      <l>
+        <l1 r="v-1spia---">ἐθέλω</l1>
+        <l2>ἐθέλω</l2>
+      </l>
+    </t>
+    <t p="r.00" n="4" a="[1]" o="c--------" u="4">
+      <f>ὅτι</f>
+      <l>
+        <l1 r="c---------">ὅτι2</l1>
+        <l2>ὅτι</l2>
+      </l>
+    </t>
+    <t p="r.00" n="5" a="[1]" o="r--------" u="5">
+      <f>κατὰ</f>
+      <l>
+        <l1 r="r---------">κατά</l1>
+        <l2>κατά</l2>
+      </l>
+    </t>
+    <t p="r.00" n="6" a="[1]" o="n-s---ma-" u="6">
+      <f>πλοῦν</f>
+      <l>
+        <l1 r="n--s---ma-">πλόος</l1>
+        <l2>πλόος</l2>
+      </l>
+    </t>
+    <t p="r.00" n="7" a="[1]" o="v1saia---" u="7">
+      <f>ἐκινδύνευσα</f>
+      <l>
+        <l1 r="v-1saia---">κινδυνεύω</l1>
+        <l2>κινδυνεύω</l2>
+      </l>
+    </t>
+    <t p="r.00" n="8" a="[1]" join="b" o="u--------" u="8">
+      <f>.</f>
+    </t>
+  </s>
+</text>

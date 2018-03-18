@@ -1,0 +1,75 @@
+<text text-id="p.petra.3.34">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="r.1" n="1" a="[1]" o="n-s---mg-" u="1">
+      <f>Πανολβίου</f>
+    </t>
+    <t p="r.1" n="2" a="[1]" o="r--------" u="2">
+      <f>κ</f>
+    </t>
+    <t p="r.1" n="3" a="[1]" o="a-s---mg-" u="3">
+      <f>ωρου</f>
+    </t>
+    <t p="r.1" n="4" a="[1]" o="c--------" u="4">
+      <f>αδ</f>
+    </t>
+    <t p="r.2" n="1" a="[1]" o="n-s---mn-" u="5">
+      <f>πεντεκαιδεκάτης</f>
+    </t>
+    <t p="r.2" n="2" a="[1]" o="n-s---mn-" u="6">
+      <f>πρώτης</f>
+    </t>
+    <t p="r.2" n="3" a="[1]" o="l-p---mg-" u="7">
+      <f>τῶν</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="r.2" n="4" a="[1]" o="a-p---mg-" u="8">
+      <f>ἰνδικτιόνων</f>
+    </t>
+    <t p="r.2" n="5" a="[1]" o="n-s---mg-" u="9">
+      <f>χρυσοῦ</f>
+      <l>
+        <l1 r="n--s---mg-">χρυσός</l1>
+        <l2>χρυσός</l2>
+      </l>
+    </t>
+    <t p="r.2" n="6" a="[1]" o="n-p---na-" u="10">
+      <f>νομισμάτια</f>
+    </t>
+    <t p="r.3" n="1" a="[1]" o="a-s---mds" u="11">
+      <f>μεγαλοπρεπεστάτῳ</f>
+      <l>
+        <l1 r="a--s---mds">μεγαλοπρεπής</l1>
+        <l2>μεγαλοπρεπής</l2>
+      </l>
+    </t>
+    <t p="r.3" n="2" a="[1]" o="n-s---mg-" u="12">
+      <f>Ἰου</f>
+    </t>
+    <t p="r.3" n="3" a="[1]" o="d--------" u="13">
+      <f>κου</f>
+      <l>
+        <l1 r="dx--------">που</l1>
+        <l2>πού</l2>
+      </l>
+    </t>
+    <t p="r.3" n="4" a="[1]" o="n-s---nd-" u="14">
+      <f>σωρι</f>
+    </t>
+    <t p="r.3" n="5" a="[1]" join="b" o="u--------" u="15">
+      <f>.</f>
+    </t>
+  </s>
+</text>

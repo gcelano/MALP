@@ -1,0 +1,67 @@
+<text text-id="sb.1.1941">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="v2sama---" u="1">
+      <f>δὸς</f>
+      <l>
+        <l1 r="v-2sama---">δίδωμι</l1>
+      </l>
+    </t>
+    <t p="1" n="2" a="[1]" o="a-s---md-" u="2">
+      <f>Ἀλλαδίῳ</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="a-s---md-" u="3">
+      <f>σχολαστικῷ</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="d--------" u="4">
+      <f>κρέως</f>
+    </t>
+    <t p="1" n="5" a="[1]" o="n-p---fa-" u="5">
+      <f>λίτρας</f>
+      <l>
+        <l1 r="n--p---fa-">λίτρα</l1>
+        <l2>λίτρα</l2>
+      </l>
+    </t>
+    <t p="1" n="6" a="[1]" o="n-p---fa-" u="6">
+      <f>τέσσαρας</f>
+      <l>
+        <l2>τέσσαρες</l2>
+      </l>
+    </t>
+    <t p="1" n="7" a="[1]" o="d--------" u="7">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="1" n="8" a="[1]" o="n-p---na-" u="8">
+      <f>ὀνύχια</f>
+    </t>
+    <t p="1" n="9" a="[1]" o="a--------" u="9">
+      <f>δύο</f>
+    </t>
+    <t p="1" n="10" a="[2]" o="d--------" u="10">
+      <f>καὶ</f>
+      <l>
+        <l1 r="d---------">καί</l1>
+      </l>
+    </t>
+    <t p="1" n="11" a="[1]" o="a-s---nn-" u="11">
+      <f>κοιλίδιον</f>
+    </t>
+    <t p="1" n="12" a="[1]" join="b" o="u--------" u="12">
+      <f>.</f>
+    </t>
+  </s>
+</text>

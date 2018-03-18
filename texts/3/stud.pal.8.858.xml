@@ -1,0 +1,90 @@
+<text text-id="stud.pal.8.858">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="v.1" n="1" a="[1]" o="a-s---mn-" u="1">
+      <f>ος</f>
+    </t>
+    <t p="v.1" n="2" a="[1]" o="n-s---mn-" u="2">
+      <f>Ἀββᾶ</f>
+    </t>
+    <t p="v.1" n="3" a="[1]" o="d--------" u="3">
+      <f>Ἰσὰκ</f>
+    </t>
+    <t p="v.1" n="4" a="[1]" o="r--------" u="4">
+      <f>ὑπὲρ</f>
+      <l>
+        <l1 r="r---------">ὑπέρ</l1>
+      </l>
+    </t>
+    <t p="v.1" n="5" a="[1]" o="n-s---ng-" u="5">
+      <f>μέρους</f>
+      <l>
+        <l1 r="n--s---ng-">μέρος</l1>
+        <l2>μέρος</l2>
+      </l>
+    </t>
+    <t p="v.1" n="6" a="[1]" o="a-p---ng-" u="6">
+      <f>χρυσικῶν</f>
+    </t>
+    <t p="v.2" n="1" a="[1]" o="n-s---mn-" u="7">
+      <f>τετάρτης</f>
+    </t>
+    <t p="v.2" n="2" a="[1]" o="a-s---ngc" u="8">
+      <f>ἰνδικτίονος</f>
+    </t>
+    <t p="v.2" n="3" a="[1]" o="n-s---mn-" u="9">
+      <f>Σεβεννύτων</f>
+    </t>
+    <t p="v.2" n="4" a="[1]" o="a-s---mg-" u="10">
+      <f>χρυσίου</f>
+      <l>
+        <l1 r="a--s---mg-">χρύσεος</l1>
+        <l2>χρύσεος</l2>
+      </l>
+    </t>
+    <t p="v.2" n="5" a="[1]" o="n-s---mg-" u="11">
+      <f>νομισματίου</f>
+    </t>
+    <t p="v.3" n="1" a="[1]" o="a-s---ma-" u="12">
+      <f>δίμοιρον</f>
+      <l>
+        <l1 r="a--s---ma-">δίμοιρος</l1>
+        <l2>δίμοιρος</l2>
+      </l>
+    </t>
+    <t p="v.3" n="2" a="[1]" o="a-s---ma-" u="13">
+      <f>ῥυπαρὸν</f>
+      <l>
+        <l1 r="a--s---ma-">ῥυπαρός</l1>
+      </l>
+    </t>
+    <t p="v.3" n="3" a="[1]" o="v3spie---" u="14">
+      <f>γίνεται</f>
+      <l>
+        <l2>γίγνομαι</l2>
+      </l>
+    </t>
+    <t p="v.3" n="4" a="[1]" o="n-s---ng-" u="15">
+      <f>νομισματίου</f>
+    </t>
+    <t p="v.3" n="5" a="[1]" o="r--------" u="16">
+      <f>𐅷</f>
+    </t>
+    <t p="v.3" n="6" a="[1]" o="n-s---ma-" u="17">
+      <f>ῥυπαρόν</f>
+    </t>
+    <t p="v.3" n="7" a="[1]" join="b" o="u--------" u="18">
+      <f>.</f>
+    </t>
+  </s>
+</text>

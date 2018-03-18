@@ -1,0 +1,76 @@
+<text text-id="stud.pal.20.185">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---md-" u="1">
+      <f>Φαῶφι</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="--------" u="2">
+      <f>β</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---mn-" u="3">
+      <f>μερισμὸς</f>
+      <l>
+        <l1 r="n--s---mn-">μερισμός</l1>
+      </l>
+    </t>
+    <t p="1" n="4" a="[1]" o="n-s---mn-" u="4">
+      <f>ἑνδεκάτης</f>
+    </t>
+    <t p="1" n="5" a="[1]" o="n-s---mg-" u="5">
+      <f>ἰνδικτίονος</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="n-s---fn-" u="6">
+      <f>Πανση</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="a-s---mg-" u="7">
+      <f>Νααραοῦς</f>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---mg-" u="8">
+      <f>Πεκυσίου</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="n-s---na-" u="9">
+      <f>νομισμάτιον</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="a-s---na-" u="10">
+      <f>ἓν</f>
+    </t>
+    <t p="3" n="3" a="[1]" o="a-s---na-" u="11">
+      <f>ῥυπαρὸν</f>
+      <l>
+        <l1 r="a--s---na-">ῥυπαρός</l1>
+      </l>
+    </t>
+    <t p="3" n="4" a="[2]" o="n-s---na-" u="12">
+      <f>νομισμάτιον</f>
+    </t>
+    <t p="3" n="5" a="[1]" o="--------" u="13">
+      <f>α</f>
+    </t>
+    <t p="3" n="6" a="[2]" o="a-s---na-" u="14">
+      <f>ῥυπαρὸν</f>
+      <l>
+        <l1 r="a--s---na-">ῥυπαρός</l1>
+      </l>
+    </t>
+    <t p="3" n="7" a="[1]" o="a-s---na-" u="15">
+      <f>μόνον</f>
+      <l>
+        <l1 r="a--s---na-">μόνος</l1>
+        <l2>μόνος</l2>
+      </l>
+    </t>
+    <t p="3" n="8" a="[1]" join="b" o="u--------" u="16">
+      <f>.</f>
+    </t>
+  </s>
+</text>

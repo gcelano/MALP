@@ -1,0 +1,82 @@
+<text text-id="sb.5.7736">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="r--------" u="1">
+      <f>εν</f>
+    </t>
+    <t p="1" n="2" a="[1]" o="n-s---fn-" u="2">
+      <f>ανπισαϊς</f>
+    </t>
+    <t p="1" n="3" a="[1]" o="n-s---mn-" u="3">
+      <f>Πετεμίνιος</f>
+    </t>
+    <t p="1" n="4" a="[1]" o="n-s---mg-" u="4">
+      <f>Πετε</f>
+    </t>
+    <t p="2" n="1" a="[1]" o="a-s---mn-" u="5">
+      <f>μίνιος</f>
+    </t>
+    <t p="2" n="2" a="[1]" o="l-s---mg-" u="6">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="2" n="3" a="[1]" o="n-s---mg-" u="7">
+      <f>Ψενθασιῆτος</f>
+    </t>
+    <t p="2" n="4" a="[1]" o="v3piia---" u="8">
+      <f>ἐτελεύ</f>
+    </t>
+    <t p="3" n="1" a="[1]" o="v3saia---" u="9">
+      <f>τησεν</f>
+    </t>
+    <t p="3" n="2" a="[1]" o="l-s---mg-" u="10">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="3" n="3" a="[1]" o="d--------" u="11">
+      <f>λβ</f>
+    </t>
+    <t p="3" n="4" a="[1]" o="n-s---ng-" u="12">
+      <f>ἔτους</f>
+      <l>
+        <l1 r="n--s---ng-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="3" n="5" a="[1]" o="d--------" u="13">
+      <f>ὡς</f>
+      <l>
+        <l1 r="dr--------">ὡς</l1>
+        <l1 r="d---------">ὡς</l1>
+        <l2>ὡς</l2>
+      </l>
+    </t>
+    <t p="3" n="6" a="[1]" o="n-p---ng-" u="14">
+      <f>ἐτῶν</f>
+      <l>
+        <l1 r="n--p---ng-">ἔτος</l1>
+        <l2>ἔτος</l2>
+      </l>
+    </t>
+    <t p="3" n="7" a="[1]" o="r--------" u="15">
+      <f>πθ</f>
+    </t>
+    <t p="3" n="8" a="[1]" join="b" o="u--------" u="16">
+      <f>.</f>
+    </t>
+  </s>
+</text>

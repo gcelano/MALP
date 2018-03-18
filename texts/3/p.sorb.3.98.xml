@@ -1,0 +1,101 @@
+<text text-id="p.sorb.3.98">
+  <sentence n="position in the document">
+    <token p="passage-level id" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks">
+      <wordForm>word form of the token</wordForm>
+      <lemma>
+        <l1 r="POS tag as in PerseusUnderPhilologic">as many l1 elements as the lemmas found in PerseusUnderPhilologic for 
+              the relevant word form AND morphological analysis</l1>
+        <l2>as many l2 elements as the lemmas found in Morpheus for 
+              the relevant word form AND morphological analysis</l2>
+      </lemma>
+    </token>
+  </sentence>
+  <s n="1">
+    <t p="A.r.1" n="1" a="[1]" o="n-s---md-" u="1">
+      <f>Ἀριστάρχωι</f>
+    </t>
+    <t p="A.r.1" n="2" a="[1]" o="v--pna---" u="2">
+      <f>χαίρειν</f>
+      <l>
+        <l1 r="v---pna---">χαίρω</l1>
+        <l2>χαίρω</l2>
+      </l>
+    </t>
+    <t p="A.r.1" n="3" a="[1]" join="b" o="u--------" u="3">
+      <f>.</f>
+    </t>
+  </s>
+  <s n="2">
+    <t p="A.r.1" n="4" a="[1]" o="v3sria---" u="1">
+      <f>γέγραφ</f>
+    </t>
+    <t p="A.r.2" n="1" a="[1]" o="n-s---mv-" u="2">
+      <f>τα</f>
+    </t>
+    <t p="A.r.2" n="2" a="[1]" o="r--------" u="3">
+      <f>παρὰ</f>
+      <l>
+        <l1 r="r---------">παρά</l1>
+      </l>
+    </t>
+    <t p="A.r.2" n="3" a="[1]" o="n-s---mg-" u="4">
+      <f>Σίμωνος</f>
+      <l>
+        <l1 r="ne-s---mg-">Σίμων</l1>
+      </l>
+    </t>
+    <t p="A.r.2" n="4" a="[1]" o="l-s---mg-" u="5">
+      <f>τοῦ</f>
+      <l>
+        <l2>ὁ</l2>
+      </l>
+    </t>
+    <t p="A.r.2" n="5" a="[1]" o="n-s---mg-" u="6">
+      <f>γεωμέτρου</f>
+      <l>
+        <l1 r="n--s---mg-">γεωμέτρης</l1>
+        <l2>γεωμέτρης</l2>
+      </l>
+    </t>
+    <t p="A.r.3" n="1" a="[1]" o="n-p---md-" u="7">
+      <f>τόποις</f>
+      <l>
+        <l1 r="n--p---md-">τόπος</l1>
+        <l2>τόπος</l2>
+      </l>
+    </t>
+    <t p="A.r.3" n="2" a="[1]" o="c--------" u="8">
+      <f>ὅπως</f>
+      <l>
+        <l1 r="c---------">ὅπως</l1>
+        <l2>ὅπως</l2>
+      </l>
+    </t>
+    <t p="A.r.3" n="3" a="[1]" o="v-pppemn-" u="9">
+      <f>ἐπισκεψάμενοι</f>
+    </t>
+    <t p="A.r.3" n="4" a="[1]" o="r--------" u="10">
+      <f>μετά</f>
+      <l>
+        <l1 r="r---------">μετά</l1>
+        <l2>μετά</l2>
+      </l>
+    </t>
+    <t p="A.r.3" n="5" a="[1]" o="g--------" u="11">
+      <f>τε</f>
+      <l>
+        <l1 r="g---------">τε</l1>
+        <l2>τε</l2>
+      </l>
+    </t>
+    <t p="A.r.3" n="6" a="[1]" o="u--------" u="12">
+      <f>δ</f>
+    </t>
+    <t p="A.r.4" n="1" a="[1]" o="n-s---md-" u="13">
+      <f>αὐτῶι</f>
+    </t>
+    <t p="A.r.4" n="2" a="[1]" join="b" o="u--------" u="14">
+      <f>.</f>
+    </t>
+  </s>
+</text>
